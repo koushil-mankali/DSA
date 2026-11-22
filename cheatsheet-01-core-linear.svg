@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1480" height="660" viewBox="0 0 1480 660" font-family="-apple-system,Segoe UI,Roboto,sans-serif">
+<rect width="100%" height="100%" fill="#f8fafc"/>
+<rect width="1480" height="80" fill="#7c2d12"/>
+<text x="30" y="50" font-size="32" font-weight="700" fill="white">Core: Arrays, Strings and Linear Structures</text>
+<text x="30" y="74" font-size="14" fill="#cbd5e1">11 concepts - 01-core-linear</text>
+<rect x="30" y="110" width="460" height="110" rx="10" fill="#fed7aa" stroke="#7c2d12" stroke-width="1.5"/>
+<rect x="30" y="110" width="46" height="110" rx="10" fill="#7c2d12"/>
+<text x="53" y="171.0" font-size="18" font-weight="700" fill="white" text-anchor="middle">01</text>
+<text x="88" y="148" font-size="15" font-weight="700" fill="#0f172a">Arrays</text>
+<text x="88" y="172" font-size="12" fill="#334155">Kadane, Dutch flag, next permutation and other array class</text>
+<rect x="510" y="110" width="460" height="110" rx="10" fill="#fed7aa" stroke="#7c2d12" stroke-width="1.5"/>
+<rect x="510" y="110" width="46" height="110" rx="10" fill="#7c2d12"/>
+<text x="533" y="171.0" font-size="18" font-weight="700" fill="white" text-anchor="middle">02</text>
+<text x="568" y="148" font-size="15" font-weight="700" fill="#0f172a">Sorting</text>
+<text x="568" y="172" font-size="12" fill="#334155">All the sorts, when to use which, and sorting-based proble</text>
+<rect x="990" y="110" width="460" height="110" rx="10" fill="#fed7aa" stroke="#7c2d12" stroke-width="1.5"/>
+<rect x="990" y="110" width="46" height="110" rx="10" fill="#7c2d12"/>
+<text x="1013" y="171.0" font-size="18" font-weight="700" fill="white" text-anchor="middle">03</text>
+<text x="1048" y="148" font-size="15" font-weight="700" fill="#0f172a">Hashing (Hash Map and Hash Set)</text>
+<text x="1048" y="172" font-size="12" fill="#334155">Frequency maps and prefix-hash tricks</text>
+<rect x="30" y="240" width="460" height="110" rx="10" fill="#fed7aa" stroke="#7c2d12" stroke-width="1.5"/>
+<rect x="30" y="240" width="46" height="110" rx="10" fill="#7c2d12"/>
+<text x="53" y="301.0" font-size="18" font-weight="700" fill="white" text-anchor="middle">04</text>
+<text x="88" y="278" font-size="15" font-weight="700" fill="#0f172a">Strings</text>
+<text x="88" y="302" font-size="12" fill="#334155">Palindromes, anagrams, parsing and string manipulation</text>
+<rect x="510" y="240" width="460" height="110" rx="10" fill="#fed7aa" stroke="#7c2d12" stroke-width="1.5"/>
+<rect x="510" y="240" width="46" height="110" rx="10" fill="#7c2d12"/>
+<text x="533" y="301.0" font-size="18" font-weight="700" fill="white" text-anchor="middle">05</text>
+<text x="568" y="278" font-size="15" font-weight="700" fill="#0f172a">Two Pointers</text>
+<text x="568" y="302" font-size="12" fill="#334155">Opposite-end and same-direction pointers</text>
+<rect x="990" y="240" width="460" height="110" rx="10" fill="#fed7aa" stroke="#7c2d12" stroke-width="1.5"/>
+<rect x="990" y="240" width="46" height="110" rx="10" fill="#7c2d12"/>
+<text x="1013" y="301.0" font-size="18" font-weight="700" fill="white" text-anchor="middle">06</text>
+<text x="1048" y="278" font-size="15" font-weight="700" fill="#0f172a">Sliding Window</text>
+<text x="1048" y="302" font-size="12" fill="#334155">Fixed and variable windows, and the at-most-K trick</text>
+<rect x="30" y="370" width="460" height="110" rx="10" fill="#fed7aa" stroke="#7c2d12" stroke-width="1.5"/>
+<rect x="30" y="370" width="46" height="110" rx="10" fill="#7c2d12"/>
+<text x="53" y="431.0" font-size="18" font-weight="700" fill="white" text-anchor="middle">07</text>
+<text x="88" y="408" font-size="15" font-weight="700" fill="#0f172a">Prefix Sum and Difference Arrays</text>
+<text x="88" y="432" font-size="12" fill="#334155">Prefix sums, difference arrays and 2D prefix sums</text>
+<rect x="510" y="370" width="460" height="110" rx="10" fill="#fed7aa" stroke="#7c2d12" stroke-width="1.5"/>
+<rect x="510" y="370" width="46" height="110" rx="10" fill="#7c2d12"/>
+<text x="533" y="431.0" font-size="18" font-weight="700" fill="white" text-anchor="middle">08</text>
+<text x="568" y="408" font-size="15" font-weight="700" fill="#0f172a">Binary Search</text>
+<text x="568" y="432" font-size="12" fill="#334155">Classic search, rotated arrays and search on the answer</text>
+<rect x="990" y="370" width="460" height="110" rx="10" fill="#fed7aa" stroke="#7c2d12" stroke-width="1.5"/>
+<rect x="990" y="370" width="46" height="110" rx="10" fill="#7c2d12"/>
+<text x="1013" y="431.0" font-size="18" font-weight="700" fill="white" text-anchor="middle">09</text>
+<text x="1048" y="408" font-size="15" font-weight="700" fill="#0f172a">Linked List</text>
+<text x="1048" y="432" font-size="12" fill="#334155">Reversal, fast/slow pointers, merging and cycles</text>
+<rect x="30" y="500" width="460" height="110" rx="10" fill="#fed7aa" stroke="#7c2d12" stroke-width="1.5"/>
+<rect x="30" y="500" width="46" height="110" rx="10" fill="#7c2d12"/>
+<text x="53" y="561.0" font-size="18" font-weight="700" fill="white" text-anchor="middle">10</text>
+<text x="88" y="538" font-size="15" font-weight="700" fill="#0f172a">Stack and Queue</text>
+<text x="88" y="562" font-size="12" fill="#334155">Parentheses, expression evaluation and design with stacks</text>
+<rect x="510" y="500" width="460" height="110" rx="10" fill="#fed7aa" stroke="#7c2d12" stroke-width="1.5"/>
+<rect x="510" y="500" width="46" height="110" rx="10" fill="#7c2d12"/>
+<text x="533" y="561.0" font-size="18" font-weight="700" fill="white" text-anchor="middle">11</text>
+<text x="568" y="538" font-size="15" font-weight="700" fill="#0f172a">Monotonic Stack and Monotonic Queu</text>
+<text x="568" y="562" font-size="12" fill="#334155">Next greater element, histograms and window maximum</text>
+</svg>

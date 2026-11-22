@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1480" height="530" viewBox="0 0 1480 530" font-family="-apple-system,Segoe UI,Roboto,sans-serif">
+<rect width="100%" height="100%" fill="#f8fafc"/>
+<rect width="1480" height="80" fill="#0c4a6e"/>
+<text x="30" y="50" font-size="32" font-weight="700" fill="white">Graphs</text>
+<text x="30" y="74" font-size="14" fill="#cbd5e1">8 concepts - 04-graphs</text>
+<rect x="30" y="110" width="460" height="110" rx="10" fill="#bae6fd" stroke="#0c4a6e" stroke-width="1.5"/>
+<rect x="30" y="110" width="46" height="110" rx="10" fill="#0c4a6e"/>
+<text x="53" y="171.0" font-size="18" font-weight="700" fill="white" text-anchor="middle">01</text>
+<text x="88" y="148" font-size="15" font-weight="700" fill="#0f172a">Graph Basics, BFS and DFS</text>
+<text x="88" y="172" font-size="12" fill="#334155">Representations, BFS, DFS and connected components</text>
+<rect x="510" y="110" width="460" height="110" rx="10" fill="#bae6fd" stroke="#0c4a6e" stroke-width="1.5"/>
+<rect x="510" y="110" width="46" height="110" rx="10" fill="#0c4a6e"/>
+<text x="533" y="171.0" font-size="18" font-weight="700" fill="white" text-anchor="middle">02</text>
+<text x="568" y="148" font-size="15" font-weight="700" fill="#0f172a">Grid and Islands</text>
+<text x="568" y="172" font-size="12" fill="#334155">Flood fill, multi-source BFS and island problems</text>
+<rect x="990" y="110" width="460" height="110" rx="10" fill="#bae6fd" stroke="#0c4a6e" stroke-width="1.5"/>
+<rect x="990" y="110" width="46" height="110" rx="10" fill="#0c4a6e"/>
+<text x="1013" y="171.0" font-size="18" font-weight="700" fill="white" text-anchor="middle">03</text>
+<text x="1048" y="148" font-size="15" font-weight="700" fill="#0f172a">Cycle Detection and Bipartite Grap</text>
+<text x="1048" y="172" font-size="12" fill="#334155">Cycle detection and two-colouring</text>
+<rect x="30" y="240" width="460" height="110" rx="10" fill="#bae6fd" stroke="#0c4a6e" stroke-width="1.5"/>
+<rect x="30" y="240" width="46" height="110" rx="10" fill="#0c4a6e"/>
+<text x="53" y="301.0" font-size="18" font-weight="700" fill="white" text-anchor="middle">04</text>
+<text x="88" y="278" font-size="15" font-weight="700" fill="#0f172a">Topological Sort</text>
+<text x="88" y="302" font-size="12" fill="#334155">Kahn's algorithm, DFS order and dependency problems</text>
+<rect x="510" y="240" width="460" height="110" rx="10" fill="#bae6fd" stroke="#0c4a6e" stroke-width="1.5"/>
+<rect x="510" y="240" width="46" height="110" rx="10" fill="#0c4a6e"/>
+<text x="533" y="301.0" font-size="18" font-weight="700" fill="white" text-anchor="middle">05</text>
+<text x="568" y="278" font-size="15" font-weight="700" fill="#0f172a">Shortest Paths</text>
+<text x="568" y="302" font-size="12" fill="#334155">BFS, 0-1 BFS, Dijkstra, Bellman-Ford and Floyd-Warshall</text>
+<rect x="990" y="240" width="460" height="110" rx="10" fill="#bae6fd" stroke="#0c4a6e" stroke-width="1.5"/>
+<rect x="990" y="240" width="46" height="110" rx="10" fill="#0c4a6e"/>
+<text x="1013" y="301.0" font-size="18" font-weight="700" fill="white" text-anchor="middle">06</text>
+<text x="1048" y="278" font-size="15" font-weight="700" fill="#0f172a">Union-Find (Disjoint Set Union)</text>
+<text x="1048" y="302" font-size="12" fill="#334155">DSU with path compression and union by size</text>
+<rect x="30" y="370" width="460" height="110" rx="10" fill="#bae6fd" stroke="#0c4a6e" stroke-width="1.5"/>
+<rect x="30" y="370" width="46" height="110" rx="10" fill="#0c4a6e"/>
+<text x="53" y="431.0" font-size="18" font-weight="700" fill="white" text-anchor="middle">07</text>
+<text x="88" y="408" font-size="15" font-weight="700" fill="#0f172a">Minimum Spanning Tree</text>
+<text x="88" y="432" font-size="12" fill="#334155">Kruskal and Prim</text>
+<rect x="510" y="370" width="460" height="110" rx="10" fill="#bae6fd" stroke="#0c4a6e" stroke-width="1.5"/>
+<rect x="510" y="370" width="46" height="110" rx="10" fill="#0c4a6e"/>
+<text x="533" y="431.0" font-size="18" font-weight="700" fill="white" text-anchor="middle">08</text>
+<text x="568" y="408" font-size="15" font-weight="700" fill="#0f172a">Advanced Graphs</text>
+<text x="568" y="432" font-size="12" fill="#334155">SCC, bridges, articulation points, Euler paths, binary lif</text>
+</svg>

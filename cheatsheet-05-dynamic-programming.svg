@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1480" height="660" viewBox="0 0 1480 660" font-family="-apple-system,Segoe UI,Roboto,sans-serif">
+<rect width="100%" height="100%" fill="#f8fafc"/>
+<rect width="1480" height="80" fill="#7f1d1d"/>
+<text x="30" y="50" font-size="32" font-weight="700" fill="white">Dynamic Programming</text>
+<text x="30" y="74" font-size="14" fill="#cbd5e1">11 concepts - 05-dynamic-programming</text>
+<rect x="30" y="110" width="460" height="110" rx="10" fill="#fecaca" stroke="#7f1d1d" stroke-width="1.5"/>
+<rect x="30" y="110" width="46" height="110" rx="10" fill="#7f1d1d"/>
+<text x="53" y="171.0" font-size="18" font-weight="700" fill="white" text-anchor="middle">01</text>
+<text x="88" y="148" font-size="15" font-weight="700" fill="#0f172a">DP Intuition</text>
+<text x="88" y="172" font-size="12" fill="#334155">The DP recipe: memoization, tabulation, space optimisation</text>
+<rect x="510" y="110" width="460" height="110" rx="10" fill="#fecaca" stroke="#7f1d1d" stroke-width="1.5"/>
+<rect x="510" y="110" width="46" height="110" rx="10" fill="#7f1d1d"/>
+<text x="533" y="171.0" font-size="18" font-weight="700" fill="white" text-anchor="middle">02</text>
+<text x="568" y="148" font-size="15" font-weight="700" fill="#0f172a">One-Dimensional DP</text>
+<text x="568" y="172" font-size="12" fill="#334155">House robber, coin change, decode ways and other 1D DP</text>
+<rect x="990" y="110" width="460" height="110" rx="10" fill="#fecaca" stroke="#7f1d1d" stroke-width="1.5"/>
+<rect x="990" y="110" width="46" height="110" rx="10" fill="#7f1d1d"/>
+<text x="1013" y="171.0" font-size="18" font-weight="700" fill="white" text-anchor="middle">03</text>
+<text x="1048" y="148" font-size="15" font-weight="700" fill="#0f172a">Grid DP</text>
+<text x="1048" y="172" font-size="12" fill="#334155">Paths, falling sums and multi-state grid DP</text>
+<rect x="30" y="240" width="460" height="110" rx="10" fill="#fecaca" stroke="#7f1d1d" stroke-width="1.5"/>
+<rect x="30" y="240" width="46" height="110" rx="10" fill="#7f1d1d"/>
+<text x="53" y="301.0" font-size="18" font-weight="700" fill="white" text-anchor="middle">04</text>
+<text x="88" y="278" font-size="15" font-weight="700" fill="#0f172a">Subset and Subsequence DP (Take / </text>
+<text x="88" y="302" font-size="12" fill="#334155">Subset sum, partitions and take/not-take</text>
+<rect x="510" y="240" width="460" height="110" rx="10" fill="#fecaca" stroke="#7f1d1d" stroke-width="1.5"/>
+<rect x="510" y="240" width="46" height="110" rx="10" fill="#7f1d1d"/>
+<text x="533" y="301.0" font-size="18" font-weight="700" fill="white" text-anchor="middle">05</text>
+<text x="568" y="278" font-size="15" font-weight="700" fill="#0f172a">Knapsack Patterns</text>
+<text x="568" y="302" font-size="12" fill="#334155">0/1, unbounded and bounded knapsack patterns</text>
+<rect x="990" y="240" width="460" height="110" rx="10" fill="#fecaca" stroke="#7f1d1d" stroke-width="1.5"/>
+<rect x="990" y="240" width="46" height="110" rx="10" fill="#7f1d1d"/>
+<text x="1013" y="301.0" font-size="18" font-weight="700" fill="white" text-anchor="middle">06</text>
+<text x="1048" y="278" font-size="15" font-weight="700" fill="#0f172a">String DP</text>
+<text x="1048" y="302" font-size="12" fill="#334155">LCS, edit distance, wildcard and regex matching</text>
+<rect x="30" y="370" width="460" height="110" rx="10" fill="#fecaca" stroke="#7f1d1d" stroke-width="1.5"/>
+<rect x="30" y="370" width="46" height="110" rx="10" fill="#7f1d1d"/>
+<text x="53" y="431.0" font-size="18" font-weight="700" fill="white" text-anchor="middle">07</text>
+<text x="88" y="408" font-size="15" font-weight="700" fill="#0f172a">Stock Problems and the State-Machi</text>
+<text x="88" y="432" font-size="12" fill="#334155">One framework for every buy-and-sell variant</text>
+<rect x="510" y="370" width="460" height="110" rx="10" fill="#fecaca" stroke="#7f1d1d" stroke-width="1.5"/>
+<rect x="510" y="370" width="46" height="110" rx="10" fill="#7f1d1d"/>
+<text x="533" y="431.0" font-size="18" font-weight="700" fill="white" text-anchor="middle">08</text>
+<text x="568" y="408" font-size="15" font-weight="700" fill="#0f172a">Longest Increasing Subsequence</text>
+<text x="568" y="432" font-size="12" fill="#334155">O(n^2) and O(n log n) LIS and its relatives</text>
+<rect x="990" y="370" width="460" height="110" rx="10" fill="#fecaca" stroke="#7f1d1d" stroke-width="1.5"/>
+<rect x="990" y="370" width="46" height="110" rx="10" fill="#7f1d1d"/>
+<text x="1013" y="431.0" font-size="18" font-weight="700" fill="white" text-anchor="middle">09</text>
+<text x="1048" y="408" font-size="15" font-weight="700" fill="#0f172a">Partition and Matrix Chain (Interv</text>
+<text x="1048" y="432" font-size="12" fill="#334155">Interval DP: matrix chain, burst balloons, cuts</text>
+<rect x="30" y="500" width="460" height="110" rx="10" fill="#fecaca" stroke="#7f1d1d" stroke-width="1.5"/>
+<rect x="30" y="500" width="46" height="110" rx="10" fill="#7f1d1d"/>
+<text x="53" y="561.0" font-size="18" font-weight="700" fill="white" text-anchor="middle">10</text>
+<text x="88" y="538" font-size="15" font-weight="700" fill="#0f172a">Bitmask DP</text>
+<text x="88" y="562" font-size="12" fill="#334155">TSP and subset-state DP for small n</text>
+<rect x="510" y="500" width="460" height="110" rx="10" fill="#fecaca" stroke="#7f1d1d" stroke-width="1.5"/>
+<rect x="510" y="500" width="46" height="110" rx="10" fill="#7f1d1d"/>
+<text x="533" y="561.0" font-size="18" font-weight="700" fill="white" text-anchor="middle">11</text>
+<text x="568" y="538" font-size="15" font-weight="700" fill="#0f172a">Tree DP and Digit DP</text>
+<text x="568" y="562" font-size="12" fill="#334155">Tree DP, rerooting and digit DP</text>
+</svg>
