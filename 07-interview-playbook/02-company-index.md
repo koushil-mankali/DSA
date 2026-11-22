@@ -1,0 +1,2639 @@
+# Company Index
+
+> Problems grouped by companies that community lists commonly report asking them. **Unverified, community-reported, from memory.** Use it to prioritise, not as ground truth.
+
+27 companies, built automatically from the `**Companies:**` line of each problem.
+
+## Amazon (718)
+
+- [Assign Cookies](../02-intermediate/04-greedy/README.md) — Easy
+- [BFS of Graph](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Easy
+- [Backspace String Compare](../01-core-linear/10-stack-and-queue/README.md) — Easy
+- [Balanced Binary Tree](../03-trees/01-binary-tree-traversals/README.md) — Easy
+- [Best Time to Buy and Sell Stock](../01-core-linear/01-arrays/README.md) — Easy
+- [Best Time to Buy and Sell Stock](../05-dynamic-programming/07-stocks/README.md) — Easy
+- [Binary Search](../01-core-linear/08-binary-search/README.md) — Easy
+- [Binary Tree Inorder Traversal](../03-trees/01-binary-tree-traversals/README.md) — Easy
+- [Binary Tree Level Order Traversal II (Bottom-Up)](../03-trees/02-tree-construction-and-views/README.md) — Easy
+- [Binary Tree Paths (All Root-to-Leaf Paths)](../03-trees/03-paths-lca-and-tree-properties/README.md) — Easy
+- [Binary Tree Preorder Traversal](../03-trees/01-binary-tree-traversals/README.md) — Easy
+- [Bulb Switcher](../06-advanced/04-number-theory/README.md) — Easy
+- [Check Prime](../00-foundations/04-math-basics/README.md) — Easy
+- [Climbing Stairs](../05-dynamic-programming/01-dp-intuition/README.md) — Easy
+- [Contains Duplicate](../01-core-linear/03-hashing/README.md) — Easy
+- [Convert Sorted Array to Binary Search Tree](../02-intermediate/03-divide-and-conquer/README.md) — Easy
+- [Convert Sorted Array to Height-Balanced BST](../03-trees/02-tree-construction-and-views/README.md) — Easy
+- [Convert Sorted Array to Height-Balanced BST](../03-trees/04-binary-search-trees/README.md) — Easy
+- [Count Negative Numbers in a Sorted Matrix](../02-intermediate/08-matrix/README.md) — Easy
+- [Counting Bits](../02-intermediate/07-bit-manipulation/README.md) — Easy
+- [DFS of Graph](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Easy
+- [Delete Node in a Linked List](../01-core-linear/09-linked-list/README.md) — Easy
+- [Design HashMap (Separate Chaining)](../06-advanced/05-design-problems/README.md) — Easy
+- [Diameter of Binary Tree](../03-trees/01-binary-tree-traversals/README.md) — Easy
+- [Diameter of Binary Tree (recap)](../03-trees/03-paths-lca-and-tree-properties/README.md) — Easy
+- [Divisor Game](../06-advanced/07-game-theory-and-puzzles/README.md) — Easy
+- [Fibonacci Number (4 versions)](../05-dynamic-programming/01-dp-intuition/README.md) — Easy
+- [Fibonacci: Naive vs Memoized](../02-intermediate/01-recursion/README.md) — Easy
+- [Find Center of Star Graph](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Easy
+- [Find Pivot Index](../01-core-linear/07-prefix-sum/README.md) — Easy
+- [Find if Path Exists in Graph](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Easy
+- [Find the Index of the First Occurrence in a String (strStr)](../06-advanced/01-string-algorithms/README.md) — Easy
+- [Find the Town Judge](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Easy
+- [First Unique Character in a String](../01-core-linear/03-hashing/README.md) — Easy
+- [Flood Fill](../04-graphs/02-grid-and-islands/README.md) — Easy
+- [Flood Fill (Recursion Intro)](../02-intermediate/01-recursion/README.md) — Easy
+- [Floor and Ceil in a Sorted Array](../01-core-linear/08-binary-search/README.md) — Easy
+- [GCD and LCM (Euclid)](../00-foundations/04-math-basics/README.md) — Easy
+- [Generate Binary Numbers 1 to N](../01-core-linear/10-stack-and-queue/README.md) — Easy
+- [Hamming Distance](../02-intermediate/07-bit-manipulation/README.md) — Easy
+- [Happy Number](../00-foundations/04-math-basics/README.md) — Easy
+- [Happy Number](../01-core-linear/03-hashing/README.md) — Easy
+- [House Robber](../05-dynamic-programming/02-one-d-dp/README.md) — Easy
+- [Implement Queue using Stacks](../01-core-linear/10-stack-and-queue/README.md) — Easy
+- [Implement Queue using Stacks](../06-advanced/05-design-problems/README.md) — Easy
+- [Implement Stack using Queues](../01-core-linear/10-stack-and-queue/README.md) — Easy
+- [Index Pairs of a String](../03-trees/05-trie/README.md) — Easy
+- [Intersection of Two Arrays II](../01-core-linear/03-hashing/README.md) — Easy
+- [Intersection of Two Linked Lists](../01-core-linear/09-linked-list/README.md) — Easy
+- [Invert Binary Tree](../03-trees/01-binary-tree-traversals/README.md) — Easy
+- [Island Perimeter](../04-graphs/02-grid-and-islands/README.md) — Easy
+- [Isomorphic Strings](../01-core-linear/04-strings/README.md) — Easy
+- [Kth Largest Element in a Stream](../02-intermediate/05-heaps/README.md) — Easy
+- [Kth Missing Positive Number](../01-core-linear/08-binary-search/README.md) — Easy
+- [Last Stone Weight](../02-intermediate/05-heaps/README.md) — Easy
+- [Lemonade Change](../02-intermediate/04-greedy/README.md) — Easy
+- [Linked List Cycle](../01-core-linear/09-linked-list/README.md) — Easy
+- [Logger Rate Limiter](../06-advanced/05-design-problems/README.md) — Easy
+- [Longest Common Prefix](../01-core-linear/04-strings/README.md) — Easy
+- [Longest Common Prefix](../03-trees/05-trie/README.md) — Easy
+- [Longest Word in Dictionary](../03-trees/05-trie/README.md) — Easy
+- [Majority Element (Boyer-Moore Voting)](../01-core-linear/01-arrays/README.md) — Easy
+- [Majority Element (D&C version)](../02-intermediate/03-divide-and-conquer/README.md) — Easy
+- [Maximum Depth of Binary Tree](../03-trees/01-binary-tree-traversals/README.md) — Easy
+- [Maximum Depth of N-ary Tree](../03-trees/03-paths-lca-and-tree-properties/README.md) — Easy
+- [Maximum Subarray](../05-dynamic-programming/02-one-d-dp/README.md) — Easy
+- [Maximum Sum Subarray of Size K](../01-core-linear/06-sliding-window/README.md) — Easy
+- [Meeting Rooms (Can Attend All)](../02-intermediate/06-intervals-and-sweep-line/README.md) — Easy
+- [Merge Sorted Array](../01-core-linear/02-sorting/README.md) — Easy
+- [Merge Sorted Array](../01-core-linear/05-two-pointers/README.md) — Easy
+- [Merge Two Sorted Lists](../01-core-linear/09-linked-list/README.md) — Easy
+- [Middle of the Linked List](../01-core-linear/09-linked-list/README.md) — Easy
+- [Min Cost Climbing Stairs](../05-dynamic-programming/01-dp-intuition/README.md) — Easy
+- [Min Stack](../06-advanced/05-design-problems/README.md) — Easy
+- [Minimum Bit Flips to Convert Number](../02-intermediate/07-bit-manipulation/README.md) — Easy
+- [Minimum Depth of Binary Tree](../03-trees/03-paths-lca-and-tree-properties/README.md) — Easy
+- [Missing Number](../01-core-linear/01-arrays/README.md) — Easy
+- [Missing Number](../01-core-linear/02-sorting/README.md) — Easy
+- [Missing Number](../02-intermediate/07-bit-manipulation/README.md) — Easy
+- [Move Zeroes](../01-core-linear/01-arrays/README.md) — Easy
+- [Move Zeroes](../01-core-linear/05-two-pointers/README.md) — Easy
+- [Moving Average from Data Stream](../06-advanced/05-design-problems/README.md) — Easy
+- [N Meetings in One Room (Activity Selection)](../02-intermediate/04-greedy/README.md) — Easy
+- [N-th Tribonacci Number](../05-dynamic-programming/01-dp-intuition/README.md) — Easy
+- [Next Greater Element I](../01-core-linear/11-monotonic-stack-queue/README.md) — Easy
+- [Nim Game](../06-advanced/07-game-theory-and-puzzles/README.md) — Easy
+- [Number of 1 Bits](../02-intermediate/07-bit-manipulation/README.md) — Easy
+- [Number of Recent Calls](../01-core-linear/10-stack-and-queue/README.md) — Easy
+- [Palindrome Linked List](../01-core-linear/09-linked-list/README.md) — Easy
+- [Palindrome Number](../00-foundations/04-math-basics/README.md) — Easy
+- [Pascal's Triangle](../00-foundations/04-math-basics/README.md) — Easy
+- [Pascal's Triangle](../02-intermediate/08-matrix/README.md) — Easy
+- [Path Sum](../03-trees/03-paths-lca-and-tree-properties/README.md) — Easy
+- [Power of Two](../02-intermediate/07-bit-manipulation/README.md) — Easy
+- [Previous Smaller Element](../01-core-linear/11-monotonic-stack-queue/README.md) — Easy
+- [Range Sum Query - Immutable](../01-core-linear/07-prefix-sum/README.md) — Easy
+- [Range Sum of BST](../03-trees/04-binary-search-trees/README.md) — Easy
+- [Remove Duplicates from Sorted Array](../01-core-linear/01-arrays/README.md) — Easy
+- [Remove Duplicates from Sorted List](../01-core-linear/09-linked-list/README.md) — Easy
+- [Remove Element](../01-core-linear/05-two-pointers/README.md) — Easy
+- [Remove Outermost Parentheses](../01-core-linear/10-stack-and-queue/README.md) — Easy
+- [Repeated Substring Pattern](../06-advanced/01-string-algorithms/README.md) — Easy
+- [Reverse Bits](../02-intermediate/07-bit-manipulation/README.md) — Easy
+- [Reverse Linked List](../01-core-linear/09-linked-list/README.md) — Easy
+- [Reverse String](../01-core-linear/05-two-pointers/README.md) — Easy
+- [Root to Node Path](../03-trees/03-paths-lca-and-tree-properties/README.md) — Easy
+- [Rotate String](../01-core-linear/04-strings/README.md) — Easy
+- [Rotate String](../06-advanced/01-string-algorithms/README.md) — Easy
+- [Rotate a Matrix by 180 Degrees](../02-intermediate/08-matrix/README.md) — Easy
+- [Row With Maximum Ones](../02-intermediate/08-matrix/README.md) — Easy
+- [Row with Maximum Number of 1s](../01-core-linear/08-binary-search/README.md) — Easy
+- [Running Sum of 1D Array](../01-core-linear/07-prefix-sum/README.md) — Easy
+- [Same Tree](../03-trees/01-binary-tree-traversals/README.md) — Easy
+- [Same Tree and Subtree of Another Tree](../03-trees/03-paths-lca-and-tree-properties/README.md) — Easy
+- [Search Insert Position](../01-core-linear/08-binary-search/README.md) — Easy
+- [Second Largest Element](../01-core-linear/01-arrays/README.md) — Easy
+- [Shortest Path in an Unweighted Graph](../04-graphs/05-shortest-paths/README.md) — Easy
+- [Single Number](../02-intermediate/07-bit-manipulation/README.md) — Easy
+- [Sqrt(x)](../01-core-linear/08-binary-search/README.md) — Easy
+- [Sqrt(x) (Binary Search)](../00-foundations/04-math-basics/README.md) — Easy
+- [Squares of a Sorted Array](../01-core-linear/05-two-pointers/README.md) — Easy
+- [String Matching in an Array](../06-advanced/01-string-algorithms/README.md) — Easy
+- [Subset Sum Equals Target](../05-dynamic-programming/04-subset-and-subsequence-dp/README.md) — Easy
+- [Sum of Left Leaves](../03-trees/03-paths-lca-and-tree-properties/README.md) — Easy
+- [Symmetric Tree](../03-trees/01-binary-tree-traversals/README.md) — Easy
+- [Toeplitz Matrix](../02-intermediate/08-matrix/README.md) — Easy
+- [Transpose Matrix](../02-intermediate/08-matrix/README.md) — Easy
+- [Two Sum](../01-core-linear/03-hashing/README.md) — Easy
+- [Two Sum IV - Input is a BST](../03-trees/04-binary-search-trees/README.md) — Easy
+- [Valid Anagram](../01-core-linear/03-hashing/README.md) — Easy
+- [Valid Anagram](../01-core-linear/04-strings/README.md) — Easy
+- [Valid Palindrome](../01-core-linear/05-two-pointers/README.md) — Easy
+- [Valid Palindrome (and Valid Palindrome II)](../01-core-linear/04-strings/README.md) — Easy
+- [Valid Parentheses](../01-core-linear/10-stack-and-queue/README.md) — Easy
+- [Zigzag (Snake) Traversal](../02-intermediate/08-matrix/README.md) — Easy
+- [01 Matrix](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [132 Pattern](../01-core-linear/11-monotonic-stack-queue/README.md) — Medium
+- [3Sum](../01-core-linear/05-two-pointers/README.md) — Medium
+- [3Sum Closest](../01-core-linear/05-two-pointers/README.md) — Medium
+- [3Sum — hash vs two pointers (mention only)](../01-core-linear/03-hashing/README.md) — Medium
+- [4Sum](../01-core-linear/05-two-pointers/README.md) — Medium
+- [Accounts Merge](../04-graphs/06-union-find/README.md) — Medium
+- [Add Binary / Multiply Strings](../01-core-linear/04-strings/README.md) — Medium
+- [Add Two Numbers](../01-core-linear/09-linked-list/README.md) — Medium
+- [Aggressive Cows (Magnetic Force Between Two Balls)](../01-core-linear/08-binary-search/README.md) — Medium
+- [All Ancestors of a Node in a DAG](../04-graphs/04-topological-sort/README.md) — Medium
+- [All Nodes Distance K in Binary Tree](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [All Paths From Source to Target](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Medium
+- [As Far from Land as Possible](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Asteroid Collision](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Asteroid Collision](../01-core-linear/11-monotonic-stack-queue/README.md) — Medium
+- [Basic Calculator II](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Beautiful Arrangement](../05-dynamic-programming/10-bitmask-dp/README.md) — Medium
+- [Bellman-Ford Algorithm](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Best Sightseeing Pair](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Best Time to Buy and Sell Stock II](../05-dynamic-programming/07-stocks/README.md) — Medium
+- [Best Time to Buy and Sell Stock with Cooldown](../05-dynamic-programming/07-stocks/README.md) — Medium
+- [Best Time to Buy and Sell Stock with Transaction Fee](../05-dynamic-programming/07-stocks/README.md) — Medium
+- [Binary Search Tree Iterator](../03-trees/04-binary-search-trees/README.md) — Medium
+- [Binary Subarrays With Sum](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Binary Tree Level Order Traversal](../03-trees/01-binary-tree-traversals/README.md) — Medium
+- [Binary Tree Postorder Traversal (2 stacks and 1 stack)](../03-trees/01-binary-tree-traversals/README.md) — Medium
+- [Binary Tree Right Side View (and Left Side View)](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Binary Tree Zigzag Level Order Traversal](../03-trees/01-binary-tree-traversals/README.md) — Medium
+- [Bitwise AND of Numbers Range](../02-intermediate/07-bit-manipulation/README.md) — Medium
+- [Boats to Save People](../01-core-linear/05-two-pointers/README.md) — Medium
+- [Bottom View of Binary Tree](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Boundary Traversal of Binary Tree](../03-trees/01-binary-tree-traversals/README.md) — Medium
+- [Bulb Switcher (and 100 Doors)](../06-advanced/07-game-theory-and-puzzles/README.md) — Medium
+- [Can I Win](../05-dynamic-programming/10-bitmask-dp/README.md) — Medium
+- [Can I Win](../06-advanced/07-game-theory-and-puzzles/README.md) — Medium
+- [Capacity to Ship Packages Within D Days](../01-core-linear/08-binary-search/README.md) — Medium
+- [Car Fleet](../01-core-linear/11-monotonic-stack-queue/README.md) — Medium
+- [Car Pooling](../01-core-linear/07-prefix-sum/README.md) — Medium
+- [Car Pooling](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Catalan Numbers (Unique Binary Search Trees)](../06-advanced/04-number-theory/README.md) — Medium
+- [Cheapest Flights Within K Stops](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Check Completeness of a Binary Tree](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Children Sum Property](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Clone Graph](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Medium
+- [Coin Change](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Coin Change](../05-dynamic-programming/05-knapsack/README.md) — Medium
+- [Coin Change II](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Coin Change II](../05-dynamic-programming/05-knapsack/README.md) — Medium
+- [Combination Sum](../02-intermediate/02-backtracking/README.md) — Medium
+- [Combination Sum II](../02-intermediate/02-backtracking/README.md) — Medium
+- [Combination Sum III](../02-intermediate/02-backtracking/README.md) — Medium
+- [Combination Sum IV](../05-dynamic-programming/04-subset-and-subsequence-dp/README.md) — Medium
+- [Combination Sum IV](../05-dynamic-programming/05-knapsack/README.md) — Medium
+- [Combinations](../02-intermediate/02-backtracking/README.md) — Medium
+- [Connecting Cities With Minimum Cost](../04-graphs/07-minimum-spanning-tree/README.md) — Medium
+- [Construct BST from Preorder Traversal](../03-trees/04-binary-search-trees/README.md) — Medium
+- [Construct Binary Tree from Inorder and Postorder](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Construct Binary Tree from Preorder and Inorder](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Construct Binary Tree from Preorder and Postorder (Full Tree)](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Construct Binary Tree from String, and Print Binary Tree](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Construct Tree from Level Order](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Container With Most Water](../01-core-linear/05-two-pointers/README.md) — Medium
+- [Contiguous Array](../01-core-linear/07-prefix-sum/README.md) — Medium
+- [Continuous Subarray Sum](../01-core-linear/07-prefix-sum/README.md) — Medium
+- [Convert Sorted List to Binary Search Tree](../02-intermediate/03-divide-and-conquer/README.md) — Medium
+- [Copy List with Random Pointer](../01-core-linear/03-hashing/README.md) — Medium
+- [Copy List with Random Pointer](../01-core-linear/09-linked-list/README.md) — Medium
+- [Corporate Flight Bookings](../01-core-linear/07-prefix-sum/README.md) — Medium
+- [Count Assignments of Tasks to People](../05-dynamic-programming/10-bitmask-dp/README.md) — Medium
+- [Count Complete Tree Nodes](../03-trees/01-binary-tree-traversals/README.md) — Medium
+- [Count Good Nodes in Binary Tree](../03-trees/03-paths-lca-and-tree-properties/README.md) — Medium
+- [Count Good Numbers](../02-intermediate/01-recursion/README.md) — Medium
+- [Count Inversions](../01-core-linear/02-sorting/README.md) — Medium
+- [Count Inversions](../02-intermediate/03-divide-and-conquer/README.md) — Medium
+- [Count Number of Nice Subarrays](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Count Numbers with Unique Digits](../05-dynamic-programming/11-tree-and-digit-dp/README.md) — Medium
+- [Count Partitions with Given Difference](../05-dynamic-programming/04-subset-and-subsequence-dp/README.md) — Medium
+- [Count Primes (Sieve of Eratosthenes)](../00-foundations/04-math-basics/README.md) — Medium
+- [Count Primes in a Range (Segmented Sieve)](../06-advanced/04-number-theory/README.md) — Medium
+- [Count Square Submatrices with All Ones](../05-dynamic-programming/03-grid-dp/README.md) — Medium
+- [Count Subsets with Sum K (Perfect Sum, with zeros)](../05-dynamic-programming/04-subset-and-subsequence-dp/README.md) — Medium
+- [Course Schedule](../04-graphs/03-cycle-and-bipartite/README.md) — Medium
+- [Course Schedule](../04-graphs/04-topological-sort/README.md) — Medium
+- [Course Schedule (Directed Graph Intro)](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Medium
+- [Course Schedule II](../04-graphs/04-topological-sort/README.md) — Medium
+- [Daily Temperatures](../01-core-linear/11-monotonic-stack-queue/README.md) — Medium
+- [Decode String](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Decode Ways](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Decode Ways (intro)](../05-dynamic-programming/01-dp-intuition/README.md) — Medium
+- [Delete Node in a BST](../03-trees/04-binary-search-trees/README.md) — Medium
+- [Delete Operation for Two Strings](../05-dynamic-programming/06-string-dp/README.md) — Medium
+- [Delete and Earn](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Design Add and Search Words Data Structure](../03-trees/05-trie/README.md) — Medium
+- [Design Browser History](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Design Browser History](../06-advanced/05-design-problems/README.md) — Medium
+- [Design Circular Queue](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Design Circular Queue (and Deque)](../06-advanced/05-design-problems/README.md) — Medium
+- [Design Hit Counter](../06-advanced/05-design-problems/README.md) — Medium
+- [Design Twitter](../06-advanced/05-design-problems/README.md) — Medium
+- [Design Underground System](../06-advanced/05-design-problems/README.md) — Medium
+- [Detect Cycle in a Directed Graph](../04-graphs/03-cycle-and-bipartite/README.md) — Medium
+- [Detect Cycle in an Undirected Graph](../04-graphs/03-cycle-and-bipartite/README.md) — Medium
+- [Detect Cycles in a 2D Grid](../04-graphs/03-cycle-and-bipartite/README.md) — Medium
+- [Diagonal Traverse](../02-intermediate/08-matrix/README.md) — Medium
+- [Different Ways to Add Parentheses](../02-intermediate/03-divide-and-conquer/README.md) — Medium
+- [Dijkstra's Algorithm](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Distinct Prime Factors of Product of Array](../06-advanced/04-number-theory/README.md) — Medium
+- [Divide Two Integers](../02-intermediate/07-bit-manipulation/README.md) — Medium
+- [Domino and Tromino Tiling](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Edit Distance](../05-dynamic-programming/06-string-dp/README.md) — Medium
+- [Encode and Decode Strings](../01-core-linear/04-strings/README.md) — Medium
+- [Evaluate Division](../04-graphs/06-union-find/README.md) — Medium
+- [Evaluate Reverse Polish Notation](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Excel Sheet Column Title](../00-foundations/04-math-basics/README.md) — Medium
+- [Factorial Trailing Zeroes](../00-foundations/04-math-basics/README.md) — Medium
+- [Fair Distribution of Cookies](../05-dynamic-programming/10-bitmask-dp/README.md) — Medium
+- [Find All Anagrams in a String](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Find All Anagrams in a String (hash version)](../06-advanced/01-string-algorithms/README.md) — Medium
+- [Find Duplicate Subtrees](../03-trees/03-paths-lca-and-tree-properties/README.md) — Medium
+- [Find Eventual Safe States](../04-graphs/03-cycle-and-bipartite/README.md) — Medium
+- [Find Eventual Safe States](../04-graphs/04-topological-sort/README.md) — Medium
+- [Find K Pairs with Smallest Sums](../02-intermediate/05-heaps/README.md) — Medium
+- [Find Minimum in Rotated Sorted Array](../01-core-linear/08-binary-search/README.md) — Medium
+- [Find Peak Element](../01-core-linear/08-binary-search/README.md) — Medium
+- [Find the City With the Smallest Number of Neighbors at a Threshold Distance](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Find the Duplicate Number](../01-core-linear/02-sorting/README.md) — Medium
+- [Find the Smallest Divisor Given a Threshold](../01-core-linear/08-binary-search/README.md) — Medium
+- [First and Last Position of Element in Sorted Array (and Count Occurrences)](../01-core-linear/08-binary-search/README.md) — Medium
+- [Flatten Binary Tree to Linked List](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Flatten a Multilevel Doubly Linked List](../01-core-linear/09-linked-list/README.md) — Medium
+- [Flip Matrix](../02-intermediate/09-randomization-and-sampling/README.md) — Medium
+- [Floyd-Warshall](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Fraction to Recurring Decimal](../06-advanced/04-number-theory/README.md) — Medium
+- [Fractional Knapsack](../02-intermediate/04-greedy/README.md) — Medium
+- [Fruit Into Baskets](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Game of Life](../02-intermediate/08-matrix/README.md) — Medium
+- [Gas Station](../02-intermediate/04-greedy/README.md) — Medium
+- [Generate Parentheses](../02-intermediate/01-recursion/README.md) — Medium
+- [Generate Parentheses](../02-intermediate/02-backtracking/README.md) — Medium
+- [Generate Random Point in a Circle](../02-intermediate/09-randomization-and-sampling/README.md) — Medium
+- [Graph Valid Tree](../04-graphs/06-union-find/README.md) — Medium
+- [Gray Code](../02-intermediate/07-bit-manipulation/README.md) — Medium
+- [Group Anagrams](../01-core-linear/03-hashing/README.md) — Medium
+- [Guess Number Higher or Lower II](../05-dynamic-programming/09-partition-and-mcm-dp/README.md) — Medium
+- [Guess Number Higher or Lower II](../06-advanced/07-game-theory-and-puzzles/README.md) — Medium
+- [Hand of Straights](../02-intermediate/04-greedy/README.md) — Medium
+- [Hand of Straights](../02-intermediate/05-heaps/README.md) — Medium
+- [House Robber](../05-dynamic-programming/01-dp-intuition/README.md) — Medium
+- [House Robber II](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [House Robber III](../05-dynamic-programming/11-tree-and-digit-dp/README.md) — Medium
+- [House Robber III (reference to DP)](../03-trees/03-paths-lca-and-tree-properties/README.md) — Medium
+- [Implement Rand10() Using Rand7()](../02-intermediate/09-randomization-and-sampling/README.md) — Medium
+- [Implement Trie (Prefix Tree)](../03-trees/05-trie/README.md) — Medium
+- [Increasing Triplet Subsequence](../05-dynamic-programming/08-longest-increasing-subsequence/README.md) — Medium
+- [Infix to Postfix Conversion](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Inorder Successor and Predecessor in a BST](../03-trees/04-binary-search-trees/README.md) — Medium
+- [Insert Delete GetRandom O(1)](../02-intermediate/09-randomization-and-sampling/README.md) — Medium
+- [Insert Delete GetRandom O(1)](../06-advanced/05-design-problems/README.md) — Medium
+- [Insert Interval](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Integer Break](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Interleaving String](../05-dynamic-programming/06-string-dp/README.md) — Medium
+- [Interval List Intersections](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Is Graph Bipartite?](../04-graphs/03-cycle-and-bipartite/README.md) — Medium
+- [Job Sequencing with Deadlines](../02-intermediate/04-greedy/README.md) — Medium
+- [Josephus Problem](../02-intermediate/01-recursion/README.md) — Medium
+- [Jump Game](../02-intermediate/04-greedy/README.md) — Medium
+- [Jump Game](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Jump Game II](../02-intermediate/04-greedy/README.md) — Medium
+- [Jump Game II](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [K Closest Points to Origin](../02-intermediate/05-heaps/README.md) — Medium
+- [K-th Symbol in Grammar](../02-intermediate/01-recursion/README.md) — Medium
+- [Keys and Rooms](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Medium
+- [Knight Probability in Chessboard](../05-dynamic-programming/03-grid-dp/README.md) — Medium
+- [Koko Eating Bananas](../01-core-linear/08-binary-search/README.md) — Medium
+- [Kruskal MST Weight](../04-graphs/07-minimum-spanning-tree/README.md) — Medium
+- [Kth Largest Element in an Array](../01-core-linear/02-sorting/README.md) — Medium
+- [Kth Largest Element in an Array](../02-intermediate/05-heaps/README.md) — Medium
+- [Kth Largest Element in an Array](../02-intermediate/09-randomization-and-sampling/README.md) — Medium
+- [Kth Largest Element in an Array (Quickselect)](../02-intermediate/03-divide-and-conquer/README.md) — Medium
+- [Kth Smallest Element in a BST (and Kth Largest)](../03-trees/04-binary-search-trees/README.md) — Medium
+- [Kth Smallest Element in a Sorted Matrix](../02-intermediate/05-heaps/README.md) — Medium
+- [Kth Smallest Element in a Sorted Matrix](../02-intermediate/08-matrix/README.md) — Medium
+- [LRU Cache](../06-advanced/05-design-problems/README.md) — Medium
+- [Largest Divisible Subset](../05-dynamic-programming/08-longest-increasing-subsequence/README.md) — Medium
+- [Largest Number](../01-core-linear/02-sorting/README.md) — Medium
+- [Last Stone Weight II](../05-dynamic-programming/04-subset-and-subsequence-dp/README.md) — Medium
+- [Letter Combinations of a Phone Number](../02-intermediate/01-recursion/README.md) — Medium
+- [Letter Combinations of a Phone Number](../02-intermediate/02-backtracking/README.md) — Medium
+- [Linked List Cycle II (start and length of the cycle)](../01-core-linear/09-linked-list/README.md) — Medium
+- [Linked List Random Node](../02-intermediate/09-randomization-and-sampling/README.md) — Medium
+- [Longest Arithmetic Subsequence](../05-dynamic-programming/08-longest-increasing-subsequence/README.md) — Medium
+- [Longest Bitonic Subsequence](../05-dynamic-programming/08-longest-increasing-subsequence/README.md) — Medium
+- [Longest Common Subsequence](../05-dynamic-programming/06-string-dp/README.md) — Medium
+- [Longest Common Substring](../05-dynamic-programming/06-string-dp/README.md) — Medium
+- [Longest Consecutive Sequence](../01-core-linear/03-hashing/README.md) — Medium
+- [Longest Consecutive Sequence (via DSU)](../04-graphs/06-union-find/README.md) — Medium
+- [Longest Happy Prefix](../06-advanced/01-string-algorithms/README.md) — Medium
+- [Longest Increasing Subsequence](../05-dynamic-programming/08-longest-increasing-subsequence/README.md) — Medium
+- [Longest Palindromic Subsequence](../05-dynamic-programming/06-string-dp/README.md) — Medium
+- [Longest Palindromic Substring](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Longest Palindromic Substring (Manacher)](../06-advanced/01-string-algorithms/README.md) — Medium
+- [Longest Palindromic Substring (and Count Palindromic Substrings)](../01-core-linear/04-strings/README.md) — Medium
+- [Longest Path in a DAG](../04-graphs/04-topological-sort/README.md) — Medium
+- [Longest Repeating Character Replacement](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Longest Repeating Subsequence](../05-dynamic-programming/06-string-dp/README.md) — Medium
+- [Longest String Chain](../05-dynamic-programming/08-longest-increasing-subsequence/README.md) — Medium
+- [Longest Substring Without Repeating Characters](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Longest Substring with At Most K Distinct Characters](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Longest Univalue Path](../03-trees/03-paths-lca-and-tree-properties/README.md) — Medium
+- [Longest ZigZag Path in a Binary Tree](../05-dynamic-programming/11-tree-and-digit-dp/README.md) — Medium
+- [Lowest Common Ancestor of Deepest Leaves](../03-trees/03-paths-lca-and-tree-properties/README.md) — Medium
+- [Lowest Common Ancestor of a BST](../03-trees/04-binary-search-trees/README.md) — Medium
+- [Lowest Common Ancestor of a BST (reference)](../03-trees/03-paths-lca-and-tree-properties/README.md) — Medium
+- [Lowest Common Ancestor of a Binary Tree](../03-trees/03-paths-lca-and-tree-properties/README.md) — Medium
+- [M-Coloring Problem](../02-intermediate/02-backtracking/README.md) — Medium
+- [Map Sum Pairs](../03-trees/05-trie/README.md) — Medium
+- [Matchsticks to Square](../05-dynamic-programming/10-bitmask-dp/README.md) — Medium
+- [Max Area of Island](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Max Consecutive Ones III](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Maximal Square](../02-intermediate/08-matrix/README.md) — Medium
+- [Maximal Square](../05-dynamic-programming/03-grid-dp/README.md) — Medium
+- [Maximum Length of Pair Chain](../05-dynamic-programming/08-longest-increasing-subsequence/README.md) — Medium
+- [Maximum Overlap (Most Crowded Time)](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Maximum Product Subarray](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Maximum Subarray (D&C version)](../02-intermediate/03-divide-and-conquer/README.md) — Medium
+- [Maximum Subarray (Kadane's Algorithm)](../01-core-linear/01-arrays/README.md) — Medium
+- [Maximum Subarray (via prefix sums)](../01-core-linear/07-prefix-sum/README.md) — Medium
+- [Maximum Sum Circular Subarray](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Maximum Sum of Non-Adjacent Elements](../05-dynamic-programming/01-dp-intuition/README.md) — Medium
+- [Maximum Width of Binary Tree](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Maximum XOR of Two Numbers in an Array](../02-intermediate/07-bit-manipulation/README.md) — Medium
+- [Maximum XOR of Two Numbers in an Array](../03-trees/05-trie/README.md) — Medium
+- [Meeting Rooms II](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Merge Intervals](../01-core-linear/02-sorting/README.md) — Medium
+- [Merge Intervals](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Merge Triplets to Form Target Triplet](../02-intermediate/04-greedy/README.md) — Medium
+- [Min Cost to Connect All Points](../04-graphs/07-minimum-spanning-tree/README.md) — Medium
+- [Min Stack](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Minimum Cost For Tickets](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Minimum Cost Tree From Leaf Values](../05-dynamic-programming/09-partition-and-mcm-dp/README.md) — Medium
+- [Minimum Cost to Connect Ropes](../02-intermediate/05-heaps/README.md) — Medium
+- [Minimum Cost to Connect Sticks](../04-graphs/07-minimum-spanning-tree/README.md) — Medium
+- [Minimum Falling Path Sum](../05-dynamic-programming/03-grid-dp/README.md) — Medium
+- [Minimum Genetic Mutation](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Medium
+- [Minimum Height Trees](../04-graphs/04-topological-sort/README.md) — Medium
+- [Minimum Insertions and Deletions to Convert String A to B](../05-dynamic-programming/06-string-dp/README.md) — Medium
+- [Minimum Knight Moves](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Minimum Multiplications to Reach End](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Minimum Number of Arrows to Burst Balloons](../02-intermediate/04-greedy/README.md) — Medium
+- [Minimum Number of Arrows to Burst Balloons](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Minimum Number of Days to Make m Bouquets](../01-core-linear/08-binary-search/README.md) — Medium
+- [Minimum Number of Platforms](../02-intermediate/04-greedy/README.md) — Medium
+- [Minimum Number of Platforms](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Minimum Number of Work Sessions to Finish the Tasks](../05-dynamic-programming/10-bitmask-dp/README.md) — Medium
+- [Minimum Path Sum](../05-dynamic-programming/03-grid-dp/README.md) — Medium
+- [Minimum Remove to Make Valid Parentheses](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Minimum Score Triangulation of Polygon](../05-dynamic-programming/09-partition-and-mcm-dp/README.md) — Medium
+- [Minimum Size Subarray Sum](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Minimum Time to Burn a Binary Tree / Amount of Time to Infect](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Minimum Time to Collect All Apples in a Tree](../04-graphs/08-advanced-graphs/README.md) — Medium
+- [Most Stones Removed with Same Row or Column](../04-graphs/06-union-find/README.md) — Medium
+- [My Calendar I](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [My Calendar II](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Network Delay Time](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Next Greater Element II (Circular)](../01-core-linear/11-monotonic-stack-queue/README.md) — Medium
+- [Next Permutation](../01-core-linear/01-arrays/README.md) — Medium
+- [Ninja Training (DP with last-choice state)](../05-dynamic-programming/03-grid-dp/README.md) — Medium
+- [Non-overlapping Intervals](../02-intermediate/04-greedy/README.md) — Medium
+- [Non-overlapping Intervals](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Nth Root of an Integer](../01-core-linear/08-binary-search/README.md) — Medium
+- [Number of Closed Islands](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Number of Connected Components in an Undirected Graph](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Medium
+- [Number of Distinct Islands](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Number of Enclaves](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Number of Islands](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Number of Islands (grid DFS/BFS)](../02-intermediate/08-matrix/README.md) — Medium
+- [Number of Longest Increasing Subsequences](../05-dynamic-programming/08-longest-increasing-subsequence/README.md) — Medium
+- [Number of Operations to Make Network Connected](../04-graphs/06-union-find/README.md) — Medium
+- [Number of Operations to Make Network Connected](../04-graphs/07-minimum-spanning-tree/README.md) — Medium
+- [Number of Provinces](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Medium
+- [Number of Provinces](../04-graphs/06-union-find/README.md) — Medium
+- [Number of Substrings Containing All Three Characters](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Number of Ways to Arrive at Destination](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Odd Even Linked List](../01-core-linear/09-linked-list/README.md) — Medium
+- [Ones and Zeroes](../05-dynamic-programming/05-knapsack/README.md) — Medium
+- [Online Stock Span](../01-core-linear/11-monotonic-stack-queue/README.md) — Medium
+- [Open the Lock](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Medium
+- [Out of Boundary Paths](../05-dynamic-programming/03-grid-dp/README.md) — Medium
+- [Pacific Atlantic Water Flow](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Paint Fence](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Palindrome Partitioning](../02-intermediate/02-backtracking/README.md) — Medium
+- [Palindromic Substrings](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Palindromic Substrings (count)](../06-advanced/01-string-algorithms/README.md) — Medium
+- [Partition Array for Maximum Sum](../05-dynamic-programming/09-partition-and-mcm-dp/README.md) — Medium
+- [Partition Equal Subset Sum](../05-dynamic-programming/04-subset-and-subsequence-dp/README.md) — Medium
+- [Partition Labels](../01-core-linear/05-two-pointers/README.md) — Medium
+- [Partition Labels](../02-intermediate/04-greedy/README.md) — Medium
+- [Partition a Set Into Two Subsets with Minimum Absolute Difference](../05-dynamic-programming/04-subset-and-subsequence-dp/README.md) — Medium
+- [Partition to K Equal Sum Subsets](../02-intermediate/02-backtracking/README.md) — Medium
+- [Partition to K Equal Sum Subsets](../05-dynamic-programming/10-bitmask-dp/README.md) — Medium
+- [Path Sum II](../03-trees/03-paths-lca-and-tree-properties/README.md) — Medium
+- [Path Sum III](../03-trees/03-paths-lca-and-tree-properties/README.md) — Medium
+- [Path With Minimum Effort](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Path with Maximum Gold (Backtracking vs DP)](../05-dynamic-programming/03-grid-dp/README.md) — Medium
+- [Path with Maximum Probability](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Peeking Iterator and Flatten Nested List Iterator](../06-advanced/05-design-problems/README.md) — Medium
+- [Perfect Squares](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Perfect Squares](../05-dynamic-programming/05-knapsack/README.md) — Medium
+- [Permutation in String](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Permutations](../02-intermediate/02-backtracking/README.md) — Medium
+- [Permutations II](../02-intermediate/02-backtracking/README.md) — Medium
+- [Populating Next Right Pointers in Each Node (I and II)](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Possible Bipartition](../04-graphs/03-cycle-and-bipartite/README.md) — Medium
+- [Pow(x, n)](../02-intermediate/01-recursion/README.md) — Medium
+- [Pow(x, n) (Fast Exponentiation)](../00-foundations/04-math-basics/README.md) — Medium
+- [Power Mod (Pow(x, n) mod m)](../06-advanced/04-number-theory/README.md) — Medium
+- [Predict the Winner (Coin Game, Pick From the Ends)](../06-advanced/07-game-theory-and-puzzles/README.md) — Medium
+- [Preorder, Inorder and Postorder in One Traversal](../03-trees/01-binary-tree-traversals/README.md) — Medium
+- [Prim MST Weight](../04-graphs/07-minimum-spanning-tree/README.md) — Medium
+- [Print All Subsequences of a String](../02-intermediate/01-recursion/README.md) — Medium
+- [Print the Longest Common Subsequence](../05-dynamic-programming/06-string-dp/README.md) — Medium
+- [Print the Longest Increasing Subsequence](../05-dynamic-programming/08-longest-increasing-subsequence/README.md) — Medium
+- [Product of Array Except Self](../01-core-linear/01-arrays/README.md) — Medium
+- [Product of Array Except Self](../01-core-linear/07-prefix-sum/README.md) — Medium
+- [Queue Reconstruction by Height](../02-intermediate/04-greedy/README.md) — Medium
+- [Random Pick Index](../02-intermediate/09-randomization-and-sampling/README.md) — Medium
+- [Random Pick with Weight](../02-intermediate/09-randomization-and-sampling/README.md) — Medium
+- [Random Point in Non-overlapping Rectangles](../02-intermediate/09-randomization-and-sampling/README.md) — Medium
+- [Range Addition](../01-core-linear/07-prefix-sum/README.md) — Medium
+- [Range Sum Query - Mutable](../06-advanced/02-segment-tree-and-fenwick/README.md) — Medium
+- [Range Sum Query - Mutable (sqrt decomposition)](../06-advanced/03-sparse-table-and-sqrt/README.md) — Medium
+- [Range Sum Query 2D (Matrix Prefix Sums)](../02-intermediate/08-matrix/README.md) — Medium
+- [Range Sum Query 2D - Immutable](../01-core-linear/07-prefix-sum/README.md) — Medium
+- [Rat in a Maze](../02-intermediate/02-backtracking/README.md) — Medium
+- [Rate Limiter (Token Bucket)](../06-advanced/05-design-problems/README.md) — Medium
+- [Rearrange Array Elements by Sign](../01-core-linear/01-arrays/README.md) — Medium
+- [Redundant Connection](../04-graphs/03-cycle-and-bipartite/README.md) — Medium
+- [Redundant Connection](../04-graphs/06-union-find/README.md) — Medium
+- [Regions Cut By Slashes](../04-graphs/06-union-find/README.md) — Medium
+- [Remove Covered Intervals](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Remove Duplicate Letters](../01-core-linear/11-monotonic-stack-queue/README.md) — Medium
+- [Remove Duplicates from Sorted Array II](../01-core-linear/05-two-pointers/README.md) — Medium
+- [Remove Duplicates from Sorted List II](../01-core-linear/09-linked-list/README.md) — Medium
+- [Remove K Digits](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Remove K Digits](../01-core-linear/11-monotonic-stack-queue/README.md) — Medium
+- [Remove Nth Node From End of List](../01-core-linear/09-linked-list/README.md) — Medium
+- [Reorder List](../01-core-linear/09-linked-list/README.md) — Medium
+- [Reorganize String](../02-intermediate/05-heaps/README.md) — Medium
+- [Replace Words](../03-trees/05-trie/README.md) — Medium
+- [Restore IP Addresses](../02-intermediate/02-backtracking/README.md) — Medium
+- [Reverse Integer (Overflow)](../00-foundations/04-math-basics/README.md) — Medium
+- [Reverse Linked List II (between m and n)](../01-core-linear/09-linked-list/README.md) — Medium
+- [Reverse Words in a String](../01-core-linear/04-strings/README.md) — Medium
+- [Reverse a Stack Using Recursion](../02-intermediate/01-recursion/README.md) — Medium
+- [Roman to Integer / Integer to Roman](../01-core-linear/04-strings/README.md) — Medium
+- [Rotate Array](../01-core-linear/01-arrays/README.md) — Medium
+- [Rotate Image](../02-intermediate/08-matrix/README.md) — Medium
+- [Rotate List](../01-core-linear/09-linked-list/README.md) — Medium
+- [Rotated Digits](../05-dynamic-programming/11-tree-and-digit-dp/README.md) — Medium
+- [Rotting Oranges](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Rotting Oranges](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Satisfiability of Equality Equations](../04-graphs/06-union-find/README.md) — Medium
+- [Search a 2D Matrix](../01-core-linear/08-binary-search/README.md) — Medium
+- [Search a 2D Matrix](../02-intermediate/08-matrix/README.md) — Medium
+- [Search a 2D Matrix II](../01-core-linear/08-binary-search/README.md) — Medium
+- [Search a 2D Matrix II](../02-intermediate/08-matrix/README.md) — Medium
+- [Search in Rotated Sorted Array](../01-core-linear/08-binary-search/README.md) — Medium
+- [Search in Rotated Sorted Array II (with duplicates)](../01-core-linear/08-binary-search/README.md) — Medium
+- [Set Matrix Zeroes](../02-intermediate/08-matrix/README.md) — Medium
+- [Shortest Bridge](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Shortest Path and Number of Paths in a Weighted DAG](../04-graphs/04-topological-sort/README.md) — Medium
+- [Shortest Path in Binary Matrix](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Medium
+- [Shortest Path in Binary Matrix](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Shortest Path in Binary Matrix (recap)](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Shortest Path in a DAG (reference)](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Shortest Path in an Unweighted Graph](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Medium
+- [Shortest Path with Printing the Path](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Shuffle an Array](../02-intermediate/09-randomization-and-sampling/README.md) — Medium
+- [Simplify Path](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Single Element in a Sorted Array](../01-core-linear/08-binary-search/README.md) — Medium
+- [Single Number II](../02-intermediate/07-bit-manipulation/README.md) — Medium
+- [Single Number III](../02-intermediate/07-bit-manipulation/README.md) — Medium
+- [Sliding Window Maximum via Sparse Table](../06-advanced/03-sparse-table-and-sqrt/README.md) — Medium
+- [Smallest String With Swaps](../04-graphs/06-union-find/README.md) — Medium
+- [Snakes and Ladders](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Snapshot Array](../06-advanced/05-design-problems/README.md) — Medium
+- [Sort Characters By Frequency](../01-core-linear/02-sorting/README.md) — Medium
+- [Sort Colors](../01-core-linear/02-sorting/README.md) — Medium
+- [Sort Colors (Dutch National Flag)](../01-core-linear/01-arrays/README.md) — Medium
+- [Sort Colors (Dutch National Flag)](../01-core-linear/05-two-pointers/README.md) — Medium
+- [Sort List](../01-core-linear/09-linked-list/README.md) — Medium
+- [Sort a K-Sorted Array](../02-intermediate/05-heaps/README.md) — Medium
+- [Sort a Stack Using Recursion](../02-intermediate/01-recursion/README.md) — Medium
+- [Spiral Matrix](../02-intermediate/08-matrix/README.md) — Medium
+- [Spiral Matrix II](../02-intermediate/08-matrix/README.md) — Medium
+- [Stone Game](../05-dynamic-programming/11-tree-and-digit-dp/README.md) — Medium
+- [Stone Game (I)](../06-advanced/07-game-theory-and-puzzles/README.md) — Medium
+- [Stone Game II](../06-advanced/07-game-theory-and-puzzles/README.md) — Medium
+- [String Compression](../01-core-linear/04-strings/README.md) — Medium
+- [String to Integer (atoi)](../01-core-linear/04-strings/README.md) — Medium
+- [Subarray Sum Equals K](../01-core-linear/03-hashing/README.md) — Medium
+- [Subarray Sum Equals K](../01-core-linear/07-prefix-sum/README.md) — Medium
+- [Subarray Sums Divisible by K](../01-core-linear/07-prefix-sum/README.md) — Medium
+- [Subsets](../02-intermediate/02-backtracking/README.md) — Medium
+- [Subsets (Power Set)](../02-intermediate/01-recursion/README.md) — Medium
+- [Subsets II](../02-intermediate/02-backtracking/README.md) — Medium
+- [Subsets via Bitmask](../02-intermediate/07-bit-manipulation/README.md) — Medium
+- [Sum Root to Leaf Numbers](../03-trees/03-paths-lca-and-tree-properties/README.md) — Medium
+- [Sum of Subarray Minimums](../01-core-linear/11-monotonic-stack-queue/README.md) — Medium
+- [Sum of Subarray Ranges](../01-core-linear/11-monotonic-stack-queue/README.md) — Medium
+- [Sum of Two Integers](../02-intermediate/07-bit-manipulation/README.md) — Medium
+- [Super Pow](../06-advanced/04-number-theory/README.md) — Medium
+- [Surrounded Regions](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Target Sum](../05-dynamic-programming/04-subset-and-subsequence-dp/README.md) — Medium
+- [Target Sum](../05-dynamic-programming/05-knapsack/README.md) — Medium
+- [Task Scheduler](../02-intermediate/04-greedy/README.md) — Medium
+- [Task Scheduler](../02-intermediate/05-heaps/README.md) — Medium
+- [The Josephus Problem (Find the Winner of the Circular Game)](../06-advanced/07-game-theory-and-puzzles/README.md) — Medium
+- [Time Based Key-Value Store](../06-advanced/05-design-problems/README.md) — Medium
+- [Top K Frequent Elements](../01-core-linear/03-hashing/README.md) — Medium
+- [Top K Frequent Elements](../02-intermediate/05-heaps/README.md) — Medium
+- [Top View of Binary Tree](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Topological Sort (DFS with stack)](../04-graphs/04-topological-sort/README.md) — Medium
+- [Topological Sort (Kahn's BFS)](../04-graphs/04-topological-sort/README.md) — Medium
+- [Total Hamming Distance](../02-intermediate/07-bit-manipulation/README.md) — Medium
+- [Tower of Hanoi](../02-intermediate/01-recursion/README.md) — Medium
+- [Triangle](../05-dynamic-programming/03-grid-dp/README.md) — Medium
+- [Trim a Binary Search Tree](../03-trees/04-binary-search-trees/README.md) — Medium
+- [Two Sum II (Sorted Input)](../01-core-linear/05-two-pointers/README.md) — Medium
+- [Ugly Number II](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Ugly Number II / Super Ugly Number](../02-intermediate/05-heaps/README.md) — Medium
+- [Ugly Number III](../06-advanced/04-number-theory/README.md) — Medium
+- [Unique Binary Search Trees](../05-dynamic-programming/09-partition-and-mcm-dp/README.md) — Medium
+- [Unique Paths](../05-dynamic-programming/03-grid-dp/README.md) — Medium
+- [Unique Paths (Combinatorics)](../06-advanced/04-number-theory/README.md) — Medium
+- [Unique Paths II (Obstacles)](../05-dynamic-programming/03-grid-dp/README.md) — Medium
+- [Valid Parenthesis String](../02-intermediate/04-greedy/README.md) — Medium
+- [Valid Sudoku](../02-intermediate/08-matrix/README.md) — Medium
+- [Validate Binary Search Tree](../03-trees/04-binary-search-trees/README.md) — Medium
+- [Video Stitching](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Walls and Gates](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Water and Jug Problem](../06-advanced/07-game-theory-and-puzzles/README.md) — Medium
+- [Word Break](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Word Search](../02-intermediate/02-backtracking/README.md) — Medium
+- [Word Search (grid backtracking)](../02-intermediate/08-matrix/README.md) — Medium
+- [XOR Queries of a Subarray](../01-core-linear/07-prefix-sum/README.md) — Medium
+- [XOR Queries of a Subarray](../02-intermediate/07-bit-manipulation/README.md) — Medium
+- [nCr mod 1e9+7](../06-advanced/04-number-theory/README.md) — Medium
+- [Alien Dictionary](../04-graphs/04-topological-sort/README.md) — Hard
+- [All O(1) Data Structure](../06-advanced/05-design-problems/README.md) — Hard
+- [Basic Calculator](../01-core-linear/10-stack-and-queue/README.md) — Hard
+- [Best Time to Buy and Sell Stock III](../05-dynamic-programming/07-stocks/README.md) — Hard
+- [Best Time to Buy and Sell Stock IV](../05-dynamic-programming/07-stocks/README.md) — Hard
+- [Binary Tree Cameras](../03-trees/03-paths-lca-and-tree-properties/README.md) — Hard
+- [Binary Tree Cameras](../05-dynamic-programming/11-tree-and-digit-dp/README.md) — Hard
+- [Binary Tree Maximum Path Sum](../03-trees/01-binary-tree-traversals/README.md) — Hard
+- [Binary Tree Maximum Path Sum](../03-trees/03-paths-lca-and-tree-properties/README.md) — Hard
+- [Boolean Parenthesization (Count Ways to Evaluate to True)](../05-dynamic-programming/09-partition-and-mcm-dp/README.md) — Hard
+- [Burst Balloons](../05-dynamic-programming/09-partition-and-mcm-dp/README.md) — Hard
+- [Candy](../02-intermediate/04-greedy/README.md) — Hard
+- [Cherry Pickup (I)](../05-dynamic-programming/03-grid-dp/README.md) — Hard
+- [Cherry Pickup II](../05-dynamic-programming/03-grid-dp/README.md) — Hard
+- [Count Anagrams](../06-advanced/04-number-theory/README.md) — Hard
+- [Count Special Integers](../05-dynamic-programming/11-tree-and-digit-dp/README.md) — Hard
+- [Count of Range Sum](../01-core-linear/07-prefix-sum/README.md) — Hard
+- [Count of Smaller Numbers After Self](../02-intermediate/03-divide-and-conquer/README.md) — Hard
+- [Count of Smaller Numbers After Self](../03-trees/04-binary-search-trees/README.md) — Hard
+- [Count of Smaller Numbers After Self](../06-advanced/02-segment-tree-and-fenwick/README.md) — Hard
+- [Cracking the Safe](../04-graphs/08-advanced-graphs/README.md) — Hard
+- [Critical Connections in a Network (Bridges)](../04-graphs/08-advanced-graphs/README.md) — Hard
+- [Data Stream as Disjoint Intervals](../02-intermediate/06-intervals-and-sweep-line/README.md) — Hard
+- [Design In-Memory File System](../06-advanced/05-design-problems/README.md) — Hard
+- [Design Search Autocomplete System](../03-trees/05-trie/README.md) — Hard
+- [Design Search Autocomplete System](../06-advanced/05-design-problems/README.md) — Hard
+- [Design Text Editor](../06-advanced/05-design-problems/README.md) — Hard
+- [Distinct Subsequences](../05-dynamic-programming/06-string-dp/README.md) — Hard
+- [Dungeon Game](../05-dynamic-programming/03-grid-dp/README.md) — Hard
+- [Egg Dropping (Super Egg Drop)](../06-advanced/07-game-theory-and-puzzles/README.md) — Hard
+- [Egg Dropping Puzzle (Super Egg Drop)](../05-dynamic-programming/09-partition-and-mcm-dp/README.md) — Hard
+- [Employee Free Time](../02-intermediate/06-intervals-and-sweep-line/README.md) — Hard
+- [Expression Add Operators](../02-intermediate/02-backtracking/README.md) — Hard
+- [Find Critical and Pseudo-Critical Edges in MST](../04-graphs/07-minimum-spanning-tree/README.md) — Hard
+- [Find Median from Data Stream](../02-intermediate/05-heaps/README.md) — Hard
+- [Find Median from Data Stream](../06-advanced/05-design-problems/README.md) — Hard
+- [Find in Mountain Array](../01-core-linear/08-binary-search/README.md) — Hard
+- [First Missing Positive](../01-core-linear/02-sorting/README.md) — Hard
+- [Huffman Coding](../02-intermediate/04-greedy/README.md) — Hard
+- [IPO](../02-intermediate/05-heaps/README.md) — Hard
+- [Insert Delete GetRandom O(1) - Duplicates Allowed](../02-intermediate/09-randomization-and-sampling/README.md) — Hard
+- [Kth Ancestor of a Tree Node](../04-graphs/08-advanced-graphs/README.md) — Hard
+- [LFU Cache](../06-advanced/05-design-problems/README.md) — Hard
+- [Largest BST Subtree in a Binary Tree](../03-trees/04-binary-search-trees/README.md) — Hard
+- [Largest Color Value in a Directed Graph](../04-graphs/04-topological-sort/README.md) — Hard
+- [Largest Rectangle in Histogram](../01-core-linear/11-monotonic-stack-queue/README.md) — Hard
+- [Largest Rectangle in Histogram (reference: sparse table + divide)](../06-advanced/03-sparse-table-and-sqrt/README.md) — Hard
+- [Last Day Where You Can Still Cross](../04-graphs/06-union-find/README.md) — Hard
+- [Longest Cycle in a Graph](../04-graphs/03-cycle-and-bipartite/README.md) — Hard
+- [Longest Duplicate Substring](../06-advanced/01-string-algorithms/README.md) — Hard
+- [Longest Increasing Path in a Matrix (Memo DFS)](../05-dynamic-programming/03-grid-dp/README.md) — Hard
+- [Lowest Common Ancestor via Binary Lifting](../04-graphs/08-advanced-graphs/README.md) — Hard
+- [Lowest Common Ancestor via Euler Tour + Sparse Table](../06-advanced/03-sparse-table-and-sqrt/README.md) — Hard
+- [Making A Large Island](../04-graphs/02-grid-and-islands/README.md) — Hard
+- [Making A Large Island](../04-graphs/06-union-find/README.md) — Hard
+- [Matrix Chain Multiplication (with bracket printing)](../05-dynamic-programming/09-partition-and-mcm-dp/README.md) — Hard
+- [Maximal Rectangle](../01-core-linear/11-monotonic-stack-queue/README.md) — Hard
+- [Maximum Profit in Job Scheduling](../05-dynamic-programming/07-stocks/README.md) — Hard
+- [Median of Two Sorted Arrays](../01-core-linear/08-binary-search/README.md) — Hard
+- [Median of Two Sorted Arrays](../02-intermediate/03-divide-and-conquer/README.md) — Hard
+- [Median of a Row-Wise Sorted Matrix](../02-intermediate/08-matrix/README.md) — Hard
+- [Merge K Sorted Lists](../02-intermediate/05-heaps/README.md) — Hard
+- [Merge k Sorted Lists](../01-core-linear/09-linked-list/README.md) — Hard
+- [Merge k Sorted Lists](../02-intermediate/03-divide-and-conquer/README.md) — Hard
+- [Minimum Cost to Cut a Stick](../05-dynamic-programming/09-partition-and-mcm-dp/README.md) — Hard
+- [Minimum Insertion Steps to Make a String Palindrome](../05-dynamic-programming/06-string-dp/README.md) — Hard
+- [Minimum Interval to Include Each Query](../02-intermediate/06-intervals-and-sweep-line/README.md) — Hard
+- [Minimum Number of Removals to Make Mountain Array](../05-dynamic-programming/08-longest-increasing-subsequence/README.md) — Hard
+- [Minimum Obstacle Removal to Reach Corner (0-1 BFS)](../04-graphs/05-shortest-paths/README.md) — Hard
+- [Minimum Window Substring](../01-core-linear/05-two-pointers/README.md) — Hard
+- [Minimum Window Substring](../01-core-linear/06-sliding-window/README.md) — Hard
+- [My Calendar III](../02-intermediate/06-intervals-and-sweep-line/README.md) — Hard
+- [N-Queens (and Total N-Queens)](../02-intermediate/02-backtracking/README.md) — Hard
+- [Non-negative Integers without Consecutive Ones](../05-dynamic-programming/11-tree-and-digit-dp/README.md) — Hard
+- [Number of Digit One](../05-dynamic-programming/11-tree-and-digit-dp/README.md) — Hard
+- [Number of Islands II](../04-graphs/06-union-find/README.md) — Hard
+- [Number of Paths with Max Score](../05-dynamic-programming/03-grid-dp/README.md) — Hard
+- [Number of Ways to Form a Target String Given a Dictionary](../06-advanced/04-number-theory/README.md) — Hard
+- [Number of Ways to Paint N x 3 Grid](../06-advanced/04-number-theory/README.md) — Hard
+- [Number of Ways to Wear Different Hats to Each Other](../05-dynamic-programming/10-bitmask-dp/README.md) — Hard
+- [Numbers At Most N Given Digit Set](../05-dynamic-programming/11-tree-and-digit-dp/README.md) — Hard
+- [Optimize Water Distribution in a Village](../04-graphs/07-minimum-spanning-tree/README.md) — Hard
+- [Palindrome Pairs](../03-trees/05-trie/README.md) — Hard
+- [Palindrome Partitioning II](../05-dynamic-programming/06-string-dp/README.md) — Hard
+- [Palindrome Partitioning II](../05-dynamic-programming/09-partition-and-mcm-dp/README.md) — Hard
+- [Parallel Courses (Minimum Semesters)](../04-graphs/04-topological-sort/README.md) — Hard
+- [Random Pick with Blacklist](../02-intermediate/09-randomization-and-sampling/README.md) — Hard
+- [Range Module (concept)](../02-intermediate/06-intervals-and-sweep-line/README.md) — Hard
+- [Reconstruct Itinerary](../04-graphs/08-advanced-graphs/README.md) — Hard
+- [Recover Binary Search Tree](../03-trees/04-binary-search-trees/README.md) — Hard
+- [Redundant Connection II (directed)](../04-graphs/06-union-find/README.md) — Hard
+- [Regular Expression Matching](../05-dynamic-programming/06-string-dp/README.md) — Hard
+- [Remove Max Number of Edges to Keep Graph Fully Traversable](../04-graphs/06-union-find/README.md) — Hard
+- [Reverse Nodes in k-Group](../01-core-linear/09-linked-list/README.md) — Hard
+- [Reverse Pairs](../01-core-linear/02-sorting/README.md) — Hard
+- [Reverse Pairs](../02-intermediate/03-divide-and-conquer/README.md) — Hard
+- [Reverse Pairs](../06-advanced/02-segment-tree-and-fenwick/README.md) — Hard
+- [Russian Doll Envelopes](../05-dynamic-programming/08-longest-increasing-subsequence/README.md) — Hard
+- [Serialize and Deserialize Binary Tree](../03-trees/02-tree-construction-and-views/README.md) — Hard
+- [Shortest Common Supersequence (with the string)](../05-dynamic-programming/06-string-dp/README.md) — Hard
+- [Shortest Palindrome](../06-advanced/01-string-algorithms/README.md) — Hard
+- [Shortest Path Visiting All Nodes](../05-dynamic-programming/10-bitmask-dp/README.md) — Hard
+- [Shortest Subarray with Sum at Least K](../01-core-linear/11-monotonic-stack-queue/README.md) — Hard
+- [Sliding Window Maximum](../01-core-linear/06-sliding-window/README.md) — Hard
+- [Sliding Window Maximum](../01-core-linear/11-monotonic-stack-queue/README.md) — Hard
+- [Sliding Window Median](../02-intermediate/05-heaps/README.md) — Hard
+- [Smallest Range Covering Elements from K Lists](../02-intermediate/05-heaps/README.md) — Hard
+- [Smallest Sufficient Team](../05-dynamic-programming/10-bitmask-dp/README.md) — Hard
+- [Sort Items by Groups Respecting Dependencies](../04-graphs/04-topological-sort/README.md) — Hard
+- [Split Array Largest Sum (Allocate Books, Painter's Partition)](../01-core-linear/08-binary-search/README.md) — Hard
+- [Stone Game III](../05-dynamic-programming/11-tree-and-digit-dp/README.md) — Hard
+- [Stone Game III](../06-advanced/07-game-theory-and-puzzles/README.md) — Hard
+- [Stone Game IV](../06-advanced/07-game-theory-and-puzzles/README.md) — Hard
+- [Strange Printer](../05-dynamic-programming/09-partition-and-mcm-dp/README.md) — Hard
+- [Stream of Characters](../03-trees/05-trie/README.md) — Hard
+- [Subarrays With K Different Integers](../01-core-linear/06-sliding-window/README.md) — Hard
+- [Substring with Concatenation of All Words](../01-core-linear/06-sliding-window/README.md) — Hard
+- [Sudoku Solver](../02-intermediate/02-backtracking/README.md) — Hard
+- [Sum of Distances in Tree](../05-dynamic-programming/11-tree-and-digit-dp/README.md) — Hard
+- [Swim in Rising Water](../04-graphs/05-shortest-paths/README.md) — Hard
+- [Swim in Rising Water (via DSU)](../04-graphs/06-union-find/README.md) — Hard
+- [The Skyline Problem](../02-intermediate/03-divide-and-conquer/README.md) — Hard
+- [The Skyline Problem](../02-intermediate/06-intervals-and-sweep-line/README.md) — Hard
+- [Trapping Rain Water](../01-core-linear/05-two-pointers/README.md) — Hard
+- [Trapping Rain Water](../01-core-linear/11-monotonic-stack-queue/README.md) — Hard
+- [Travelling Salesman Problem (TSP)](../05-dynamic-programming/10-bitmask-dp/README.md) — Hard
+- [Unique Paths III](../02-intermediate/02-backtracking/README.md) — Hard
+- [Vertical Order Traversal of a Binary Tree](../03-trees/01-binary-tree-traversals/README.md) — Hard
+- [Vertical Order Traversal of a Binary Tree](../03-trees/02-tree-construction-and-views/README.md) — Hard
+- [Wildcard Matching](../05-dynamic-programming/06-string-dp/README.md) — Hard
+- [Word Break II](../02-intermediate/02-backtracking/README.md) — Hard
+- [Word Ladder](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Hard
+- [Word Ladder II (brief)](../04-graphs/08-advanced-graphs/README.md) — Hard
+- [Word Search II](../03-trees/05-trie/README.md) — Hard
+
+## Google (630)
+
+- [Assign Cookies](../02-intermediate/04-greedy/README.md) — Easy
+- [Backspace String Compare](../01-core-linear/10-stack-and-queue/README.md) — Easy
+- [Best Time to Buy and Sell Stock](../01-core-linear/01-arrays/README.md) — Easy
+- [Best Time to Buy and Sell Stock](../05-dynamic-programming/07-stocks/README.md) — Easy
+- [Binary Tree Inorder Traversal](../03-trees/01-binary-tree-traversals/README.md) — Easy
+- [Binary Tree Paths (All Root-to-Leaf Paths)](../03-trees/03-paths-lca-and-tree-properties/README.md) — Easy
+- [Bulb Switcher](../06-advanced/04-number-theory/README.md) — Easy
+- [Climbing Stairs](../05-dynamic-programming/01-dp-intuition/README.md) — Easy
+- [Count Negative Numbers in a Sorted Matrix](../02-intermediate/08-matrix/README.md) — Easy
+- [Counting Bits](../02-intermediate/07-bit-manipulation/README.md) — Easy
+- [Design HashMap (Separate Chaining)](../06-advanced/05-design-problems/README.md) — Easy
+- [Diameter of Binary Tree](../03-trees/01-binary-tree-traversals/README.md) — Easy
+- [Diameter of Binary Tree (recap)](../03-trees/03-paths-lca-and-tree-properties/README.md) — Easy
+- [Divisor Game](../06-advanced/07-game-theory-and-puzzles/README.md) — Easy
+- [Fibonacci Number (4 versions)](../05-dynamic-programming/01-dp-intuition/README.md) — Easy
+- [Fibonacci: Naive vs Memoized](../02-intermediate/01-recursion/README.md) — Easy
+- [Find Center of Star Graph](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Easy
+- [Find if Path Exists in Graph](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Easy
+- [Find the Index of the First Occurrence in a String (strStr)](../06-advanced/01-string-algorithms/README.md) — Easy
+- [Find the Town Judge](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Easy
+- [Flip Game](../06-advanced/07-game-theory-and-puzzles/README.md) — Easy
+- [Flood Fill](../04-graphs/02-grid-and-islands/README.md) — Easy
+- [Flood Fill (Recursion Intro)](../02-intermediate/01-recursion/README.md) — Easy
+- [GCD and LCM (Euclid)](../00-foundations/04-math-basics/README.md) — Easy
+- [Happy Number](../00-foundations/04-math-basics/README.md) — Easy
+- [House Robber](../05-dynamic-programming/02-one-d-dp/README.md) — Easy
+- [Index Pairs of a String](../03-trees/05-trie/README.md) — Easy
+- [Intersection of Two Linked Lists](../01-core-linear/09-linked-list/README.md) — Easy
+- [Invert Binary Tree](../03-trees/01-binary-tree-traversals/README.md) — Easy
+- [Island Perimeter](../04-graphs/02-grid-and-islands/README.md) — Easy
+- [Isomorphic Strings](../01-core-linear/04-strings/README.md) — Easy
+- [Kth Largest Element in a Stream](../02-intermediate/05-heaps/README.md) — Easy
+- [Kth Missing Positive Number](../01-core-linear/08-binary-search/README.md) — Easy
+- [Last Stone Weight](../02-intermediate/05-heaps/README.md) — Easy
+- [Lemonade Change](../02-intermediate/04-greedy/README.md) — Easy
+- [Linked List Cycle](../01-core-linear/09-linked-list/README.md) — Easy
+- [Logger Rate Limiter](../06-advanced/05-design-problems/README.md) — Easy
+- [Longest Common Prefix](../01-core-linear/04-strings/README.md) — Easy
+- [Longest Common Prefix](../03-trees/05-trie/README.md) — Easy
+- [Longest Word in Dictionary](../03-trees/05-trie/README.md) — Easy
+- [Majority Element (Boyer-Moore Voting)](../01-core-linear/01-arrays/README.md) — Easy
+- [Majority Element (D&C version)](../02-intermediate/03-divide-and-conquer/README.md) — Easy
+- [Maximum Depth of Binary Tree](../03-trees/01-binary-tree-traversals/README.md) — Easy
+- [Maximum Depth of N-ary Tree](../03-trees/03-paths-lca-and-tree-properties/README.md) — Easy
+- [Maximum Subarray](../05-dynamic-programming/02-one-d-dp/README.md) — Easy
+- [Maximum Sum Subarray of Size K](../01-core-linear/06-sliding-window/README.md) — Easy
+- [Meeting Rooms (Can Attend All)](../02-intermediate/06-intervals-and-sweep-line/README.md) — Easy
+- [Merge Sorted Array](../01-core-linear/02-sorting/README.md) — Easy
+- [Merge Sorted Array](../01-core-linear/05-two-pointers/README.md) — Easy
+- [Merge Two Sorted Lists](../01-core-linear/09-linked-list/README.md) — Easy
+- [Min Cost Climbing Stairs](../05-dynamic-programming/01-dp-intuition/README.md) — Easy
+- [Min Stack](../06-advanced/05-design-problems/README.md) — Easy
+- [Minimum Bit Flips to Convert Number](../02-intermediate/07-bit-manipulation/README.md) — Easy
+- [Move Zeroes](../01-core-linear/01-arrays/README.md) — Easy
+- [Move Zeroes](../01-core-linear/05-two-pointers/README.md) — Easy
+- [Moving Average from Data Stream](../06-advanced/05-design-problems/README.md) — Easy
+- [N-th Tribonacci Number](../05-dynamic-programming/01-dp-intuition/README.md) — Easy
+- [Next Greater Element I](../01-core-linear/11-monotonic-stack-queue/README.md) — Easy
+- [Nim Game](../06-advanced/07-game-theory-and-puzzles/README.md) — Easy
+- [Number of 1 Bits](../02-intermediate/07-bit-manipulation/README.md) — Easy
+- [Number of Recent Calls](../01-core-linear/10-stack-and-queue/README.md) — Easy
+- [Palindrome Number](../00-foundations/04-math-basics/README.md) — Easy
+- [Pascal's Triangle](../00-foundations/04-math-basics/README.md) — Easy
+- [Power of Two](../02-intermediate/07-bit-manipulation/README.md) — Easy
+- [Range Sum Query - Immutable](../01-core-linear/07-prefix-sum/README.md) — Easy
+- [Remove Duplicates from Sorted Array](../01-core-linear/01-arrays/README.md) — Easy
+- [Remove Element](../01-core-linear/05-two-pointers/README.md) — Easy
+- [Remove Outermost Parentheses](../01-core-linear/10-stack-and-queue/README.md) — Easy
+- [Repeated Substring Pattern](../06-advanced/01-string-algorithms/README.md) — Easy
+- [Reverse Linked List](../01-core-linear/09-linked-list/README.md) — Easy
+- [Rotate String](../01-core-linear/04-strings/README.md) — Easy
+- [Rotate String](../06-advanced/01-string-algorithms/README.md) — Easy
+- [Running Sum of 1D Array](../01-core-linear/07-prefix-sum/README.md) — Easy
+- [Same Tree](../03-trees/01-binary-tree-traversals/README.md) — Easy
+- [Same Tree and Subtree of Another Tree](../03-trees/03-paths-lca-and-tree-properties/README.md) — Easy
+- [Search Insert Position](../01-core-linear/08-binary-search/README.md) — Easy
+- [Single Number](../02-intermediate/07-bit-manipulation/README.md) — Easy
+- [Sqrt(x)](../01-core-linear/08-binary-search/README.md) — Easy
+- [Sqrt(x) (Binary Search)](../00-foundations/04-math-basics/README.md) — Easy
+- [Squares of a Sorted Array](../01-core-linear/05-two-pointers/README.md) — Easy
+- [String Matching in an Array](../06-advanced/01-string-algorithms/README.md) — Easy
+- [Sum of Left Leaves](../03-trees/03-paths-lca-and-tree-properties/README.md) — Easy
+- [Toeplitz Matrix](../02-intermediate/08-matrix/README.md) — Easy
+- [Transpose Matrix](../02-intermediate/08-matrix/README.md) — Easy
+- [Two Sum](../01-core-linear/03-hashing/README.md) — Easy
+- [Valid Anagram](../01-core-linear/04-strings/README.md) — Easy
+- [Valid Palindrome (and Valid Palindrome II)](../01-core-linear/04-strings/README.md) — Easy
+- [Valid Parentheses](../01-core-linear/10-stack-and-queue/README.md) — Easy
+- [01 Matrix](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [132 Pattern](../01-core-linear/11-monotonic-stack-queue/README.md) — Medium
+- [3Sum](../01-core-linear/05-two-pointers/README.md) — Medium
+- [3Sum Closest](../01-core-linear/05-two-pointers/README.md) — Medium
+- [3Sum — hash vs two pointers (mention only)](../01-core-linear/03-hashing/README.md) — Medium
+- [4Sum](../01-core-linear/05-two-pointers/README.md) — Medium
+- [Accounts Merge](../04-graphs/06-union-find/README.md) — Medium
+- [Add Binary / Multiply Strings](../01-core-linear/04-strings/README.md) — Medium
+- [Add Two Numbers](../01-core-linear/09-linked-list/README.md) — Medium
+- [Aggressive Cows (Magnetic Force Between Two Balls)](../01-core-linear/08-binary-search/README.md) — Medium
+- [All Ancestors of a Node in a DAG](../04-graphs/04-topological-sort/README.md) — Medium
+- [All Nodes Distance K in Binary Tree](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [All Paths From Source to Target](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Medium
+- [As Far from Land as Possible](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Asteroid Collision](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Asteroid Collision](../01-core-linear/11-monotonic-stack-queue/README.md) — Medium
+- [Basic Calculator II](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Beautiful Arrangement](../05-dynamic-programming/10-bitmask-dp/README.md) — Medium
+- [Best Sightseeing Pair](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Best Time to Buy and Sell Stock II](../05-dynamic-programming/07-stocks/README.md) — Medium
+- [Best Time to Buy and Sell Stock with Cooldown](../05-dynamic-programming/07-stocks/README.md) — Medium
+- [Best Time to Buy and Sell Stock with Transaction Fee](../05-dynamic-programming/07-stocks/README.md) — Medium
+- [Binary Search Tree Iterator](../03-trees/04-binary-search-trees/README.md) — Medium
+- [Binary Subarrays With Sum](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Binary Tree Level Order Traversal](../03-trees/01-binary-tree-traversals/README.md) — Medium
+- [Binary Tree Right Side View (and Left Side View)](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Bitwise AND of Numbers Range](../02-intermediate/07-bit-manipulation/README.md) — Medium
+- [Boats to Save People](../01-core-linear/05-two-pointers/README.md) — Medium
+- [Bulb Switcher (and 100 Doors)](../06-advanced/07-game-theory-and-puzzles/README.md) — Medium
+- [Can I Win](../05-dynamic-programming/10-bitmask-dp/README.md) — Medium
+- [Can I Win](../06-advanced/07-game-theory-and-puzzles/README.md) — Medium
+- [Capacity to Ship Packages Within D Days](../01-core-linear/08-binary-search/README.md) — Medium
+- [Car Fleet](../01-core-linear/11-monotonic-stack-queue/README.md) — Medium
+- [Car Pooling](../01-core-linear/07-prefix-sum/README.md) — Medium
+- [Car Pooling](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Catalan Numbers (Unique Binary Search Trees)](../06-advanced/04-number-theory/README.md) — Medium
+- [Cheapest Flights Within K Stops](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Check Completeness of a Binary Tree](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Clone Graph](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Medium
+- [Coin Change](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Coin Change](../05-dynamic-programming/05-knapsack/README.md) — Medium
+- [Coin Change II](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Coin Change II](../05-dynamic-programming/05-knapsack/README.md) — Medium
+- [Combination Sum](../02-intermediate/02-backtracking/README.md) — Medium
+- [Combination Sum III](../02-intermediate/02-backtracking/README.md) — Medium
+- [Combination Sum IV](../05-dynamic-programming/04-subset-and-subsequence-dp/README.md) — Medium
+- [Combination Sum IV](../05-dynamic-programming/05-knapsack/README.md) — Medium
+- [Combinations](../02-intermediate/02-backtracking/README.md) — Medium
+- [Connecting Cities With Minimum Cost](../04-graphs/07-minimum-spanning-tree/README.md) — Medium
+- [Construct BST from Preorder Traversal](../03-trees/04-binary-search-trees/README.md) — Medium
+- [Construct Binary Tree from Inorder and Postorder](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Construct Binary Tree from Preorder and Inorder](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Construct Binary Tree from Preorder and Postorder (Full Tree)](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Construct Binary Tree from String, and Print Binary Tree](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Container With Most Water](../01-core-linear/05-two-pointers/README.md) — Medium
+- [Contiguous Array](../01-core-linear/07-prefix-sum/README.md) — Medium
+- [Continuous Subarray Sum](../01-core-linear/07-prefix-sum/README.md) — Medium
+- [Copy List with Random Pointer](../01-core-linear/03-hashing/README.md) — Medium
+- [Copy List with Random Pointer](../01-core-linear/09-linked-list/README.md) — Medium
+- [Corporate Flight Bookings](../01-core-linear/07-prefix-sum/README.md) — Medium
+- [Count Assignments of Tasks to People](../05-dynamic-programming/10-bitmask-dp/README.md) — Medium
+- [Count Complete Tree Nodes](../03-trees/01-binary-tree-traversals/README.md) — Medium
+- [Count Good Nodes in Binary Tree](../03-trees/03-paths-lca-and-tree-properties/README.md) — Medium
+- [Count Good Numbers](../02-intermediate/01-recursion/README.md) — Medium
+- [Count Inversions](../01-core-linear/02-sorting/README.md) — Medium
+- [Count Number of Nice Subarrays](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Count Numbers with Unique Digits](../05-dynamic-programming/11-tree-and-digit-dp/README.md) — Medium
+- [Count Primes (Sieve of Eratosthenes)](../00-foundations/04-math-basics/README.md) — Medium
+- [Count Primes in a Range (Segmented Sieve)](../06-advanced/04-number-theory/README.md) — Medium
+- [Count Square Submatrices with All Ones](../05-dynamic-programming/03-grid-dp/README.md) — Medium
+- [Course Schedule](../04-graphs/03-cycle-and-bipartite/README.md) — Medium
+- [Course Schedule](../04-graphs/04-topological-sort/README.md) — Medium
+- [Course Schedule (Directed Graph Intro)](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Medium
+- [Course Schedule II](../04-graphs/04-topological-sort/README.md) — Medium
+- [Daily Temperatures](../01-core-linear/11-monotonic-stack-queue/README.md) — Medium
+- [Decode String](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Decode Ways](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Decode Ways (intro)](../05-dynamic-programming/01-dp-intuition/README.md) — Medium
+- [Delete Operation for Two Strings](../05-dynamic-programming/06-string-dp/README.md) — Medium
+- [Delete and Earn](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Design Add and Search Words Data Structure](../03-trees/05-trie/README.md) — Medium
+- [Design Browser History](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Design Browser History](../06-advanced/05-design-problems/README.md) — Medium
+- [Design Circular Queue](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Design Circular Queue (and Deque)](../06-advanced/05-design-problems/README.md) — Medium
+- [Design Hit Counter](../06-advanced/05-design-problems/README.md) — Medium
+- [Design Twitter](../06-advanced/05-design-problems/README.md) — Medium
+- [Design Underground System](../06-advanced/05-design-problems/README.md) — Medium
+- [Detect Cycles in a 2D Grid](../04-graphs/03-cycle-and-bipartite/README.md) — Medium
+- [Diagonal Traverse](../02-intermediate/08-matrix/README.md) — Medium
+- [Different Ways to Add Parentheses](../02-intermediate/03-divide-and-conquer/README.md) — Medium
+- [Dijkstra's Algorithm](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Distinct Prime Factors of Product of Array](../06-advanced/04-number-theory/README.md) — Medium
+- [Divide Two Integers](../02-intermediate/07-bit-manipulation/README.md) — Medium
+- [Domino and Tromino Tiling](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Edit Distance](../05-dynamic-programming/06-string-dp/README.md) — Medium
+- [Encode and Decode Strings](../01-core-linear/04-strings/README.md) — Medium
+- [Evaluate Division](../04-graphs/06-union-find/README.md) — Medium
+- [Evaluate Reverse Polish Notation](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Excel Sheet Column Title](../00-foundations/04-math-basics/README.md) — Medium
+- [Factorial Trailing Zeroes](../00-foundations/04-math-basics/README.md) — Medium
+- [Fair Distribution of Cookies](../05-dynamic-programming/10-bitmask-dp/README.md) — Medium
+- [Find All Anagrams in a String](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Find All Anagrams in a String (hash version)](../06-advanced/01-string-algorithms/README.md) — Medium
+- [Find Duplicate Subtrees](../03-trees/03-paths-lca-and-tree-properties/README.md) — Medium
+- [Find Eventual Safe States](../04-graphs/03-cycle-and-bipartite/README.md) — Medium
+- [Find Eventual Safe States](../04-graphs/04-topological-sort/README.md) — Medium
+- [Find K Pairs with Smallest Sums](../02-intermediate/05-heaps/README.md) — Medium
+- [Find Minimum in Rotated Sorted Array](../01-core-linear/08-binary-search/README.md) — Medium
+- [Find Peak Element](../01-core-linear/08-binary-search/README.md) — Medium
+- [Find the Celebrity](../06-advanced/07-game-theory-and-puzzles/README.md) — Medium
+- [Find the City With the Smallest Number of Neighbors at a Threshold Distance](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Find the Duplicate Number](../01-core-linear/02-sorting/README.md) — Medium
+- [Find the Smallest Divisor Given a Threshold](../01-core-linear/08-binary-search/README.md) — Medium
+- [First and Last Position of Element in Sorted Array (and Count Occurrences)](../01-core-linear/08-binary-search/README.md) — Medium
+- [Flatten Binary Tree to Linked List](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Flatten a Multilevel Doubly Linked List](../01-core-linear/09-linked-list/README.md) — Medium
+- [Flip Game II](../06-advanced/07-game-theory-and-puzzles/README.md) — Medium
+- [Flip Matrix](../02-intermediate/09-randomization-and-sampling/README.md) — Medium
+- [Fraction to Recurring Decimal](../06-advanced/04-number-theory/README.md) — Medium
+- [Fruit Into Baskets](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Game of Life](../02-intermediate/08-matrix/README.md) — Medium
+- [Gas Station](../02-intermediate/04-greedy/README.md) — Medium
+- [Generate Parentheses](../02-intermediate/01-recursion/README.md) — Medium
+- [Generate Parentheses](../02-intermediate/02-backtracking/README.md) — Medium
+- [Generate Random Point in a Circle](../02-intermediate/09-randomization-and-sampling/README.md) — Medium
+- [Graph Valid Tree](../04-graphs/06-union-find/README.md) — Medium
+- [Gray Code](../02-intermediate/07-bit-manipulation/README.md) — Medium
+- [Group Anagrams](../01-core-linear/03-hashing/README.md) — Medium
+- [Guess Number Higher or Lower II](../05-dynamic-programming/09-partition-and-mcm-dp/README.md) — Medium
+- [Guess Number Higher or Lower II](../06-advanced/07-game-theory-and-puzzles/README.md) — Medium
+- [Hand of Straights](../02-intermediate/04-greedy/README.md) — Medium
+- [Hand of Straights](../02-intermediate/05-heaps/README.md) — Medium
+- [House Robber](../05-dynamic-programming/01-dp-intuition/README.md) — Medium
+- [House Robber II](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [House Robber III](../05-dynamic-programming/11-tree-and-digit-dp/README.md) — Medium
+- [House Robber III (reference to DP)](../03-trees/03-paths-lca-and-tree-properties/README.md) — Medium
+- [Implement Rand10() Using Rand7()](../02-intermediate/09-randomization-and-sampling/README.md) — Medium
+- [Implement Trie (Prefix Tree)](../03-trees/05-trie/README.md) — Medium
+- [Implement Trie II (Prefix Tree with Counts and Erase)](../03-trees/05-trie/README.md) — Medium
+- [Insert Delete GetRandom O(1)](../02-intermediate/09-randomization-and-sampling/README.md) — Medium
+- [Insert Delete GetRandom O(1)](../06-advanced/05-design-problems/README.md) — Medium
+- [Insert Interval](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Integer Break](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Interleaving String](../05-dynamic-programming/06-string-dp/README.md) — Medium
+- [Interval List Intersections](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Is Graph Bipartite?](../04-graphs/03-cycle-and-bipartite/README.md) — Medium
+- [Josephus Problem](../02-intermediate/01-recursion/README.md) — Medium
+- [Jump Game](../02-intermediate/04-greedy/README.md) — Medium
+- [Jump Game](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Jump Game II](../02-intermediate/04-greedy/README.md) — Medium
+- [Jump Game II](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [K Closest Points to Origin](../02-intermediate/05-heaps/README.md) — Medium
+- [K-th Symbol in Grammar](../02-intermediate/01-recursion/README.md) — Medium
+- [Keys and Rooms](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Medium
+- [Knight Probability in Chessboard](../05-dynamic-programming/03-grid-dp/README.md) — Medium
+- [Koko Eating Bananas](../01-core-linear/08-binary-search/README.md) — Medium
+- [Kth Largest Element in an Array](../01-core-linear/02-sorting/README.md) — Medium
+- [Kth Largest Element in an Array](../02-intermediate/05-heaps/README.md) — Medium
+- [Kth Largest Element in an Array](../02-intermediate/09-randomization-and-sampling/README.md) — Medium
+- [Kth Largest Element in an Array (Quickselect)](../02-intermediate/03-divide-and-conquer/README.md) — Medium
+- [Kth Smallest Element in a BST (and Kth Largest)](../03-trees/04-binary-search-trees/README.md) — Medium
+- [Kth Smallest Element in a Sorted Matrix](../02-intermediate/05-heaps/README.md) — Medium
+- [Kth Smallest Element in a Sorted Matrix](../02-intermediate/08-matrix/README.md) — Medium
+- [LRU Cache](../06-advanced/05-design-problems/README.md) — Medium
+- [Largest Divisible Subset](../05-dynamic-programming/08-longest-increasing-subsequence/README.md) — Medium
+- [Largest Number](../01-core-linear/02-sorting/README.md) — Medium
+- [Last Stone Weight II](../05-dynamic-programming/04-subset-and-subsequence-dp/README.md) — Medium
+- [Letter Combinations of a Phone Number](../02-intermediate/01-recursion/README.md) — Medium
+- [Letter Combinations of a Phone Number](../02-intermediate/02-backtracking/README.md) — Medium
+- [Linked List Cycle II (start and length of the cycle)](../01-core-linear/09-linked-list/README.md) — Medium
+- [Linked List Random Node](../02-intermediate/09-randomization-and-sampling/README.md) — Medium
+- [Longest Arithmetic Subsequence](../05-dynamic-programming/08-longest-increasing-subsequence/README.md) — Medium
+- [Longest Common Subsequence](../05-dynamic-programming/06-string-dp/README.md) — Medium
+- [Longest Consecutive Sequence](../01-core-linear/03-hashing/README.md) — Medium
+- [Longest Consecutive Sequence (via DSU)](../04-graphs/06-union-find/README.md) — Medium
+- [Longest Happy Prefix](../06-advanced/01-string-algorithms/README.md) — Medium
+- [Longest Increasing Subsequence](../05-dynamic-programming/08-longest-increasing-subsequence/README.md) — Medium
+- [Longest Palindromic Subsequence](../05-dynamic-programming/06-string-dp/README.md) — Medium
+- [Longest Palindromic Substring](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Longest Palindromic Substring (Manacher)](../06-advanced/01-string-algorithms/README.md) — Medium
+- [Longest Palindromic Substring (and Count Palindromic Substrings)](../01-core-linear/04-strings/README.md) — Medium
+- [Longest Repeating Character Replacement](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Longest String Chain](../05-dynamic-programming/08-longest-increasing-subsequence/README.md) — Medium
+- [Longest Substring Without Repeating Characters](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Longest Substring with At Most K Distinct Characters](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Longest Univalue Path](../03-trees/03-paths-lca-and-tree-properties/README.md) — Medium
+- [Longest ZigZag Path in a Binary Tree](../05-dynamic-programming/11-tree-and-digit-dp/README.md) — Medium
+- [Lowest Common Ancestor of Deepest Leaves](../03-trees/03-paths-lca-and-tree-properties/README.md) — Medium
+- [Lowest Common Ancestor of a Binary Tree](../03-trees/03-paths-lca-and-tree-properties/README.md) — Medium
+- [M-Coloring Problem](../02-intermediate/02-backtracking/README.md) — Medium
+- [Map Sum Pairs](../03-trees/05-trie/README.md) — Medium
+- [Matchsticks to Square](../05-dynamic-programming/10-bitmask-dp/README.md) — Medium
+- [Max Area of Island](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Max Consecutive Ones III](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Maximal Square](../02-intermediate/08-matrix/README.md) — Medium
+- [Maximal Square](../05-dynamic-programming/03-grid-dp/README.md) — Medium
+- [Maximum Length of Pair Chain](../05-dynamic-programming/08-longest-increasing-subsequence/README.md) — Medium
+- [Maximum Overlap (Most Crowded Time)](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Maximum Product Subarray](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Maximum Subarray (D&C version)](../02-intermediate/03-divide-and-conquer/README.md) — Medium
+- [Maximum Subarray (Kadane's Algorithm)](../01-core-linear/01-arrays/README.md) — Medium
+- [Maximum Subarray (via prefix sums)](../01-core-linear/07-prefix-sum/README.md) — Medium
+- [Maximum Sum Circular Subarray](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Maximum Width of Binary Tree](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Maximum XOR of Two Numbers in an Array](../02-intermediate/07-bit-manipulation/README.md) — Medium
+- [Maximum XOR of Two Numbers in an Array](../03-trees/05-trie/README.md) — Medium
+- [Meeting Rooms II](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Merge Intervals](../01-core-linear/02-sorting/README.md) — Medium
+- [Merge Intervals](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Merge Triplets to Form Target Triplet](../02-intermediate/04-greedy/README.md) — Medium
+- [Min Cost to Connect All Points](../04-graphs/07-minimum-spanning-tree/README.md) — Medium
+- [Min Stack](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Minimum Cost For Tickets](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Minimum Cost Tree From Leaf Values](../05-dynamic-programming/09-partition-and-mcm-dp/README.md) — Medium
+- [Minimum Cost to Connect Ropes](../02-intermediate/05-heaps/README.md) — Medium
+- [Minimum Cost to Connect Sticks](../04-graphs/07-minimum-spanning-tree/README.md) — Medium
+- [Minimum Falling Path Sum](../05-dynamic-programming/03-grid-dp/README.md) — Medium
+- [Minimum Genetic Mutation](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Medium
+- [Minimum Height Trees](../04-graphs/04-topological-sort/README.md) — Medium
+- [Minimum Knight Moves](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Minimum Number of Arrows to Burst Balloons](../02-intermediate/04-greedy/README.md) — Medium
+- [Minimum Number of Arrows to Burst Balloons](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Minimum Number of Days to Make m Bouquets](../01-core-linear/08-binary-search/README.md) — Medium
+- [Minimum Number of Work Sessions to Finish the Tasks](../05-dynamic-programming/10-bitmask-dp/README.md) — Medium
+- [Minimum Path Sum](../05-dynamic-programming/03-grid-dp/README.md) — Medium
+- [Minimum Remove to Make Valid Parentheses](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Minimum Score Triangulation of Polygon](../05-dynamic-programming/09-partition-and-mcm-dp/README.md) — Medium
+- [Minimum Size Subarray Sum](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Minimum Time to Burn a Binary Tree / Amount of Time to Infect](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Minimum Time to Collect All Apples in a Tree](../04-graphs/08-advanced-graphs/README.md) — Medium
+- [Most Stones Removed with Same Row or Column](../04-graphs/06-union-find/README.md) — Medium
+- [My Calendar I](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [My Calendar II](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Network Delay Time](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Next Greater Element II (Circular)](../01-core-linear/11-monotonic-stack-queue/README.md) — Medium
+- [Next Permutation](../01-core-linear/01-arrays/README.md) — Medium
+- [Non-overlapping Intervals](../02-intermediate/04-greedy/README.md) — Medium
+- [Non-overlapping Intervals](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Nth Root of an Integer](../01-core-linear/08-binary-search/README.md) — Medium
+- [Number of Closed Islands](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Number of Connected Components in an Undirected Graph](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Medium
+- [Number of Distinct Islands](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Number of Enclaves](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Number of Islands](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Number of Islands (grid DFS/BFS)](../02-intermediate/08-matrix/README.md) — Medium
+- [Number of Longest Increasing Subsequences](../05-dynamic-programming/08-longest-increasing-subsequence/README.md) — Medium
+- [Number of Operations to Make Network Connected](../04-graphs/06-union-find/README.md) — Medium
+- [Number of Operations to Make Network Connected](../04-graphs/07-minimum-spanning-tree/README.md) — Medium
+- [Number of Provinces](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Medium
+- [Number of Provinces](../04-graphs/06-union-find/README.md) — Medium
+- [Number of Substrings Containing All Three Characters](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Number of Ways to Arrive at Destination](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Ones and Zeroes](../05-dynamic-programming/05-knapsack/README.md) — Medium
+- [Online Stock Span](../01-core-linear/11-monotonic-stack-queue/README.md) — Medium
+- [Open the Lock](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Medium
+- [Out of Boundary Paths](../05-dynamic-programming/03-grid-dp/README.md) — Medium
+- [Pacific Atlantic Water Flow](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Paint Fence](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Palindrome Partitioning](../02-intermediate/02-backtracking/README.md) — Medium
+- [Palindromic Substrings](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Palindromic Substrings (count)](../06-advanced/01-string-algorithms/README.md) — Medium
+- [Partition Array for Maximum Sum](../05-dynamic-programming/09-partition-and-mcm-dp/README.md) — Medium
+- [Partition Equal Subset Sum](../05-dynamic-programming/04-subset-and-subsequence-dp/README.md) — Medium
+- [Partition Labels](../01-core-linear/05-two-pointers/README.md) — Medium
+- [Partition Labels](../02-intermediate/04-greedy/README.md) — Medium
+- [Partition a Set Into Two Subsets with Minimum Absolute Difference](../05-dynamic-programming/04-subset-and-subsequence-dp/README.md) — Medium
+- [Partition to K Equal Sum Subsets](../02-intermediate/02-backtracking/README.md) — Medium
+- [Partition to K Equal Sum Subsets](../05-dynamic-programming/10-bitmask-dp/README.md) — Medium
+- [Path Sum III](../03-trees/03-paths-lca-and-tree-properties/README.md) — Medium
+- [Path With Minimum Effort](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Path with Maximum Gold (Backtracking vs DP)](../05-dynamic-programming/03-grid-dp/README.md) — Medium
+- [Path with Maximum Probability](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Peeking Iterator and Flatten Nested List Iterator](../06-advanced/05-design-problems/README.md) — Medium
+- [Perfect Squares](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Perfect Squares](../05-dynamic-programming/05-knapsack/README.md) — Medium
+- [Permutation in String](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Permutations](../02-intermediate/02-backtracking/README.md) — Medium
+- [Possible Bipartition](../04-graphs/03-cycle-and-bipartite/README.md) — Medium
+- [Pow(x, n)](../02-intermediate/01-recursion/README.md) — Medium
+- [Pow(x, n)](../02-intermediate/03-divide-and-conquer/README.md) — Medium
+- [Pow(x, n) (Fast Exponentiation)](../00-foundations/04-math-basics/README.md) — Medium
+- [Power Mod (Pow(x, n) mod m)](../06-advanced/04-number-theory/README.md) — Medium
+- [Predict the Winner (Coin Game, Pick From the Ends)](../06-advanced/07-game-theory-and-puzzles/README.md) — Medium
+- [Product of Array Except Self](../01-core-linear/01-arrays/README.md) — Medium
+- [Product of Array Except Self](../01-core-linear/07-prefix-sum/README.md) — Medium
+- [Queue Reconstruction by Height](../02-intermediate/04-greedy/README.md) — Medium
+- [Random Pick Index](../02-intermediate/09-randomization-and-sampling/README.md) — Medium
+- [Random Pick with Weight](../02-intermediate/09-randomization-and-sampling/README.md) — Medium
+- [Random Point in Non-overlapping Rectangles](../02-intermediate/09-randomization-and-sampling/README.md) — Medium
+- [Range Addition](../01-core-linear/07-prefix-sum/README.md) — Medium
+- [Range Sum Query - Mutable](../06-advanced/02-segment-tree-and-fenwick/README.md) — Medium
+- [Range Sum Query - Mutable (sqrt decomposition)](../06-advanced/03-sparse-table-and-sqrt/README.md) — Medium
+- [Range Sum Query 2D (Matrix Prefix Sums)](../02-intermediate/08-matrix/README.md) — Medium
+- [Range Sum Query 2D - Immutable](../01-core-linear/07-prefix-sum/README.md) — Medium
+- [Rate Limiter (Token Bucket)](../06-advanced/05-design-problems/README.md) — Medium
+- [Rearrange Array Elements by Sign](../01-core-linear/01-arrays/README.md) — Medium
+- [Redundant Connection](../04-graphs/03-cycle-and-bipartite/README.md) — Medium
+- [Redundant Connection](../04-graphs/06-union-find/README.md) — Medium
+- [Regions Cut By Slashes](../04-graphs/06-union-find/README.md) — Medium
+- [Remove Covered Intervals](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Remove Duplicate Letters](../01-core-linear/11-monotonic-stack-queue/README.md) — Medium
+- [Remove Duplicates from Sorted Array II](../01-core-linear/05-two-pointers/README.md) — Medium
+- [Remove Duplicates from Sorted List II](../01-core-linear/09-linked-list/README.md) — Medium
+- [Remove K Digits](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Remove K Digits](../01-core-linear/11-monotonic-stack-queue/README.md) — Medium
+- [Remove Nth Node From End of List](../01-core-linear/09-linked-list/README.md) — Medium
+- [Reorder List](../01-core-linear/09-linked-list/README.md) — Medium
+- [Reorganize String](../02-intermediate/05-heaps/README.md) — Medium
+- [Replace Words](../03-trees/05-trie/README.md) — Medium
+- [Restore IP Addresses](../02-intermediate/02-backtracking/README.md) — Medium
+- [Reverse Integer (Overflow)](../00-foundations/04-math-basics/README.md) — Medium
+- [Reverse Linked List II (between m and n)](../01-core-linear/09-linked-list/README.md) — Medium
+- [Roman to Integer / Integer to Roman](../01-core-linear/04-strings/README.md) — Medium
+- [Rotate Array](../01-core-linear/01-arrays/README.md) — Medium
+- [Rotate Image](../02-intermediate/08-matrix/README.md) — Medium
+- [Rotate List](../01-core-linear/09-linked-list/README.md) — Medium
+- [Rotated Digits](../05-dynamic-programming/11-tree-and-digit-dp/README.md) — Medium
+- [Rotting Oranges](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Rotting Oranges](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Satisfiability of Equality Equations](../04-graphs/06-union-find/README.md) — Medium
+- [Search a 2D Matrix](../01-core-linear/08-binary-search/README.md) — Medium
+- [Search a 2D Matrix](../02-intermediate/08-matrix/README.md) — Medium
+- [Search a 2D Matrix II](../01-core-linear/08-binary-search/README.md) — Medium
+- [Search a 2D Matrix II](../02-intermediate/08-matrix/README.md) — Medium
+- [Search in Rotated Sorted Array](../01-core-linear/08-binary-search/README.md) — Medium
+- [Sequence Reconstruction](../04-graphs/04-topological-sort/README.md) — Medium
+- [Set Matrix Zeroes](../02-intermediate/08-matrix/README.md) — Medium
+- [Shortest Bridge](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Shortest Path and Number of Paths in a Weighted DAG](../04-graphs/04-topological-sort/README.md) — Medium
+- [Shortest Path in Binary Matrix](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Medium
+- [Shortest Path in Binary Matrix](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Shortest Path in Binary Matrix (recap)](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Shortest Path in a DAG (reference)](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Shortest Path in an Unweighted Graph](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Medium
+- [Shuffle an Array](../02-intermediate/09-randomization-and-sampling/README.md) — Medium
+- [Simplify Path](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Single Element in a Sorted Array](../01-core-linear/08-binary-search/README.md) — Medium
+- [Single Number II](../02-intermediate/07-bit-manipulation/README.md) — Medium
+- [Single Number III](../02-intermediate/07-bit-manipulation/README.md) — Medium
+- [Sliding Window Maximum via Sparse Table](../06-advanced/03-sparse-table-and-sqrt/README.md) — Medium
+- [Smallest String With Swaps](../04-graphs/06-union-find/README.md) — Medium
+- [Snakes and Ladders](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Snapshot Array](../06-advanced/05-design-problems/README.md) — Medium
+- [Sort Characters By Frequency](../01-core-linear/02-sorting/README.md) — Medium
+- [Sort Colors](../01-core-linear/02-sorting/README.md) — Medium
+- [Sort Colors (Dutch National Flag)](../01-core-linear/01-arrays/README.md) — Medium
+- [Sort Colors (Dutch National Flag)](../01-core-linear/05-two-pointers/README.md) — Medium
+- [Sort List](../01-core-linear/09-linked-list/README.md) — Medium
+- [Sort a K-Sorted Array](../02-intermediate/05-heaps/README.md) — Medium
+- [Spiral Matrix](../02-intermediate/08-matrix/README.md) — Medium
+- [Spiral Matrix II](../02-intermediate/08-matrix/README.md) — Medium
+- [Stone Game](../05-dynamic-programming/11-tree-and-digit-dp/README.md) — Medium
+- [Stone Game (I)](../06-advanced/07-game-theory-and-puzzles/README.md) — Medium
+- [Stone Game II](../06-advanced/07-game-theory-and-puzzles/README.md) — Medium
+- [String Compression](../01-core-linear/04-strings/README.md) — Medium
+- [String to Integer (atoi)](../01-core-linear/04-strings/README.md) — Medium
+- [Subarray Sum Equals K](../01-core-linear/03-hashing/README.md) — Medium
+- [Subarray Sum Equals K](../01-core-linear/07-prefix-sum/README.md) — Medium
+- [Subarray Sums Divisible by K](../01-core-linear/07-prefix-sum/README.md) — Medium
+- [Subsets](../02-intermediate/02-backtracking/README.md) — Medium
+- [Subsets (Power Set)](../02-intermediate/01-recursion/README.md) — Medium
+- [Subsets via Bitmask](../02-intermediate/07-bit-manipulation/README.md) — Medium
+- [Sum of Subarray Minimums](../01-core-linear/11-monotonic-stack-queue/README.md) — Medium
+- [Sum of Subarray Ranges](../01-core-linear/11-monotonic-stack-queue/README.md) — Medium
+- [Sum of Two Integers](../02-intermediate/07-bit-manipulation/README.md) — Medium
+- [Super Pow](../06-advanced/04-number-theory/README.md) — Medium
+- [Surrounded Regions](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Target Sum](../05-dynamic-programming/04-subset-and-subsequence-dp/README.md) — Medium
+- [Target Sum](../05-dynamic-programming/05-knapsack/README.md) — Medium
+- [Task Scheduler](../02-intermediate/04-greedy/README.md) — Medium
+- [Task Scheduler](../02-intermediate/05-heaps/README.md) — Medium
+- [The Josephus Problem (Find the Winner of the Circular Game)](../06-advanced/07-game-theory-and-puzzles/README.md) — Medium
+- [Time Based Key-Value Store](../06-advanced/05-design-problems/README.md) — Medium
+- [Top K Frequent Elements](../01-core-linear/03-hashing/README.md) — Medium
+- [Top K Frequent Elements](../02-intermediate/05-heaps/README.md) — Medium
+- [Topological Sort (DFS with stack)](../04-graphs/04-topological-sort/README.md) — Medium
+- [Topological Sort (Kahn's BFS)](../04-graphs/04-topological-sort/README.md) — Medium
+- [Triangle](../05-dynamic-programming/03-grid-dp/README.md) — Medium
+- [Two Sum II (Sorted Input)](../01-core-linear/05-two-pointers/README.md) — Medium
+- [Ugly Number II](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Ugly Number II / Super Ugly Number](../02-intermediate/05-heaps/README.md) — Medium
+- [Ugly Number III](../06-advanced/04-number-theory/README.md) — Medium
+- [Unique Binary Search Trees](../05-dynamic-programming/09-partition-and-mcm-dp/README.md) — Medium
+- [Unique Paths](../05-dynamic-programming/03-grid-dp/README.md) — Medium
+- [Unique Paths (Combinatorics)](../06-advanced/04-number-theory/README.md) — Medium
+- [Unique Paths II (Obstacles)](../05-dynamic-programming/03-grid-dp/README.md) — Medium
+- [Valid Parenthesis String](../02-intermediate/04-greedy/README.md) — Medium
+- [Valid Sudoku](../02-intermediate/08-matrix/README.md) — Medium
+- [Validate Binary Search Tree](../03-trees/04-binary-search-trees/README.md) — Medium
+- [Video Stitching](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Walls and Gates](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Water and Jug Problem](../06-advanced/07-game-theory-and-puzzles/README.md) — Medium
+- [Word Break](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Word Search](../02-intermediate/02-backtracking/README.md) — Medium
+- [Word Search (grid backtracking)](../02-intermediate/08-matrix/README.md) — Medium
+- [XOR Queries of a Subarray](../01-core-linear/07-prefix-sum/README.md) — Medium
+- [XOR Queries of a Subarray](../02-intermediate/07-bit-manipulation/README.md) — Medium
+- [nCr mod 1e9+7](../06-advanced/04-number-theory/README.md) — Medium
+- [Alien Dictionary](../04-graphs/04-topological-sort/README.md) — Hard
+- [All O(1) Data Structure](../06-advanced/05-design-problems/README.md) — Hard
+- [Basic Calculator](../01-core-linear/10-stack-and-queue/README.md) — Hard
+- [Best Time to Buy and Sell Stock III](../05-dynamic-programming/07-stocks/README.md) — Hard
+- [Best Time to Buy and Sell Stock IV](../05-dynamic-programming/07-stocks/README.md) — Hard
+- [Binary Tree Cameras](../03-trees/03-paths-lca-and-tree-properties/README.md) — Hard
+- [Binary Tree Cameras](../05-dynamic-programming/11-tree-and-digit-dp/README.md) — Hard
+- [Binary Tree Maximum Path Sum](../03-trees/01-binary-tree-traversals/README.md) — Hard
+- [Binary Tree Maximum Path Sum](../03-trees/03-paths-lca-and-tree-properties/README.md) — Hard
+- [Boolean Parenthesization (Count Ways to Evaluate to True)](../05-dynamic-programming/09-partition-and-mcm-dp/README.md) — Hard
+- [Burst Balloons](../05-dynamic-programming/09-partition-and-mcm-dp/README.md) — Hard
+- [Candy](../02-intermediate/04-greedy/README.md) — Hard
+- [Cherry Pickup (I)](../05-dynamic-programming/03-grid-dp/README.md) — Hard
+- [Cherry Pickup II](../05-dynamic-programming/03-grid-dp/README.md) — Hard
+- [Count Anagrams](../06-advanced/04-number-theory/README.md) — Hard
+- [Count Special Integers](../05-dynamic-programming/11-tree-and-digit-dp/README.md) — Hard
+- [Count of Range Sum](../01-core-linear/07-prefix-sum/README.md) — Hard
+- [Count of Range Sum](../06-advanced/02-segment-tree-and-fenwick/README.md) — Hard
+- [Count of Smaller Numbers After Self](../02-intermediate/03-divide-and-conquer/README.md) — Hard
+- [Count of Smaller Numbers After Self](../03-trees/04-binary-search-trees/README.md) — Hard
+- [Count of Smaller Numbers After Self](../06-advanced/02-segment-tree-and-fenwick/README.md) — Hard
+- [Cracking the Safe](../04-graphs/08-advanced-graphs/README.md) — Hard
+- [Critical Connections in a Network (Bridges)](../04-graphs/08-advanced-graphs/README.md) — Hard
+- [Data Stream as Disjoint Intervals](../02-intermediate/06-intervals-and-sweep-line/README.md) — Hard
+- [Design In-Memory File System](../06-advanced/05-design-problems/README.md) — Hard
+- [Design Search Autocomplete System](../03-trees/05-trie/README.md) — Hard
+- [Design Search Autocomplete System](../06-advanced/05-design-problems/README.md) — Hard
+- [Design Text Editor](../06-advanced/05-design-problems/README.md) — Hard
+- [Distinct Subsequences](../05-dynamic-programming/06-string-dp/README.md) — Hard
+- [Dungeon Game](../05-dynamic-programming/03-grid-dp/README.md) — Hard
+- [Egg Dropping (Super Egg Drop)](../06-advanced/07-game-theory-and-puzzles/README.md) — Hard
+- [Egg Dropping Puzzle (Super Egg Drop)](../05-dynamic-programming/09-partition-and-mcm-dp/README.md) — Hard
+- [Employee Free Time](../02-intermediate/06-intervals-and-sweep-line/README.md) — Hard
+- [Expression Add Operators](../02-intermediate/02-backtracking/README.md) — Hard
+- [Falling Squares](../06-advanced/02-segment-tree-and-fenwick/README.md) — Hard
+- [Find Critical and Pseudo-Critical Edges in MST](../04-graphs/07-minimum-spanning-tree/README.md) — Hard
+- [Find Median from Data Stream](../02-intermediate/05-heaps/README.md) — Hard
+- [Find Median from Data Stream](../06-advanced/05-design-problems/README.md) — Hard
+- [Find in Mountain Array](../01-core-linear/08-binary-search/README.md) — Hard
+- [First Missing Positive](../01-core-linear/02-sorting/README.md) — Hard
+- [Huffman Coding](../02-intermediate/04-greedy/README.md) — Hard
+- [IPO](../02-intermediate/05-heaps/README.md) — Hard
+- [Insert Delete GetRandom O(1) - Duplicates Allowed](../02-intermediate/09-randomization-and-sampling/README.md) — Hard
+- [Kth Ancestor of a Tree Node](../04-graphs/08-advanced-graphs/README.md) — Hard
+- [LFU Cache](../06-advanced/05-design-problems/README.md) — Hard
+- [Largest BST Subtree in a Binary Tree](../03-trees/04-binary-search-trees/README.md) — Hard
+- [Largest Color Value in a Directed Graph](../04-graphs/04-topological-sort/README.md) — Hard
+- [Largest Rectangle in Histogram](../01-core-linear/11-monotonic-stack-queue/README.md) — Hard
+- [Largest Rectangle in Histogram (reference: sparse table + divide)](../06-advanced/03-sparse-table-and-sqrt/README.md) — Hard
+- [Last Day Where You Can Still Cross](../04-graphs/06-union-find/README.md) — Hard
+- [Longest Cycle in a Graph](../04-graphs/03-cycle-and-bipartite/README.md) — Hard
+- [Longest Duplicate Substring](../06-advanced/01-string-algorithms/README.md) — Hard
+- [Longest Increasing Path in a Matrix (Memo DFS)](../05-dynamic-programming/03-grid-dp/README.md) — Hard
+- [Lowest Common Ancestor via Binary Lifting](../04-graphs/08-advanced-graphs/README.md) — Hard
+- [Lowest Common Ancestor via Euler Tour + Sparse Table](../06-advanced/03-sparse-table-and-sqrt/README.md) — Hard
+- [Making A Large Island](../04-graphs/02-grid-and-islands/README.md) — Hard
+- [Making A Large Island](../04-graphs/06-union-find/README.md) — Hard
+- [Matrix Chain Multiplication (with bracket printing)](../05-dynamic-programming/09-partition-and-mcm-dp/README.md) — Hard
+- [Maximal Rectangle](../01-core-linear/11-monotonic-stack-queue/README.md) — Hard
+- [Maximum Profit in Job Scheduling](../05-dynamic-programming/07-stocks/README.md) — Hard
+- [Maximum Value of K Coins From Piles](../05-dynamic-programming/05-knapsack/README.md) — Hard
+- [Maximum XOR With an Element From Array](../03-trees/05-trie/README.md) — Hard
+- [Median of Two Sorted Arrays](../01-core-linear/08-binary-search/README.md) — Hard
+- [Median of Two Sorted Arrays](../02-intermediate/03-divide-and-conquer/README.md) — Hard
+- [Median of a Row-Wise Sorted Matrix](../02-intermediate/08-matrix/README.md) — Hard
+- [Merge K Sorted Lists](../02-intermediate/05-heaps/README.md) — Hard
+- [Merge k Sorted Lists](../01-core-linear/09-linked-list/README.md) — Hard
+- [Merge k Sorted Lists](../02-intermediate/03-divide-and-conquer/README.md) — Hard
+- [Minimum Cost to Cut a Stick](../05-dynamic-programming/09-partition-and-mcm-dp/README.md) — Hard
+- [Minimum Insertion Steps to Make a String Palindrome](../05-dynamic-programming/06-string-dp/README.md) — Hard
+- [Minimum Interval to Include Each Query](../02-intermediate/06-intervals-and-sweep-line/README.md) — Hard
+- [Minimum Number of Removals to Make Mountain Array](../05-dynamic-programming/08-longest-increasing-subsequence/README.md) — Hard
+- [Minimum Obstacle Removal to Reach Corner (0-1 BFS)](../04-graphs/05-shortest-paths/README.md) — Hard
+- [Minimum Window Substring](../01-core-linear/05-two-pointers/README.md) — Hard
+- [Minimum Window Substring](../01-core-linear/06-sliding-window/README.md) — Hard
+- [Morris Traversal (Inorder and Preorder in O(1) space)](../03-trees/01-binary-tree-traversals/README.md) — Hard
+- [My Calendar III](../02-intermediate/06-intervals-and-sweep-line/README.md) — Hard
+- [My Calendar III](../06-advanced/02-segment-tree-and-fenwick/README.md) — Hard
+- [N-Queens (and Total N-Queens)](../02-intermediate/02-backtracking/README.md) — Hard
+- [Non-negative Integers without Consecutive Ones](../05-dynamic-programming/11-tree-and-digit-dp/README.md) — Hard
+- [Number of Digit One](../05-dynamic-programming/11-tree-and-digit-dp/README.md) — Hard
+- [Number of Islands II](../04-graphs/06-union-find/README.md) — Hard
+- [Number of Paths with Max Score](../05-dynamic-programming/03-grid-dp/README.md) — Hard
+- [Number of Ways to Form a Target String Given a Dictionary](../06-advanced/04-number-theory/README.md) — Hard
+- [Number of Ways to Paint N x 3 Grid](../06-advanced/04-number-theory/README.md) — Hard
+- [Number of Ways to Wear Different Hats to Each Other](../05-dynamic-programming/10-bitmask-dp/README.md) — Hard
+- [Numbers At Most N Given Digit Set](../05-dynamic-programming/11-tree-and-digit-dp/README.md) — Hard
+- [Numbers With Repeated Digits](../05-dynamic-programming/11-tree-and-digit-dp/README.md) — Hard
+- [Optimize Water Distribution in a Village](../04-graphs/07-minimum-spanning-tree/README.md) — Hard
+- [Palindrome Pairs](../03-trees/05-trie/README.md) — Hard
+- [Palindrome Partitioning II](../05-dynamic-programming/06-string-dp/README.md) — Hard
+- [Palindrome Partitioning II](../05-dynamic-programming/09-partition-and-mcm-dp/README.md) — Hard
+- [Parallel Courses (Minimum Semesters)](../04-graphs/04-topological-sort/README.md) — Hard
+- [Profitable Schemes](../05-dynamic-programming/05-knapsack/README.md) — Hard
+- [Random Pick with Blacklist](../02-intermediate/09-randomization-and-sampling/README.md) — Hard
+- [Range Module (concept)](../02-intermediate/06-intervals-and-sweep-line/README.md) — Hard
+- [Reconstruct Itinerary](../04-graphs/08-advanced-graphs/README.md) — Hard
+- [Recover Binary Search Tree](../03-trees/04-binary-search-trees/README.md) — Hard
+- [Rectangle Area II](../06-advanced/02-segment-tree-and-fenwick/README.md) — Hard
+- [Redundant Connection II (directed)](../04-graphs/06-union-find/README.md) — Hard
+- [Regular Expression Matching](../05-dynamic-programming/06-string-dp/README.md) — Hard
+- [Remove Max Number of Edges to Keep Graph Fully Traversable](../04-graphs/06-union-find/README.md) — Hard
+- [Reverse Nodes in k-Group](../01-core-linear/09-linked-list/README.md) — Hard
+- [Reverse Pairs](../01-core-linear/02-sorting/README.md) — Hard
+- [Reverse Pairs](../02-intermediate/03-divide-and-conquer/README.md) — Hard
+- [Reverse Pairs](../06-advanced/02-segment-tree-and-fenwick/README.md) — Hard
+- [Russian Doll Envelopes](../05-dynamic-programming/08-longest-increasing-subsequence/README.md) — Hard
+- [Serialize and Deserialize Binary Tree](../03-trees/02-tree-construction-and-views/README.md) — Hard
+- [Shortest Common Supersequence (with the string)](../05-dynamic-programming/06-string-dp/README.md) — Hard
+- [Shortest Palindrome](../06-advanced/01-string-algorithms/README.md) — Hard
+- [Shortest Path Visiting All Nodes](../05-dynamic-programming/10-bitmask-dp/README.md) — Hard
+- [Shortest Subarray with Sum at Least K](../01-core-linear/11-monotonic-stack-queue/README.md) — Hard
+- [Sliding Window Maximum](../01-core-linear/06-sliding-window/README.md) — Hard
+- [Sliding Window Maximum](../01-core-linear/11-monotonic-stack-queue/README.md) — Hard
+- [Sliding Window Median](../02-intermediate/05-heaps/README.md) — Hard
+- [Smallest Range Covering Elements from K Lists](../02-intermediate/05-heaps/README.md) — Hard
+- [Smallest Sufficient Team](../05-dynamic-programming/10-bitmask-dp/README.md) — Hard
+- [Sort Items by Groups Respecting Dependencies](../04-graphs/04-topological-sort/README.md) — Hard
+- [Split Array Largest Sum (Allocate Books, Painter's Partition)](../01-core-linear/08-binary-search/README.md) — Hard
+- [Stone Game III](../05-dynamic-programming/11-tree-and-digit-dp/README.md) — Hard
+- [Stone Game III](../06-advanced/07-game-theory-and-puzzles/README.md) — Hard
+- [Stone Game IV](../06-advanced/07-game-theory-and-puzzles/README.md) — Hard
+- [Strange Printer](../05-dynamic-programming/09-partition-and-mcm-dp/README.md) — Hard
+- [Stream of Characters](../03-trees/05-trie/README.md) — Hard
+- [Subarrays With K Different Integers](../01-core-linear/06-sliding-window/README.md) — Hard
+- [Substring with Concatenation of All Words](../01-core-linear/06-sliding-window/README.md) — Hard
+- [Sudoku Solver](../02-intermediate/02-backtracking/README.md) — Hard
+- [Sum of Distances in Tree](../05-dynamic-programming/11-tree-and-digit-dp/README.md) — Hard
+- [Swim in Rising Water](../04-graphs/05-shortest-paths/README.md) — Hard
+- [Swim in Rising Water (via DSU)](../04-graphs/06-union-find/README.md) — Hard
+- [The Skyline Problem](../02-intermediate/03-divide-and-conquer/README.md) — Hard
+- [The Skyline Problem](../02-intermediate/06-intervals-and-sweep-line/README.md) — Hard
+- [Trapping Rain Water](../01-core-linear/05-two-pointers/README.md) — Hard
+- [Trapping Rain Water](../01-core-linear/11-monotonic-stack-queue/README.md) — Hard
+- [Travelling Salesman Problem (TSP)](../05-dynamic-programming/10-bitmask-dp/README.md) — Hard
+- [Unique Paths III](../02-intermediate/02-backtracking/README.md) — Hard
+- [Vertical Order Traversal of a Binary Tree](../03-trees/01-binary-tree-traversals/README.md) — Hard
+- [Vertical Order Traversal of a Binary Tree](../03-trees/02-tree-construction-and-views/README.md) — Hard
+- [Wildcard Matching](../05-dynamic-programming/06-string-dp/README.md) — Hard
+- [Word Break II](../02-intermediate/02-backtracking/README.md) — Hard
+- [Word Ladder](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Hard
+- [Word Ladder II (brief)](../04-graphs/08-advanced-graphs/README.md) — Hard
+- [Word Search II](../03-trees/05-trie/README.md) — Hard
+
+## Microsoft (493)
+
+- [BFS of Graph](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Easy
+- [Backspace String Compare](../01-core-linear/10-stack-and-queue/README.md) — Easy
+- [Balanced Binary Tree](../03-trees/01-binary-tree-traversals/README.md) — Easy
+- [Best Time to Buy and Sell Stock](../01-core-linear/01-arrays/README.md) — Easy
+- [Best Time to Buy and Sell Stock](../05-dynamic-programming/07-stocks/README.md) — Easy
+- [Binary Search](../01-core-linear/08-binary-search/README.md) — Easy
+- [Binary Tree Inorder Traversal](../03-trees/01-binary-tree-traversals/README.md) — Easy
+- [Binary Tree Level Order Traversal II (Bottom-Up)](../03-trees/02-tree-construction-and-views/README.md) — Easy
+- [Binary Tree Preorder Traversal](../03-trees/01-binary-tree-traversals/README.md) — Easy
+- [Bulb Switcher](../06-advanced/04-number-theory/README.md) — Easy
+- [Check Prime](../00-foundations/04-math-basics/README.md) — Easy
+- [Climbing Stairs](../05-dynamic-programming/01-dp-intuition/README.md) — Easy
+- [Contains Duplicate](../01-core-linear/03-hashing/README.md) — Easy
+- [Convert Sorted Array to Binary Search Tree](../02-intermediate/03-divide-and-conquer/README.md) — Easy
+- [Convert Sorted Array to Height-Balanced BST](../03-trees/02-tree-construction-and-views/README.md) — Easy
+- [Convert Sorted Array to Height-Balanced BST](../03-trees/04-binary-search-trees/README.md) — Easy
+- [DFS of Graph](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Easy
+- [Delete Node in a Linked List](../01-core-linear/09-linked-list/README.md) — Easy
+- [Diameter of Binary Tree](../03-trees/01-binary-tree-traversals/README.md) — Easy
+- [Diameter of Binary Tree (recap)](../03-trees/03-paths-lca-and-tree-properties/README.md) — Easy
+- [Divisor Game](../06-advanced/07-game-theory-and-puzzles/README.md) — Easy
+- [Fibonacci Number (4 versions)](../05-dynamic-programming/01-dp-intuition/README.md) — Easy
+- [Fibonacci: Naive vs Memoized](../02-intermediate/01-recursion/README.md) — Easy
+- [Find Pivot Index](../01-core-linear/07-prefix-sum/README.md) — Easy
+- [Find the Index of the First Occurrence in a String (strStr)](../06-advanced/01-string-algorithms/README.md) — Easy
+- [Flood Fill](../04-graphs/02-grid-and-islands/README.md) — Easy
+- [Flood Fill (Recursion Intro)](../02-intermediate/01-recursion/README.md) — Easy
+- [Floor and Ceil in a Sorted Array](../01-core-linear/08-binary-search/README.md) — Easy
+- [GCD and LCM (Euclid)](../00-foundations/04-math-basics/README.md) — Easy
+- [Generate Binary Numbers 1 to N](../01-core-linear/10-stack-and-queue/README.md) — Easy
+- [Happy Number](../01-core-linear/03-hashing/README.md) — Easy
+- [House Robber](../05-dynamic-programming/02-one-d-dp/README.md) — Easy
+- [Implement Queue using Stacks](../01-core-linear/10-stack-and-queue/README.md) — Easy
+- [Implement Queue using Stacks](../06-advanced/05-design-problems/README.md) — Easy
+- [Implement Stack using Queues](../01-core-linear/10-stack-and-queue/README.md) — Easy
+- [Intersection of Two Linked Lists](../01-core-linear/09-linked-list/README.md) — Easy
+- [Invert Binary Tree](../03-trees/01-binary-tree-traversals/README.md) — Easy
+- [Last Stone Weight](../02-intermediate/05-heaps/README.md) — Easy
+- [Linked List Cycle](../01-core-linear/09-linked-list/README.md) — Easy
+- [Longest Common Prefix](../01-core-linear/04-strings/README.md) — Easy
+- [Longest Common Prefix](../03-trees/05-trie/README.md) — Easy
+- [Majority Element (Boyer-Moore Voting)](../01-core-linear/01-arrays/README.md) — Easy
+- [Majority Element (D&C version)](../02-intermediate/03-divide-and-conquer/README.md) — Easy
+- [Maximum Depth of Binary Tree](../03-trees/01-binary-tree-traversals/README.md) — Easy
+- [Maximum Subarray](../05-dynamic-programming/02-one-d-dp/README.md) — Easy
+- [Maximum Sum Subarray of Size K](../01-core-linear/06-sliding-window/README.md) — Easy
+- [Meeting Rooms (Can Attend All)](../02-intermediate/06-intervals-and-sweep-line/README.md) — Easy
+- [Merge Sorted Array](../01-core-linear/02-sorting/README.md) — Easy
+- [Merge Sorted Array](../01-core-linear/05-two-pointers/README.md) — Easy
+- [Merge Two Sorted Lists](../01-core-linear/09-linked-list/README.md) — Easy
+- [Middle of the Linked List](../01-core-linear/09-linked-list/README.md) — Easy
+- [Min Stack](../06-advanced/05-design-problems/README.md) — Easy
+- [Missing Number](../01-core-linear/01-arrays/README.md) — Easy
+- [Missing Number](../01-core-linear/02-sorting/README.md) — Easy
+- [Missing Number](../02-intermediate/07-bit-manipulation/README.md) — Easy
+- [Move Zeroes](../01-core-linear/01-arrays/README.md) — Easy
+- [Move Zeroes](../01-core-linear/05-two-pointers/README.md) — Easy
+- [N Meetings in One Room (Activity Selection)](../02-intermediate/04-greedy/README.md) — Easy
+- [N-th Tribonacci Number](../05-dynamic-programming/01-dp-intuition/README.md) — Easy
+- [Number of 1 Bits](../02-intermediate/07-bit-manipulation/README.md) — Easy
+- [Number of Recent Calls](../01-core-linear/10-stack-and-queue/README.md) — Easy
+- [Palindrome Linked List](../01-core-linear/09-linked-list/README.md) — Easy
+- [Palindrome Number](../00-foundations/04-math-basics/README.md) — Easy
+- [Pascal's Triangle](../00-foundations/04-math-basics/README.md) — Easy
+- [Pascal's Triangle](../02-intermediate/08-matrix/README.md) — Easy
+- [Path Sum](../03-trees/03-paths-lca-and-tree-properties/README.md) — Easy
+- [Power of Two](../02-intermediate/07-bit-manipulation/README.md) — Easy
+- [Previous Smaller Element](../01-core-linear/11-monotonic-stack-queue/README.md) — Easy
+- [Range Sum Query - Immutable](../01-core-linear/07-prefix-sum/README.md) — Easy
+- [Remove Duplicates from Sorted Array](../01-core-linear/01-arrays/README.md) — Easy
+- [Remove Duplicates from Sorted List](../01-core-linear/09-linked-list/README.md) — Easy
+- [Remove Element](../01-core-linear/05-two-pointers/README.md) — Easy
+- [Remove Outermost Parentheses](../01-core-linear/10-stack-and-queue/README.md) — Easy
+- [Repeated Substring Pattern](../06-advanced/01-string-algorithms/README.md) — Easy
+- [Reverse Bits](../02-intermediate/07-bit-manipulation/README.md) — Easy
+- [Reverse Linked List](../01-core-linear/09-linked-list/README.md) — Easy
+- [Reverse String](../01-core-linear/05-two-pointers/README.md) — Easy
+- [Root to Node Path](../03-trees/03-paths-lca-and-tree-properties/README.md) — Easy
+- [Rotate String](../01-core-linear/04-strings/README.md) — Easy
+- [Rotate a Matrix by 180 Degrees](../02-intermediate/08-matrix/README.md) — Easy
+- [Row With Maximum Ones](../02-intermediate/08-matrix/README.md) — Easy
+- [Row with Maximum Number of 1s](../01-core-linear/08-binary-search/README.md) — Easy
+- [Same Tree and Subtree of Another Tree](../03-trees/03-paths-lca-and-tree-properties/README.md) — Easy
+- [Search Insert Position](../01-core-linear/08-binary-search/README.md) — Easy
+- [Second Largest Element](../01-core-linear/01-arrays/README.md) — Easy
+- [Shortest Path in an Unweighted Graph](../04-graphs/05-shortest-paths/README.md) — Easy
+- [Single Number](../02-intermediate/07-bit-manipulation/README.md) — Easy
+- [Sqrt(x)](../01-core-linear/08-binary-search/README.md) — Easy
+- [Sqrt(x) (Binary Search)](../00-foundations/04-math-basics/README.md) — Easy
+- [Subset Sum Equals Target](../05-dynamic-programming/04-subset-and-subsequence-dp/README.md) — Easy
+- [Symmetric Tree](../03-trees/01-binary-tree-traversals/README.md) — Easy
+- [Two Sum](../01-core-linear/03-hashing/README.md) — Easy
+- [Valid Anagram](../01-core-linear/03-hashing/README.md) — Easy
+- [Valid Anagram](../01-core-linear/04-strings/README.md) — Easy
+- [Valid Palindrome](../01-core-linear/05-two-pointers/README.md) — Easy
+- [Valid Palindrome (and Valid Palindrome II)](../01-core-linear/04-strings/README.md) — Easy
+- [Valid Parentheses](../01-core-linear/10-stack-and-queue/README.md) — Easy
+- [Zigzag (Snake) Traversal](../02-intermediate/08-matrix/README.md) — Easy
+- [01 Matrix](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [3Sum](../01-core-linear/05-two-pointers/README.md) — Medium
+- [3Sum Closest](../01-core-linear/05-two-pointers/README.md) — Medium
+- [3Sum — hash vs two pointers (mention only)](../01-core-linear/03-hashing/README.md) — Medium
+- [4Sum](../01-core-linear/05-two-pointers/README.md) — Medium
+- [Accounts Merge](../04-graphs/06-union-find/README.md) — Medium
+- [Add Binary / Multiply Strings](../01-core-linear/04-strings/README.md) — Medium
+- [Add Two Numbers](../01-core-linear/09-linked-list/README.md) — Medium
+- [All Nodes Distance K in Binary Tree](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Basic Calculator II](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Bellman-Ford Algorithm](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Best Time to Buy and Sell Stock II](../05-dynamic-programming/07-stocks/README.md) — Medium
+- [Best Time to Buy and Sell Stock with Cooldown](../05-dynamic-programming/07-stocks/README.md) — Medium
+- [Best Time to Buy and Sell Stock with Transaction Fee](../05-dynamic-programming/07-stocks/README.md) — Medium
+- [Binary Tree Level Order Traversal](../03-trees/01-binary-tree-traversals/README.md) — Medium
+- [Binary Tree Postorder Traversal (2 stacks and 1 stack)](../03-trees/01-binary-tree-traversals/README.md) — Medium
+- [Binary Tree Right Side View (and Left Side View)](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Binary Tree Zigzag Level Order Traversal](../03-trees/01-binary-tree-traversals/README.md) — Medium
+- [Boats to Save People](../01-core-linear/05-two-pointers/README.md) — Medium
+- [Bottom View of Binary Tree](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Boundary Traversal of Binary Tree](../03-trees/01-binary-tree-traversals/README.md) — Medium
+- [Bulb Switcher (and 100 Doors)](../06-advanced/07-game-theory-and-puzzles/README.md) — Medium
+- [Can I Win](../05-dynamic-programming/10-bitmask-dp/README.md) — Medium
+- [Can I Win](../06-advanced/07-game-theory-and-puzzles/README.md) — Medium
+- [Capacity to Ship Packages Within D Days](../01-core-linear/08-binary-search/README.md) — Medium
+- [Car Fleet](../01-core-linear/11-monotonic-stack-queue/README.md) — Medium
+- [Car Pooling](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Catalan Numbers (Unique Binary Search Trees)](../06-advanced/04-number-theory/README.md) — Medium
+- [Check Completeness of a Binary Tree](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Children Sum Property](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Clone Graph](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Medium
+- [Coin Change](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Coin Change](../05-dynamic-programming/05-knapsack/README.md) — Medium
+- [Coin Change II](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Coin Change II](../05-dynamic-programming/05-knapsack/README.md) — Medium
+- [Combination Sum](../02-intermediate/02-backtracking/README.md) — Medium
+- [Combination Sum II](../02-intermediate/02-backtracking/README.md) — Medium
+- [Combinations](../02-intermediate/02-backtracking/README.md) — Medium
+- [Connecting Cities With Minimum Cost](../04-graphs/07-minimum-spanning-tree/README.md) — Medium
+- [Construct BST from Preorder Traversal](../03-trees/04-binary-search-trees/README.md) — Medium
+- [Construct Binary Tree from Inorder and Postorder](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Construct Binary Tree from Preorder and Inorder](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Construct Binary Tree from Preorder and Postorder (Full Tree)](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Construct Tree from Level Order](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Container With Most Water](../01-core-linear/05-two-pointers/README.md) — Medium
+- [Convert Sorted List to Binary Search Tree](../02-intermediate/03-divide-and-conquer/README.md) — Medium
+- [Copy List with Random Pointer](../01-core-linear/03-hashing/README.md) — Medium
+- [Copy List with Random Pointer](../01-core-linear/09-linked-list/README.md) — Medium
+- [Corporate Flight Bookings](../01-core-linear/07-prefix-sum/README.md) — Medium
+- [Count Good Nodes in Binary Tree](../03-trees/03-paths-lca-and-tree-properties/README.md) — Medium
+- [Count Good Numbers](../02-intermediate/01-recursion/README.md) — Medium
+- [Count Inversions](../01-core-linear/02-sorting/README.md) — Medium
+- [Count Inversions](../02-intermediate/03-divide-and-conquer/README.md) — Medium
+- [Count Primes (Sieve of Eratosthenes)](../00-foundations/04-math-basics/README.md) — Medium
+- [Count Square Submatrices with All Ones](../05-dynamic-programming/03-grid-dp/README.md) — Medium
+- [Count Subsets with Sum K (Perfect Sum, with zeros)](../05-dynamic-programming/04-subset-and-subsequence-dp/README.md) — Medium
+- [Course Schedule](../04-graphs/03-cycle-and-bipartite/README.md) — Medium
+- [Course Schedule](../04-graphs/04-topological-sort/README.md) — Medium
+- [Course Schedule (Directed Graph Intro)](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Medium
+- [Course Schedule II](../04-graphs/04-topological-sort/README.md) — Medium
+- [Daily Temperatures](../01-core-linear/11-monotonic-stack-queue/README.md) — Medium
+- [Decode String](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Decode Ways](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Decode Ways (intro)](../05-dynamic-programming/01-dp-intuition/README.md) — Medium
+- [Delete Node in a BST](../03-trees/04-binary-search-trees/README.md) — Medium
+- [Delete and Earn](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Design Add and Search Words Data Structure](../03-trees/05-trie/README.md) — Medium
+- [Design Browser History](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Design Browser History](../06-advanced/05-design-problems/README.md) — Medium
+- [Design Circular Queue](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Design Circular Queue (and Deque)](../06-advanced/05-design-problems/README.md) — Medium
+- [Detect Cycle in a Directed Graph](../04-graphs/03-cycle-and-bipartite/README.md) — Medium
+- [Detect Cycle in an Undirected Graph](../04-graphs/03-cycle-and-bipartite/README.md) — Medium
+- [Detect Cycles in a 2D Grid](../04-graphs/03-cycle-and-bipartite/README.md) — Medium
+- [Diagonal Traverse](../02-intermediate/08-matrix/README.md) — Medium
+- [Different Ways to Add Parentheses](../02-intermediate/03-divide-and-conquer/README.md) — Medium
+- [Dijkstra's Algorithm](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Divide Two Integers](../02-intermediate/07-bit-manipulation/README.md) — Medium
+- [Edit Distance](../05-dynamic-programming/06-string-dp/README.md) — Medium
+- [Evaluate Reverse Polish Notation](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Excel Sheet Column Title](../00-foundations/04-math-basics/README.md) — Medium
+- [Find All Anagrams in a String](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Find All Anagrams in a String (hash version)](../06-advanced/01-string-algorithms/README.md) — Medium
+- [Find Eventual Safe States](../04-graphs/03-cycle-and-bipartite/README.md) — Medium
+- [Find Minimum in Rotated Sorted Array](../01-core-linear/08-binary-search/README.md) — Medium
+- [Find Peak Element](../01-core-linear/08-binary-search/README.md) — Medium
+- [Find the Celebrity](../06-advanced/07-game-theory-and-puzzles/README.md) — Medium
+- [Find the City With the Smallest Number of Neighbors at a Threshold Distance](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Find the Duplicate Number](../01-core-linear/02-sorting/README.md) — Medium
+- [First and Last Position of Element in Sorted Array (and Count Occurrences)](../01-core-linear/08-binary-search/README.md) — Medium
+- [Flatten Binary Tree to Linked List](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Flatten a Multilevel Doubly Linked List](../01-core-linear/09-linked-list/README.md) — Medium
+- [Floyd-Warshall](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Fraction to Recurring Decimal](../06-advanced/04-number-theory/README.md) — Medium
+- [Fractional Knapsack](../02-intermediate/04-greedy/README.md) — Medium
+- [Game of Life](../02-intermediate/08-matrix/README.md) — Medium
+- [Gas Station](../02-intermediate/04-greedy/README.md) — Medium
+- [Generate Parentheses](../02-intermediate/01-recursion/README.md) — Medium
+- [Generate Parentheses](../02-intermediate/02-backtracking/README.md) — Medium
+- [Group Anagrams](../01-core-linear/03-hashing/README.md) — Medium
+- [Guess Number Higher or Lower II](../05-dynamic-programming/09-partition-and-mcm-dp/README.md) — Medium
+- [House Robber](../05-dynamic-programming/01-dp-intuition/README.md) — Medium
+- [House Robber II](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [House Robber III](../05-dynamic-programming/11-tree-and-digit-dp/README.md) — Medium
+- [Implement Rand10() Using Rand7()](../02-intermediate/09-randomization-and-sampling/README.md) — Medium
+- [Implement Trie (Prefix Tree)](../03-trees/05-trie/README.md) — Medium
+- [Increasing Triplet Subsequence](../05-dynamic-programming/08-longest-increasing-subsequence/README.md) — Medium
+- [Infix to Postfix Conversion](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Inorder Successor and Predecessor in a BST](../03-trees/04-binary-search-trees/README.md) — Medium
+- [Insert Delete GetRandom O(1)](../02-intermediate/09-randomization-and-sampling/README.md) — Medium
+- [Insert Delete GetRandom O(1)](../06-advanced/05-design-problems/README.md) — Medium
+- [Integer Break](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Interleaving String](../05-dynamic-programming/06-string-dp/README.md) — Medium
+- [Is Graph Bipartite?](../04-graphs/03-cycle-and-bipartite/README.md) — Medium
+- [Job Sequencing with Deadlines](../02-intermediate/04-greedy/README.md) — Medium
+- [Josephus Problem](../02-intermediate/01-recursion/README.md) — Medium
+- [Jump Game](../02-intermediate/04-greedy/README.md) — Medium
+- [Jump Game](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Jump Game II](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [K Closest Points to Origin](../02-intermediate/05-heaps/README.md) — Medium
+- [K-th Symbol in Grammar](../02-intermediate/01-recursion/README.md) — Medium
+- [Keys and Rooms](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Medium
+- [Knight Probability in Chessboard](../05-dynamic-programming/03-grid-dp/README.md) — Medium
+- [Koko Eating Bananas](../01-core-linear/08-binary-search/README.md) — Medium
+- [Kruskal MST Weight](../04-graphs/07-minimum-spanning-tree/README.md) — Medium
+- [Kth Largest Element in an Array](../01-core-linear/02-sorting/README.md) — Medium
+- [Kth Largest Element in an Array](../02-intermediate/05-heaps/README.md) — Medium
+- [Kth Largest Element in an Array](../02-intermediate/09-randomization-and-sampling/README.md) — Medium
+- [Kth Largest Element in an Array (Quickselect)](../02-intermediate/03-divide-and-conquer/README.md) — Medium
+- [Kth Smallest Element in a BST (and Kth Largest)](../03-trees/04-binary-search-trees/README.md) — Medium
+- [Kth Smallest Element in a Sorted Matrix](../02-intermediate/05-heaps/README.md) — Medium
+- [Kth Smallest Element in a Sorted Matrix](../02-intermediate/08-matrix/README.md) — Medium
+- [LRU Cache](../06-advanced/05-design-problems/README.md) — Medium
+- [Largest Divisible Subset](../05-dynamic-programming/08-longest-increasing-subsequence/README.md) — Medium
+- [Largest Number](../01-core-linear/02-sorting/README.md) — Medium
+- [Letter Combinations of a Phone Number](../02-intermediate/01-recursion/README.md) — Medium
+- [Letter Combinations of a Phone Number](../02-intermediate/02-backtracking/README.md) — Medium
+- [Linked List Cycle II (start and length of the cycle)](../01-core-linear/09-linked-list/README.md) — Medium
+- [Longest Bitonic Subsequence](../05-dynamic-programming/08-longest-increasing-subsequence/README.md) — Medium
+- [Longest Common Subsequence](../05-dynamic-programming/06-string-dp/README.md) — Medium
+- [Longest Common Substring](../05-dynamic-programming/06-string-dp/README.md) — Medium
+- [Longest Consecutive Sequence (via DSU)](../04-graphs/06-union-find/README.md) — Medium
+- [Longest Increasing Subsequence](../05-dynamic-programming/08-longest-increasing-subsequence/README.md) — Medium
+- [Longest Palindromic Subsequence](../05-dynamic-programming/06-string-dp/README.md) — Medium
+- [Longest Palindromic Substring](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Longest Palindromic Substring (Manacher)](../06-advanced/01-string-algorithms/README.md) — Medium
+- [Longest Palindromic Substring (and Count Palindromic Substrings)](../01-core-linear/04-strings/README.md) — Medium
+- [Longest Path in a DAG](../04-graphs/04-topological-sort/README.md) — Medium
+- [Longest Repeating Character Replacement](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Longest Repeating Subsequence](../05-dynamic-programming/06-string-dp/README.md) — Medium
+- [Longest Substring Without Repeating Characters](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Longest Substring with At Most K Distinct Characters](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Longest ZigZag Path in a Binary Tree](../05-dynamic-programming/11-tree-and-digit-dp/README.md) — Medium
+- [Lowest Common Ancestor of a BST](../03-trees/04-binary-search-trees/README.md) — Medium
+- [Lowest Common Ancestor of a BST (reference)](../03-trees/03-paths-lca-and-tree-properties/README.md) — Medium
+- [Lowest Common Ancestor of a Binary Tree](../03-trees/03-paths-lca-and-tree-properties/README.md) — Medium
+- [M-Coloring Problem](../02-intermediate/02-backtracking/README.md) — Medium
+- [Max Area of Island](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Max Consecutive Ones III](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Maximal Square](../02-intermediate/08-matrix/README.md) — Medium
+- [Maximal Square](../05-dynamic-programming/03-grid-dp/README.md) — Medium
+- [Maximum Overlap (Most Crowded Time)](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Maximum Product Subarray](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Maximum Subarray (D&C version)](../02-intermediate/03-divide-and-conquer/README.md) — Medium
+- [Maximum Subarray (Kadane's Algorithm)](../01-core-linear/01-arrays/README.md) — Medium
+- [Maximum Subarray (via prefix sums)](../01-core-linear/07-prefix-sum/README.md) — Medium
+- [Maximum Sum Circular Subarray](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Maximum Sum of Non-Adjacent Elements](../05-dynamic-programming/01-dp-intuition/README.md) — Medium
+- [Maximum Width of Binary Tree](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Maximum XOR of Two Numbers in an Array](../03-trees/05-trie/README.md) — Medium
+- [Meeting Rooms II](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Merge Intervals](../01-core-linear/02-sorting/README.md) — Medium
+- [Merge Intervals](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Min Cost to Connect All Points](../04-graphs/07-minimum-spanning-tree/README.md) — Medium
+- [Min Stack](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Minimum Cost to Connect Ropes](../02-intermediate/05-heaps/README.md) — Medium
+- [Minimum Cost to Connect Sticks](../04-graphs/07-minimum-spanning-tree/README.md) — Medium
+- [Minimum Falling Path Sum](../05-dynamic-programming/03-grid-dp/README.md) — Medium
+- [Minimum Insertions and Deletions to Convert String A to B](../05-dynamic-programming/06-string-dp/README.md) — Medium
+- [Minimum Multiplications to Reach End](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Minimum Number of Arrows to Burst Balloons](../02-intermediate/04-greedy/README.md) — Medium
+- [Minimum Number of Arrows to Burst Balloons](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Minimum Number of Platforms](../02-intermediate/04-greedy/README.md) — Medium
+- [Minimum Number of Platforms](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Minimum Path Sum](../05-dynamic-programming/03-grid-dp/README.md) — Medium
+- [Minimum Remove to Make Valid Parentheses](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Minimum Size Subarray Sum](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Minimum Time to Burn a Binary Tree / Amount of Time to Infect](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [My Calendar I](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Network Delay Time](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Next Greater Element II (Circular)](../01-core-linear/11-monotonic-stack-queue/README.md) — Medium
+- [Next Permutation](../01-core-linear/01-arrays/README.md) — Medium
+- [Ninja Training (DP with last-choice state)](../05-dynamic-programming/03-grid-dp/README.md) — Medium
+- [Non-overlapping Intervals](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Number of Closed Islands](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Number of Distinct Islands](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Number of Enclaves](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Number of Islands](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Number of Islands (grid DFS/BFS)](../02-intermediate/08-matrix/README.md) — Medium
+- [Number of Operations to Make Network Connected](../04-graphs/06-union-find/README.md) — Medium
+- [Number of Operations to Make Network Connected](../04-graphs/07-minimum-spanning-tree/README.md) — Medium
+- [Number of Provinces](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Medium
+- [Number of Provinces](../04-graphs/06-union-find/README.md) — Medium
+- [Number of Substrings Containing All Three Characters](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Number of Ways to Arrive at Destination](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Odd Even Linked List](../01-core-linear/09-linked-list/README.md) — Medium
+- [Online Stock Span](../01-core-linear/11-monotonic-stack-queue/README.md) — Medium
+- [Pacific Atlantic Water Flow](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Palindrome Partitioning](../02-intermediate/02-backtracking/README.md) — Medium
+- [Palindromic Substrings](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Palindromic Substrings (count)](../06-advanced/01-string-algorithms/README.md) — Medium
+- [Partition Equal Subset Sum](../05-dynamic-programming/04-subset-and-subsequence-dp/README.md) — Medium
+- [Partition Labels](../01-core-linear/05-two-pointers/README.md) — Medium
+- [Partition to K Equal Sum Subsets](../02-intermediate/02-backtracking/README.md) — Medium
+- [Partition to K Equal Sum Subsets](../05-dynamic-programming/10-bitmask-dp/README.md) — Medium
+- [Path Sum II](../03-trees/03-paths-lca-and-tree-properties/README.md) — Medium
+- [Path Sum III](../03-trees/03-paths-lca-and-tree-properties/README.md) — Medium
+- [Path with Maximum Gold (Backtracking vs DP)](../05-dynamic-programming/03-grid-dp/README.md) — Medium
+- [Path with Maximum Probability](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Perfect Squares](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Perfect Squares](../05-dynamic-programming/05-knapsack/README.md) — Medium
+- [Permutation in String](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Permutations](../02-intermediate/02-backtracking/README.md) — Medium
+- [Permutations II](../02-intermediate/02-backtracking/README.md) — Medium
+- [Populating Next Right Pointers in Each Node (I and II)](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Possible Bipartition](../04-graphs/03-cycle-and-bipartite/README.md) — Medium
+- [Pow(x, n)](../02-intermediate/03-divide-and-conquer/README.md) — Medium
+- [Pow(x, n) (Fast Exponentiation)](../00-foundations/04-math-basics/README.md) — Medium
+- [Power Mod (Pow(x, n) mod m)](../06-advanced/04-number-theory/README.md) — Medium
+- [Predict the Winner (Coin Game, Pick From the Ends)](../06-advanced/07-game-theory-and-puzzles/README.md) — Medium
+- [Prim MST Weight](../04-graphs/07-minimum-spanning-tree/README.md) — Medium
+- [Print All Subsequences of a String](../02-intermediate/01-recursion/README.md) — Medium
+- [Print the Longest Common Subsequence](../05-dynamic-programming/06-string-dp/README.md) — Medium
+- [Print the Longest Increasing Subsequence](../05-dynamic-programming/08-longest-increasing-subsequence/README.md) — Medium
+- [Product of Array Except Self](../01-core-linear/01-arrays/README.md) — Medium
+- [Product of Array Except Self](../01-core-linear/07-prefix-sum/README.md) — Medium
+- [Random Pick with Weight](../02-intermediate/09-randomization-and-sampling/README.md) — Medium
+- [Range Sum Query - Mutable](../06-advanced/02-segment-tree-and-fenwick/README.md) — Medium
+- [Range Sum Query 2D (Matrix Prefix Sums)](../02-intermediate/08-matrix/README.md) — Medium
+- [Range Sum Query 2D - Immutable](../01-core-linear/07-prefix-sum/README.md) — Medium
+- [Rat in a Maze](../02-intermediate/02-backtracking/README.md) — Medium
+- [Rearrange Array Elements by Sign](../01-core-linear/01-arrays/README.md) — Medium
+- [Redundant Connection](../04-graphs/03-cycle-and-bipartite/README.md) — Medium
+- [Remove Covered Intervals](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Remove Duplicate Letters](../01-core-linear/11-monotonic-stack-queue/README.md) — Medium
+- [Remove Duplicates from Sorted Array II](../01-core-linear/05-two-pointers/README.md) — Medium
+- [Remove Duplicates from Sorted List II](../01-core-linear/09-linked-list/README.md) — Medium
+- [Remove K Digits](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Remove K Digits](../01-core-linear/11-monotonic-stack-queue/README.md) — Medium
+- [Remove Nth Node From End of List](../01-core-linear/09-linked-list/README.md) — Medium
+- [Reorder List](../01-core-linear/09-linked-list/README.md) — Medium
+- [Reorganize String](../02-intermediate/05-heaps/README.md) — Medium
+- [Restore IP Addresses](../02-intermediate/02-backtracking/README.md) — Medium
+- [Reverse Integer (Overflow)](../00-foundations/04-math-basics/README.md) — Medium
+- [Reverse Linked List II (between m and n)](../01-core-linear/09-linked-list/README.md) — Medium
+- [Reverse Words in a String](../01-core-linear/04-strings/README.md) — Medium
+- [Reverse a Stack Using Recursion](../02-intermediate/01-recursion/README.md) — Medium
+- [Roman to Integer / Integer to Roman](../01-core-linear/04-strings/README.md) — Medium
+- [Rotate Array](../01-core-linear/01-arrays/README.md) — Medium
+- [Rotate Image](../02-intermediate/08-matrix/README.md) — Medium
+- [Rotate List](../01-core-linear/09-linked-list/README.md) — Medium
+- [Rotting Oranges](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Rotting Oranges](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Search a 2D Matrix](../01-core-linear/08-binary-search/README.md) — Medium
+- [Search a 2D Matrix](../02-intermediate/08-matrix/README.md) — Medium
+- [Search a 2D Matrix II](../01-core-linear/08-binary-search/README.md) — Medium
+- [Search a 2D Matrix II](../02-intermediate/08-matrix/README.md) — Medium
+- [Search in Rotated Sorted Array](../01-core-linear/08-binary-search/README.md) — Medium
+- [Search in Rotated Sorted Array II (with duplicates)](../01-core-linear/08-binary-search/README.md) — Medium
+- [Sequence Reconstruction](../04-graphs/04-topological-sort/README.md) — Medium
+- [Set Matrix Zeroes](../02-intermediate/08-matrix/README.md) — Medium
+- [Shortest Path in Binary Matrix (recap)](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Shortest Path in an Unweighted Graph](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Medium
+- [Shortest Path with Printing the Path](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Shuffle an Array](../02-intermediate/09-randomization-and-sampling/README.md) — Medium
+- [Simplify Path](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Single Number II](../02-intermediate/07-bit-manipulation/README.md) — Medium
+- [Sliding Window Maximum via Sparse Table](../06-advanced/03-sparse-table-and-sqrt/README.md) — Medium
+- [Smallest String With Swaps](../04-graphs/06-union-find/README.md) — Medium
+- [Snakes and Ladders](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Sort Characters By Frequency](../01-core-linear/02-sorting/README.md) — Medium
+- [Sort Colors](../01-core-linear/02-sorting/README.md) — Medium
+- [Sort Colors (Dutch National Flag)](../01-core-linear/01-arrays/README.md) — Medium
+- [Sort Colors (Dutch National Flag)](../01-core-linear/05-two-pointers/README.md) — Medium
+- [Sort List](../01-core-linear/09-linked-list/README.md) — Medium
+- [Sort a K-Sorted Array](../02-intermediate/05-heaps/README.md) — Medium
+- [Sort a Stack Using Recursion](../02-intermediate/01-recursion/README.md) — Medium
+- [Spiral Matrix](../02-intermediate/08-matrix/README.md) — Medium
+- [Spiral Matrix II](../02-intermediate/08-matrix/README.md) — Medium
+- [Stone Game (I)](../06-advanced/07-game-theory-and-puzzles/README.md) — Medium
+- [String Compression](../01-core-linear/04-strings/README.md) — Medium
+- [String to Integer (atoi)](../01-core-linear/04-strings/README.md) — Medium
+- [Subarray Sum Equals K](../01-core-linear/07-prefix-sum/README.md) — Medium
+- [Subsets](../02-intermediate/02-backtracking/README.md) — Medium
+- [Subsets (Power Set)](../02-intermediate/01-recursion/README.md) — Medium
+- [Subsets II](../02-intermediate/02-backtracking/README.md) — Medium
+- [Subsets via Bitmask](../02-intermediate/07-bit-manipulation/README.md) — Medium
+- [Sum Root to Leaf Numbers](../03-trees/03-paths-lca-and-tree-properties/README.md) — Medium
+- [Sum of Subarray Minimums](../01-core-linear/11-monotonic-stack-queue/README.md) — Medium
+- [Surrounded Regions](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Task Scheduler](../02-intermediate/04-greedy/README.md) — Medium
+- [Task Scheduler](../02-intermediate/05-heaps/README.md) — Medium
+- [The Josephus Problem (Find the Winner of the Circular Game)](../06-advanced/07-game-theory-and-puzzles/README.md) — Medium
+- [Top K Frequent Elements](../02-intermediate/05-heaps/README.md) — Medium
+- [Top View of Binary Tree](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Topological Sort (DFS with stack)](../04-graphs/04-topological-sort/README.md) — Medium
+- [Topological Sort (Kahn's BFS)](../04-graphs/04-topological-sort/README.md) — Medium
+- [Tower of Hanoi](../02-intermediate/01-recursion/README.md) — Medium
+- [Triangle](../05-dynamic-programming/03-grid-dp/README.md) — Medium
+- [Two Sum II (Sorted Input)](../01-core-linear/05-two-pointers/README.md) — Medium
+- [Ugly Number II](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Ugly Number II / Super Ugly Number](../02-intermediate/05-heaps/README.md) — Medium
+- [Ugly Number III](../06-advanced/04-number-theory/README.md) — Medium
+- [Unique Binary Search Trees](../05-dynamic-programming/09-partition-and-mcm-dp/README.md) — Medium
+- [Unique Paths](../05-dynamic-programming/03-grid-dp/README.md) — Medium
+- [Unique Paths (Combinatorics)](../06-advanced/04-number-theory/README.md) — Medium
+- [Unique Paths II (Obstacles)](../05-dynamic-programming/03-grid-dp/README.md) — Medium
+- [Valid Parenthesis String](../02-intermediate/04-greedy/README.md) — Medium
+- [Valid Sudoku](../02-intermediate/08-matrix/README.md) — Medium
+- [Validate Binary Search Tree](../03-trees/04-binary-search-trees/README.md) — Medium
+- [Water and Jug Problem](../06-advanced/07-game-theory-and-puzzles/README.md) — Medium
+- [Word Break](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Word Search](../02-intermediate/02-backtracking/README.md) — Medium
+- [Word Search (grid backtracking)](../02-intermediate/08-matrix/README.md) — Medium
+- [Alien Dictionary](../04-graphs/04-topological-sort/README.md) — Hard
+- [All O(1) Data Structure](../06-advanced/05-design-problems/README.md) — Hard
+- [Basic Calculator](../01-core-linear/10-stack-and-queue/README.md) — Hard
+- [Best Time to Buy and Sell Stock III](../05-dynamic-programming/07-stocks/README.md) — Hard
+- [Binary Tree Maximum Path Sum](../03-trees/01-binary-tree-traversals/README.md) — Hard
+- [Binary Tree Maximum Path Sum](../03-trees/03-paths-lca-and-tree-properties/README.md) — Hard
+- [Boolean Parenthesization (Count Ways to Evaluate to True)](../05-dynamic-programming/09-partition-and-mcm-dp/README.md) — Hard
+- [Burst Balloons](../05-dynamic-programming/09-partition-and-mcm-dp/README.md) — Hard
+- [Candy](../02-intermediate/04-greedy/README.md) — Hard
+- [Count of Smaller Numbers After Self](../02-intermediate/03-divide-and-conquer/README.md) — Hard
+- [Count of Smaller Numbers After Self](../03-trees/04-binary-search-trees/README.md) — Hard
+- [Count of Smaller Numbers After Self](../06-advanced/02-segment-tree-and-fenwick/README.md) — Hard
+- [Critical Connections in a Network (Bridges)](../04-graphs/08-advanced-graphs/README.md) — Hard
+- [Design In-Memory File System](../06-advanced/05-design-problems/README.md) — Hard
+- [Dungeon Game](../05-dynamic-programming/03-grid-dp/README.md) — Hard
+- [Egg Dropping (Super Egg Drop)](../06-advanced/07-game-theory-and-puzzles/README.md) — Hard
+- [Egg Dropping Puzzle (Super Egg Drop)](../05-dynamic-programming/09-partition-and-mcm-dp/README.md) — Hard
+- [Find Median from Data Stream](../02-intermediate/05-heaps/README.md) — Hard
+- [Find Median from Data Stream](../06-advanced/05-design-problems/README.md) — Hard
+- [First Missing Positive](../01-core-linear/02-sorting/README.md) — Hard
+- [Huffman Coding](../02-intermediate/04-greedy/README.md) — Hard
+- [IPO](../02-intermediate/05-heaps/README.md) — Hard
+- [LFU Cache](../06-advanced/05-design-problems/README.md) — Hard
+- [Largest BST Subtree in a Binary Tree](../03-trees/04-binary-search-trees/README.md) — Hard
+- [Largest Rectangle in Histogram](../01-core-linear/11-monotonic-stack-queue/README.md) — Hard
+- [Largest Rectangle in Histogram (reference: sparse table + divide)](../06-advanced/03-sparse-table-and-sqrt/README.md) — Hard
+- [Longest Cycle in a Graph](../04-graphs/03-cycle-and-bipartite/README.md) — Hard
+- [Longest Increasing Path in a Matrix (Memo DFS)](../05-dynamic-programming/03-grid-dp/README.md) — Hard
+- [Lowest Common Ancestor via Binary Lifting](../04-graphs/08-advanced-graphs/README.md) — Hard
+- [Making A Large Island](../04-graphs/02-grid-and-islands/README.md) — Hard
+- [Matrix Chain Multiplication (with bracket printing)](../05-dynamic-programming/09-partition-and-mcm-dp/README.md) — Hard
+- [Maximal Rectangle](../01-core-linear/11-monotonic-stack-queue/README.md) — Hard
+- [Median of Two Sorted Arrays](../01-core-linear/08-binary-search/README.md) — Hard
+- [Median of Two Sorted Arrays](../02-intermediate/03-divide-and-conquer/README.md) — Hard
+- [Median of a Row-Wise Sorted Matrix](../02-intermediate/08-matrix/README.md) — Hard
+- [Merge K Sorted Lists](../02-intermediate/05-heaps/README.md) — Hard
+- [Merge k Sorted Lists](../01-core-linear/09-linked-list/README.md) — Hard
+- [Merge k Sorted Lists](../02-intermediate/03-divide-and-conquer/README.md) — Hard
+- [Minimum Number of Removals to Make Mountain Array](../05-dynamic-programming/08-longest-increasing-subsequence/README.md) — Hard
+- [Minimum Window Substring](../01-core-linear/05-two-pointers/README.md) — Hard
+- [Minimum Window Substring](../01-core-linear/06-sliding-window/README.md) — Hard
+- [N-Queens (and Total N-Queens)](../02-intermediate/02-backtracking/README.md) — Hard
+- [Number of Digit One](../05-dynamic-programming/11-tree-and-digit-dp/README.md) — Hard
+- [Palindrome Partitioning II](../05-dynamic-programming/06-string-dp/README.md) — Hard
+- [Palindrome Partitioning II](../05-dynamic-programming/09-partition-and-mcm-dp/README.md) — Hard
+- [Recover Binary Search Tree](../03-trees/04-binary-search-trees/README.md) — Hard
+- [Regular Expression Matching](../05-dynamic-programming/06-string-dp/README.md) — Hard
+- [Reverse Nodes in k-Group](../01-core-linear/09-linked-list/README.md) — Hard
+- [Reverse Pairs](../01-core-linear/02-sorting/README.md) — Hard
+- [Reverse Pairs](../02-intermediate/03-divide-and-conquer/README.md) — Hard
+- [Serialize and Deserialize Binary Tree](../03-trees/02-tree-construction-and-views/README.md) — Hard
+- [Shortest Common Supersequence (with the string)](../05-dynamic-programming/06-string-dp/README.md) — Hard
+- [Sliding Window Maximum](../01-core-linear/06-sliding-window/README.md) — Hard
+- [Sliding Window Maximum](../01-core-linear/11-monotonic-stack-queue/README.md) — Hard
+- [Sliding Window Median](../02-intermediate/05-heaps/README.md) — Hard
+- [Smallest Range Covering Elements from K Lists](../02-intermediate/05-heaps/README.md) — Hard
+- [Split Array Largest Sum (Allocate Books, Painter's Partition)](../01-core-linear/08-binary-search/README.md) — Hard
+- [Stream of Characters](../03-trees/05-trie/README.md) — Hard
+- [Subarrays With K Different Integers](../01-core-linear/06-sliding-window/README.md) — Hard
+- [Substring with Concatenation of All Words](../01-core-linear/06-sliding-window/README.md) — Hard
+- [Sudoku Solver](../02-intermediate/02-backtracking/README.md) — Hard
+- [The Skyline Problem](../02-intermediate/03-divide-and-conquer/README.md) — Hard
+- [The Skyline Problem](../02-intermediate/06-intervals-and-sweep-line/README.md) — Hard
+- [Trapping Rain Water](../01-core-linear/05-two-pointers/README.md) — Hard
+- [Trapping Rain Water](../01-core-linear/11-monotonic-stack-queue/README.md) — Hard
+- [Travelling Salesman Problem (TSP)](../05-dynamic-programming/10-bitmask-dp/README.md) — Hard
+- [Vertical Order Traversal of a Binary Tree](../03-trees/01-binary-tree-traversals/README.md) — Hard
+- [Vertical Order Traversal of a Binary Tree](../03-trees/02-tree-construction-and-views/README.md) — Hard
+- [Word Break II](../02-intermediate/02-backtracking/README.md) — Hard
+- [Word Ladder](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Hard
+- [Word Search II](../03-trees/05-trie/README.md) — Hard
+
+## Meta (381)
+
+- [Backspace String Compare](../01-core-linear/10-stack-and-queue/README.md) — Easy
+- [Best Time to Buy and Sell Stock](../01-core-linear/01-arrays/README.md) — Easy
+- [Best Time to Buy and Sell Stock](../05-dynamic-programming/07-stocks/README.md) — Easy
+- [Binary Tree Paths (All Root-to-Leaf Paths)](../03-trees/03-paths-lca-and-tree-properties/README.md) — Easy
+- [Convert Sorted Array to Height-Balanced BST](../03-trees/02-tree-construction-and-views/README.md) — Easy
+- [Convert Sorted Array to Height-Balanced BST](../03-trees/04-binary-search-trees/README.md) — Easy
+- [Diameter of Binary Tree](../03-trees/01-binary-tree-traversals/README.md) — Easy
+- [Diameter of Binary Tree (recap)](../03-trees/03-paths-lca-and-tree-properties/README.md) — Easy
+- [Find Pivot Index](../01-core-linear/07-prefix-sum/README.md) — Easy
+- [Find if Path Exists in Graph](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Easy
+- [Find the Index of the First Occurrence in a String (strStr)](../06-advanced/01-string-algorithms/README.md) — Easy
+- [Find the Town Judge](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Easy
+- [First Unique Character in a String](../01-core-linear/03-hashing/README.md) — Easy
+- [Hamming Distance](../02-intermediate/07-bit-manipulation/README.md) — Easy
+- [Intersection of Two Arrays II](../01-core-linear/03-hashing/README.md) — Easy
+- [Intersection of Two Linked Lists](../01-core-linear/09-linked-list/README.md) — Easy
+- [Kth Largest Element in a Stream](../02-intermediate/05-heaps/README.md) — Easy
+- [Kth Missing Positive Number](../01-core-linear/08-binary-search/README.md) — Easy
+- [Linked List Cycle](../01-core-linear/09-linked-list/README.md) — Easy
+- [Logger Rate Limiter](../06-advanced/05-design-problems/README.md) — Easy
+- [Majority Element (Boyer-Moore Voting)](../01-core-linear/01-arrays/README.md) — Easy
+- [Maximum Depth of Binary Tree](../03-trees/01-binary-tree-traversals/README.md) — Easy
+- [Maximum Depth of N-ary Tree](../03-trees/03-paths-lca-and-tree-properties/README.md) — Easy
+- [Maximum Subarray](../05-dynamic-programming/02-one-d-dp/README.md) — Easy
+- [Meeting Rooms (Can Attend All)](../02-intermediate/06-intervals-and-sweep-line/README.md) — Easy
+- [Merge Sorted Array](../01-core-linear/02-sorting/README.md) — Easy
+- [Merge Sorted Array](../01-core-linear/05-two-pointers/README.md) — Easy
+- [Merge Two Sorted Lists](../01-core-linear/09-linked-list/README.md) — Easy
+- [Minimum Depth of Binary Tree](../03-trees/03-paths-lca-and-tree-properties/README.md) — Easy
+- [Missing Number](../01-core-linear/01-arrays/README.md) — Easy
+- [Missing Number](../01-core-linear/02-sorting/README.md) — Easy
+- [Missing Number](../02-intermediate/07-bit-manipulation/README.md) — Easy
+- [Move Zeroes](../01-core-linear/01-arrays/README.md) — Easy
+- [Move Zeroes](../01-core-linear/05-two-pointers/README.md) — Easy
+- [Moving Average from Data Stream](../06-advanced/05-design-problems/README.md) — Easy
+- [Palindrome Linked List](../01-core-linear/09-linked-list/README.md) — Easy
+- [Path Sum](../03-trees/03-paths-lca-and-tree-properties/README.md) — Easy
+- [Range Sum of BST](../03-trees/04-binary-search-trees/README.md) — Easy
+- [Remove Duplicates from Sorted Array](../01-core-linear/01-arrays/README.md) — Easy
+- [Remove Duplicates from Sorted List](../01-core-linear/09-linked-list/README.md) — Easy
+- [Reverse Linked List](../01-core-linear/09-linked-list/README.md) — Easy
+- [Same Tree and Subtree of Another Tree](../03-trees/03-paths-lca-and-tree-properties/README.md) — Easy
+- [Single Number](../02-intermediate/07-bit-manipulation/README.md) — Easy
+- [Sqrt(x)](../01-core-linear/08-binary-search/README.md) — Easy
+- [Sqrt(x) (Binary Search)](../00-foundations/04-math-basics/README.md) — Easy
+- [Squares of a Sorted Array](../01-core-linear/05-two-pointers/README.md) — Easy
+- [Sum of Left Leaves](../03-trees/03-paths-lca-and-tree-properties/README.md) — Easy
+- [Two Sum](../01-core-linear/03-hashing/README.md) — Easy
+- [Two Sum IV - Input is a BST](../03-trees/04-binary-search-trees/README.md) — Easy
+- [Valid Anagram](../01-core-linear/03-hashing/README.md) — Easy
+- [Valid Anagram](../01-core-linear/04-strings/README.md) — Easy
+- [Valid Palindrome](../01-core-linear/05-two-pointers/README.md) — Easy
+- [Valid Palindrome (and Valid Palindrome II)](../01-core-linear/04-strings/README.md) — Easy
+- [Valid Parentheses](../01-core-linear/10-stack-and-queue/README.md) — Easy
+- [01 Matrix](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [132 Pattern](../01-core-linear/11-monotonic-stack-queue/README.md) — Medium
+- [3Sum](../01-core-linear/05-two-pointers/README.md) — Medium
+- [3Sum Closest](../01-core-linear/05-two-pointers/README.md) — Medium
+- [3Sum — hash vs two pointers (mention only)](../01-core-linear/03-hashing/README.md) — Medium
+- [4Sum](../01-core-linear/05-two-pointers/README.md) — Medium
+- [Accounts Merge](../04-graphs/06-union-find/README.md) — Medium
+- [Add Binary / Multiply Strings](../01-core-linear/04-strings/README.md) — Medium
+- [Add Two Numbers](../01-core-linear/09-linked-list/README.md) — Medium
+- [All Nodes Distance K in Binary Tree](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Asteroid Collision](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Asteroid Collision](../01-core-linear/11-monotonic-stack-queue/README.md) — Medium
+- [Basic Calculator II](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Best Sightseeing Pair](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Best Time to Buy and Sell Stock II](../05-dynamic-programming/07-stocks/README.md) — Medium
+- [Best Time to Buy and Sell Stock with Cooldown](../05-dynamic-programming/07-stocks/README.md) — Medium
+- [Binary Search Tree Iterator](../03-trees/04-binary-search-trees/README.md) — Medium
+- [Binary Subarrays With Sum](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Binary Tree Level Order Traversal](../03-trees/01-binary-tree-traversals/README.md) — Medium
+- [Binary Tree Right Side View (and Left Side View)](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Binary Tree Zigzag Level Order Traversal](../03-trees/01-binary-tree-traversals/README.md) — Medium
+- [Capacity to Ship Packages Within D Days](../01-core-linear/08-binary-search/README.md) — Medium
+- [Cheapest Flights Within K Stops](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Clone Graph](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Medium
+- [Coin Change](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Coin Change](../05-dynamic-programming/05-knapsack/README.md) — Medium
+- [Coin Change II](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Combination Sum](../02-intermediate/02-backtracking/README.md) — Medium
+- [Combination Sum II](../02-intermediate/02-backtracking/README.md) — Medium
+- [Combination Sum IV](../05-dynamic-programming/05-knapsack/README.md) — Medium
+- [Construct Binary Tree from Preorder and Inorder](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Construct Binary Tree from String, and Print Binary Tree](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Construct Tree from Level Order](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Container With Most Water](../01-core-linear/05-two-pointers/README.md) — Medium
+- [Contiguous Array](../01-core-linear/07-prefix-sum/README.md) — Medium
+- [Continuous Subarray Sum](../01-core-linear/07-prefix-sum/README.md) — Medium
+- [Copy List with Random Pointer](../01-core-linear/03-hashing/README.md) — Medium
+- [Copy List with Random Pointer](../01-core-linear/09-linked-list/README.md) — Medium
+- [Count Complete Tree Nodes](../03-trees/01-binary-tree-traversals/README.md) — Medium
+- [Count Number of Nice Subarrays](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Course Schedule](../04-graphs/03-cycle-and-bipartite/README.md) — Medium
+- [Course Schedule](../04-graphs/04-topological-sort/README.md) — Medium
+- [Course Schedule (Directed Graph Intro)](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Medium
+- [Course Schedule II](../04-graphs/04-topological-sort/README.md) — Medium
+- [Daily Temperatures](../01-core-linear/11-monotonic-stack-queue/README.md) — Medium
+- [Decode String](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Decode Ways](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Decode Ways (intro)](../05-dynamic-programming/01-dp-intuition/README.md) — Medium
+- [Delete Node in a BST](../03-trees/04-binary-search-trees/README.md) — Medium
+- [Design Add and Search Words Data Structure](../03-trees/05-trie/README.md) — Medium
+- [Design Browser History](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Design Twitter](../06-advanced/05-design-problems/README.md) — Medium
+- [Design Underground System](../06-advanced/05-design-problems/README.md) — Medium
+- [Diagonal Traverse](../02-intermediate/08-matrix/README.md) — Medium
+- [Divide Two Integers](../02-intermediate/07-bit-manipulation/README.md) — Medium
+- [Domino and Tromino Tiling](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Edit Distance](../05-dynamic-programming/06-string-dp/README.md) — Medium
+- [Encode and Decode Strings](../01-core-linear/04-strings/README.md) — Medium
+- [Evaluate Division](../04-graphs/06-union-find/README.md) — Medium
+- [Find All Anagrams in a String](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Find All Anagrams in a String (hash version)](../06-advanced/01-string-algorithms/README.md) — Medium
+- [Find Duplicate Subtrees](../03-trees/03-paths-lca-and-tree-properties/README.md) — Medium
+- [Find Eventual Safe States](../04-graphs/04-topological-sort/README.md) — Medium
+- [Find K Pairs with Smallest Sums](../02-intermediate/05-heaps/README.md) — Medium
+- [Find Minimum in Rotated Sorted Array](../01-core-linear/08-binary-search/README.md) — Medium
+- [Find Peak Element](../01-core-linear/08-binary-search/README.md) — Medium
+- [Find the Duplicate Number](../01-core-linear/02-sorting/README.md) — Medium
+- [First and Last Position of Element in Sorted Array (and Count Occurrences)](../01-core-linear/08-binary-search/README.md) — Medium
+- [Flatten Binary Tree to Linked List](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Flatten a Multilevel Doubly Linked List](../01-core-linear/09-linked-list/README.md) — Medium
+- [Flip Matrix](../02-intermediate/09-randomization-and-sampling/README.md) — Medium
+- [Fruit Into Baskets](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Gas Station](../02-intermediate/04-greedy/README.md) — Medium
+- [Generate Parentheses](../02-intermediate/01-recursion/README.md) — Medium
+- [Generate Parentheses](../02-intermediate/02-backtracking/README.md) — Medium
+- [Generate Random Point in a Circle](../02-intermediate/09-randomization-and-sampling/README.md) — Medium
+- [Graph Valid Tree](../04-graphs/06-union-find/README.md) — Medium
+- [Group Anagrams](../01-core-linear/03-hashing/README.md) — Medium
+- [Hand of Straights](../02-intermediate/04-greedy/README.md) — Medium
+- [Hand of Straights](../02-intermediate/05-heaps/README.md) — Medium
+- [House Robber III (reference to DP)](../03-trees/03-paths-lca-and-tree-properties/README.md) — Medium
+- [Implement Rand10() Using Rand7()](../02-intermediate/09-randomization-and-sampling/README.md) — Medium
+- [Implement Trie (Prefix Tree)](../03-trees/05-trie/README.md) — Medium
+- [Increasing Triplet Subsequence](../05-dynamic-programming/08-longest-increasing-subsequence/README.md) — Medium
+- [Inorder Successor and Predecessor in a BST](../03-trees/04-binary-search-trees/README.md) — Medium
+- [Insert Delete GetRandom O(1)](../02-intermediate/09-randomization-and-sampling/README.md) — Medium
+- [Insert Delete GetRandom O(1)](../06-advanced/05-design-problems/README.md) — Medium
+- [Insert Interval](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Interval List Intersections](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Is Graph Bipartite?](../04-graphs/03-cycle-and-bipartite/README.md) — Medium
+- [Jump Game](../02-intermediate/04-greedy/README.md) — Medium
+- [Jump Game](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Jump Game II](../02-intermediate/04-greedy/README.md) — Medium
+- [Jump Game II](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [K Closest Points to Origin](../02-intermediate/05-heaps/README.md) — Medium
+- [Koko Eating Bananas](../01-core-linear/08-binary-search/README.md) — Medium
+- [Kth Largest Element in an Array](../01-core-linear/02-sorting/README.md) — Medium
+- [Kth Largest Element in an Array](../02-intermediate/05-heaps/README.md) — Medium
+- [Kth Largest Element in an Array](../02-intermediate/09-randomization-and-sampling/README.md) — Medium
+- [Kth Smallest Element in a BST (and Kth Largest)](../03-trees/04-binary-search-trees/README.md) — Medium
+- [Kth Smallest Element in a Sorted Matrix](../02-intermediate/05-heaps/README.md) — Medium
+- [Kth Smallest Element in a Sorted Matrix](../02-intermediate/08-matrix/README.md) — Medium
+- [LRU Cache](../06-advanced/05-design-problems/README.md) — Medium
+- [Letter Combinations of a Phone Number](../02-intermediate/01-recursion/README.md) — Medium
+- [Letter Combinations of a Phone Number](../02-intermediate/02-backtracking/README.md) — Medium
+- [Linked List Cycle II (start and length of the cycle)](../01-core-linear/09-linked-list/README.md) — Medium
+- [Linked List Random Node](../02-intermediate/09-randomization-and-sampling/README.md) — Medium
+- [Longest Arithmetic Subsequence](../05-dynamic-programming/08-longest-increasing-subsequence/README.md) — Medium
+- [Longest Common Subsequence](../05-dynamic-programming/06-string-dp/README.md) — Medium
+- [Longest Consecutive Sequence](../01-core-linear/03-hashing/README.md) — Medium
+- [Longest Consecutive Sequence (via DSU)](../04-graphs/06-union-find/README.md) — Medium
+- [Longest Increasing Subsequence](../05-dynamic-programming/08-longest-increasing-subsequence/README.md) — Medium
+- [Longest Palindromic Substring](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Longest Palindromic Substring (Manacher)](../06-advanced/01-string-algorithms/README.md) — Medium
+- [Longest Palindromic Substring (and Count Palindromic Substrings)](../01-core-linear/04-strings/README.md) — Medium
+- [Longest Repeating Character Replacement](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Longest String Chain](../05-dynamic-programming/08-longest-increasing-subsequence/README.md) — Medium
+- [Longest Substring Without Repeating Characters](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Longest Substring with At Most K Distinct Characters](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Longest Univalue Path](../03-trees/03-paths-lca-and-tree-properties/README.md) — Medium
+- [Lowest Common Ancestor of Deepest Leaves](../03-trees/03-paths-lca-and-tree-properties/README.md) — Medium
+- [Lowest Common Ancestor of a BST](../03-trees/04-binary-search-trees/README.md) — Medium
+- [Lowest Common Ancestor of a BST (reference)](../03-trees/03-paths-lca-and-tree-properties/README.md) — Medium
+- [Lowest Common Ancestor of a Binary Tree](../03-trees/03-paths-lca-and-tree-properties/README.md) — Medium
+- [Max Consecutive Ones III](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Maximal Square](../02-intermediate/08-matrix/README.md) — Medium
+- [Maximum Subarray (Kadane's Algorithm)](../01-core-linear/01-arrays/README.md) — Medium
+- [Maximum Subarray (via prefix sums)](../01-core-linear/07-prefix-sum/README.md) — Medium
+- [Maximum Width of Binary Tree](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Maximum XOR of Two Numbers in an Array](../02-intermediate/07-bit-manipulation/README.md) — Medium
+- [Maximum XOR of Two Numbers in an Array](../03-trees/05-trie/README.md) — Medium
+- [Meeting Rooms II](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Merge Intervals](../01-core-linear/02-sorting/README.md) — Medium
+- [Merge Intervals](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Min Cost to Connect All Points](../04-graphs/07-minimum-spanning-tree/README.md) — Medium
+- [Min Stack](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Minimum Height Trees](../04-graphs/04-topological-sort/README.md) — Medium
+- [Minimum Number of Arrows to Burst Balloons](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Minimum Number of Days to Make m Bouquets](../01-core-linear/08-binary-search/README.md) — Medium
+- [Minimum Remove to Make Valid Parentheses](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Minimum Size Subarray Sum](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Most Stones Removed with Same Row or Column](../04-graphs/06-union-find/README.md) — Medium
+- [My Calendar I](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [My Calendar II](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Network Delay Time](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Next Permutation](../01-core-linear/01-arrays/README.md) — Medium
+- [Non-overlapping Intervals](../02-intermediate/04-greedy/README.md) — Medium
+- [Non-overlapping Intervals](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Number of Distinct Islands](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Number of Islands](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Number of Islands (grid DFS/BFS)](../02-intermediate/08-matrix/README.md) — Medium
+- [Number of Longest Increasing Subsequences](../05-dynamic-programming/08-longest-increasing-subsequence/README.md) — Medium
+- [Number of Provinces](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Medium
+- [Number of Provinces](../04-graphs/06-union-find/README.md) — Medium
+- [Odd Even Linked List](../01-core-linear/09-linked-list/README.md) — Medium
+- [Open the Lock](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Medium
+- [Pacific Atlantic Water Flow](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Paint Fence](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Palindrome Partitioning](../02-intermediate/02-backtracking/README.md) — Medium
+- [Palindromic Substrings](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Palindromic Substrings (count)](../06-advanced/01-string-algorithms/README.md) — Medium
+- [Partition Equal Subset Sum](../05-dynamic-programming/04-subset-and-subsequence-dp/README.md) — Medium
+- [Partition Labels](../01-core-linear/05-two-pointers/README.md) — Medium
+- [Partition Labels](../02-intermediate/04-greedy/README.md) — Medium
+- [Partition to K Equal Sum Subsets](../02-intermediate/02-backtracking/README.md) — Medium
+- [Partition to K Equal Sum Subsets](../05-dynamic-programming/10-bitmask-dp/README.md) — Medium
+- [Path Sum II](../03-trees/03-paths-lca-and-tree-properties/README.md) — Medium
+- [Path Sum III](../03-trees/03-paths-lca-and-tree-properties/README.md) — Medium
+- [Path With Minimum Effort](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Peeking Iterator and Flatten Nested List Iterator](../06-advanced/05-design-problems/README.md) — Medium
+- [Perfect Squares](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Perfect Squares](../05-dynamic-programming/05-knapsack/README.md) — Medium
+- [Permutation in String](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Permutations](../02-intermediate/02-backtracking/README.md) — Medium
+- [Permutations II](../02-intermediate/02-backtracking/README.md) — Medium
+- [Populating Next Right Pointers in Each Node (I and II)](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Pow(x, n)](../02-intermediate/01-recursion/README.md) — Medium
+- [Pow(x, n) (Fast Exponentiation)](../00-foundations/04-math-basics/README.md) — Medium
+- [Product of Array Except Self](../01-core-linear/01-arrays/README.md) — Medium
+- [Product of Array Except Self](../01-core-linear/07-prefix-sum/README.md) — Medium
+- [Queue Reconstruction by Height](../02-intermediate/04-greedy/README.md) — Medium
+- [Random Pick Index](../02-intermediate/09-randomization-and-sampling/README.md) — Medium
+- [Random Pick with Weight](../02-intermediate/09-randomization-and-sampling/README.md) — Medium
+- [Random Point in Non-overlapping Rectangles](../02-intermediate/09-randomization-and-sampling/README.md) — Medium
+- [Range Sum Query - Mutable (sqrt decomposition)](../06-advanced/03-sparse-table-and-sqrt/README.md) — Medium
+- [Redundant Connection](../04-graphs/03-cycle-and-bipartite/README.md) — Medium
+- [Redundant Connection](../04-graphs/06-union-find/README.md) — Medium
+- [Remove Duplicates from Sorted Array II](../01-core-linear/05-two-pointers/README.md) — Medium
+- [Remove Duplicates from Sorted List II](../01-core-linear/09-linked-list/README.md) — Medium
+- [Remove K Digits](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Remove Nth Node From End of List](../01-core-linear/09-linked-list/README.md) — Medium
+- [Reorder List](../01-core-linear/09-linked-list/README.md) — Medium
+- [Reorganize String](../02-intermediate/05-heaps/README.md) — Medium
+- [Restore IP Addresses](../02-intermediate/02-backtracking/README.md) — Medium
+- [Reverse Linked List II (between m and n)](../01-core-linear/09-linked-list/README.md) — Medium
+- [Reverse Words in a String](../01-core-linear/04-strings/README.md) — Medium
+- [Rotate Image](../02-intermediate/08-matrix/README.md) — Medium
+- [Rotate List](../01-core-linear/09-linked-list/README.md) — Medium
+- [Rotting Oranges](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Rotting Oranges](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Satisfiability of Equality Equations](../04-graphs/06-union-find/README.md) — Medium
+- [Search a 2D Matrix](../01-core-linear/08-binary-search/README.md) — Medium
+- [Search a 2D Matrix](../02-intermediate/08-matrix/README.md) — Medium
+- [Search in Rotated Sorted Array](../01-core-linear/08-binary-search/README.md) — Medium
+- [Search in Rotated Sorted Array II (with duplicates)](../01-core-linear/08-binary-search/README.md) — Medium
+- [Set Matrix Zeroes](../02-intermediate/08-matrix/README.md) — Medium
+- [Shortest Bridge](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Shortest Path in Binary Matrix](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Medium
+- [Shortest Path in Binary Matrix](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Shortest Path in Binary Matrix (recap)](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Shuffle an Array](../02-intermediate/09-randomization-and-sampling/README.md) — Medium
+- [Simplify Path](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Single Element in a Sorted Array](../01-core-linear/08-binary-search/README.md) — Medium
+- [Single Number III](../02-intermediate/07-bit-manipulation/README.md) — Medium
+- [Sliding Window Maximum via Sparse Table](../06-advanced/03-sparse-table-and-sqrt/README.md) — Medium
+- [Sort Characters By Frequency](../01-core-linear/02-sorting/README.md) — Medium
+- [Sort Colors](../01-core-linear/02-sorting/README.md) — Medium
+- [Sort Colors (Dutch National Flag)](../01-core-linear/01-arrays/README.md) — Medium
+- [Sort Colors (Dutch National Flag)](../01-core-linear/05-two-pointers/README.md) — Medium
+- [Sort List](../01-core-linear/09-linked-list/README.md) — Medium
+- [Spiral Matrix](../02-intermediate/08-matrix/README.md) — Medium
+- [String Compression](../01-core-linear/04-strings/README.md) — Medium
+- [String to Integer (atoi)](../01-core-linear/04-strings/README.md) — Medium
+- [Subarray Sum Equals K](../01-core-linear/03-hashing/README.md) — Medium
+- [Subarray Sum Equals K](../01-core-linear/07-prefix-sum/README.md) — Medium
+- [Subarray Sums Divisible by K](../01-core-linear/07-prefix-sum/README.md) — Medium
+- [Subsets](../02-intermediate/02-backtracking/README.md) — Medium
+- [Subsets (Power Set)](../02-intermediate/01-recursion/README.md) — Medium
+- [Subsets II](../02-intermediate/02-backtracking/README.md) — Medium
+- [Subsets via Bitmask](../02-intermediate/07-bit-manipulation/README.md) — Medium
+- [Sum Root to Leaf Numbers](../03-trees/03-paths-lca-and-tree-properties/README.md) — Medium
+- [Sum of Subarray Minimums](../01-core-linear/11-monotonic-stack-queue/README.md) — Medium
+- [Sum of Subarray Ranges](../01-core-linear/11-monotonic-stack-queue/README.md) — Medium
+- [Sum of Two Integers](../02-intermediate/07-bit-manipulation/README.md) — Medium
+- [Surrounded Regions](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Task Scheduler](../02-intermediate/04-greedy/README.md) — Medium
+- [Task Scheduler](../02-intermediate/05-heaps/README.md) — Medium
+- [Time Based Key-Value Store](../06-advanced/05-design-problems/README.md) — Medium
+- [Top K Frequent Elements](../01-core-linear/03-hashing/README.md) — Medium
+- [Top K Frequent Elements](../02-intermediate/05-heaps/README.md) — Medium
+- [Total Hamming Distance](../02-intermediate/07-bit-manipulation/README.md) — Medium
+- [Trim a Binary Search Tree](../03-trees/04-binary-search-trees/README.md) — Medium
+- [Two Sum II (Sorted Input)](../01-core-linear/05-two-pointers/README.md) — Medium
+- [Valid Parenthesis String](../02-intermediate/04-greedy/README.md) — Medium
+- [Valid Sudoku](../02-intermediate/08-matrix/README.md) — Medium
+- [Validate Binary Search Tree](../03-trees/04-binary-search-trees/README.md) — Medium
+- [Word Break](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Word Search](../02-intermediate/02-backtracking/README.md) — Medium
+- [Word Search (grid backtracking)](../02-intermediate/08-matrix/README.md) — Medium
+- [Alien Dictionary](../04-graphs/04-topological-sort/README.md) — Hard
+- [All O(1) Data Structure](../06-advanced/05-design-problems/README.md) — Hard
+- [Basic Calculator](../01-core-linear/10-stack-and-queue/README.md) — Hard
+- [Best Time to Buy and Sell Stock III](../05-dynamic-programming/07-stocks/README.md) — Hard
+- [Best Time to Buy and Sell Stock IV](../05-dynamic-programming/07-stocks/README.md) — Hard
+- [Binary Tree Cameras](../03-trees/03-paths-lca-and-tree-properties/README.md) — Hard
+- [Binary Tree Maximum Path Sum](../03-trees/01-binary-tree-traversals/README.md) — Hard
+- [Binary Tree Maximum Path Sum](../03-trees/03-paths-lca-and-tree-properties/README.md) — Hard
+- [Burst Balloons](../05-dynamic-programming/09-partition-and-mcm-dp/README.md) — Hard
+- [Cherry Pickup (I)](../05-dynamic-programming/03-grid-dp/README.md) — Hard
+- [Cherry Pickup II](../05-dynamic-programming/03-grid-dp/README.md) — Hard
+- [Count of Range Sum](../01-core-linear/07-prefix-sum/README.md) — Hard
+- [Critical Connections in a Network (Bridges)](../04-graphs/08-advanced-graphs/README.md) — Hard
+- [Data Stream as Disjoint Intervals](../02-intermediate/06-intervals-and-sweep-line/README.md) — Hard
+- [Design Search Autocomplete System](../03-trees/05-trie/README.md) — Hard
+- [Design Search Autocomplete System](../06-advanced/05-design-problems/README.md) — Hard
+- [Design Text Editor](../06-advanced/05-design-problems/README.md) — Hard
+- [Distinct Subsequences](../05-dynamic-programming/06-string-dp/README.md) — Hard
+- [Employee Free Time](../02-intermediate/06-intervals-and-sweep-line/README.md) — Hard
+- [Expression Add Operators](../02-intermediate/02-backtracking/README.md) — Hard
+- [Find Median from Data Stream](../02-intermediate/05-heaps/README.md) — Hard
+- [Find Median from Data Stream](../06-advanced/05-design-problems/README.md) — Hard
+- [Find in Mountain Array](../01-core-linear/08-binary-search/README.md) — Hard
+- [First Missing Positive](../01-core-linear/02-sorting/README.md) — Hard
+- [Insert Delete GetRandom O(1) - Duplicates Allowed](../02-intermediate/09-randomization-and-sampling/README.md) — Hard
+- [Kth Ancestor of a Tree Node](../04-graphs/08-advanced-graphs/README.md) — Hard
+- [LFU Cache](../06-advanced/05-design-problems/README.md) — Hard
+- [Largest Rectangle in Histogram](../01-core-linear/11-monotonic-stack-queue/README.md) — Hard
+- [Largest Rectangle in Histogram (reference: sparse table + divide)](../06-advanced/03-sparse-table-and-sqrt/README.md) — Hard
+- [Last Day Where You Can Still Cross](../04-graphs/06-union-find/README.md) — Hard
+- [Lowest Common Ancestor via Binary Lifting](../04-graphs/08-advanced-graphs/README.md) — Hard
+- [Lowest Common Ancestor via Euler Tour + Sparse Table](../06-advanced/03-sparse-table-and-sqrt/README.md) — Hard
+- [Making A Large Island](../04-graphs/02-grid-and-islands/README.md) — Hard
+- [Making A Large Island](../04-graphs/06-union-find/README.md) — Hard
+- [Maximal Rectangle](../01-core-linear/11-monotonic-stack-queue/README.md) — Hard
+- [Median of Two Sorted Arrays](../01-core-linear/08-binary-search/README.md) — Hard
+- [Merge K Sorted Lists](../02-intermediate/05-heaps/README.md) — Hard
+- [Merge k Sorted Lists](../01-core-linear/09-linked-list/README.md) — Hard
+- [Minimum Interval to Include Each Query](../02-intermediate/06-intervals-and-sweep-line/README.md) — Hard
+- [Minimum Window Substring](../01-core-linear/05-two-pointers/README.md) — Hard
+- [Minimum Window Substring](../01-core-linear/06-sliding-window/README.md) — Hard
+- [My Calendar III](../02-intermediate/06-intervals-and-sweep-line/README.md) — Hard
+- [N-Queens (and Total N-Queens)](../02-intermediate/02-backtracking/README.md) — Hard
+- [Number of Islands II](../04-graphs/06-union-find/README.md) — Hard
+- [Palindrome Pairs](../03-trees/05-trie/README.md) — Hard
+- [Palindrome Partitioning II](../05-dynamic-programming/09-partition-and-mcm-dp/README.md) — Hard
+- [Parallel Courses (Minimum Semesters)](../04-graphs/04-topological-sort/README.md) — Hard
+- [Random Pick with Blacklist](../02-intermediate/09-randomization-and-sampling/README.md) — Hard
+- [Range Module (concept)](../02-intermediate/06-intervals-and-sweep-line/README.md) — Hard
+- [Reconstruct Itinerary](../04-graphs/08-advanced-graphs/README.md) — Hard
+- [Recover Binary Search Tree](../03-trees/04-binary-search-trees/README.md) — Hard
+- [Redundant Connection II (directed)](../04-graphs/06-union-find/README.md) — Hard
+- [Regular Expression Matching](../05-dynamic-programming/06-string-dp/README.md) — Hard
+- [Reverse Nodes in k-Group](../01-core-linear/09-linked-list/README.md) — Hard
+- [Russian Doll Envelopes](../05-dynamic-programming/08-longest-increasing-subsequence/README.md) — Hard
+- [Serialize and Deserialize Binary Tree](../03-trees/02-tree-construction-and-views/README.md) — Hard
+- [Shortest Palindrome](../06-advanced/01-string-algorithms/README.md) — Hard
+- [Shortest Subarray with Sum at Least K](../01-core-linear/11-monotonic-stack-queue/README.md) — Hard
+- [Sliding Window Maximum](../01-core-linear/06-sliding-window/README.md) — Hard
+- [Sliding Window Maximum](../01-core-linear/11-monotonic-stack-queue/README.md) — Hard
+- [Sliding Window Median](../02-intermediate/05-heaps/README.md) — Hard
+- [Smallest Range Covering Elements from K Lists](../02-intermediate/05-heaps/README.md) — Hard
+- [Split Array Largest Sum (Allocate Books, Painter's Partition)](../01-core-linear/08-binary-search/README.md) — Hard
+- [Subarrays With K Different Integers](../01-core-linear/06-sliding-window/README.md) — Hard
+- [Substring with Concatenation of All Words](../01-core-linear/06-sliding-window/README.md) — Hard
+- [Swim in Rising Water](../04-graphs/05-shortest-paths/README.md) — Hard
+- [Swim in Rising Water (via DSU)](../04-graphs/06-union-find/README.md) — Hard
+- [The Skyline Problem](../02-intermediate/06-intervals-and-sweep-line/README.md) — Hard
+- [Trapping Rain Water](../01-core-linear/05-two-pointers/README.md) — Hard
+- [Trapping Rain Water](../01-core-linear/11-monotonic-stack-queue/README.md) — Hard
+- [Unique Paths III](../02-intermediate/02-backtracking/README.md) — Hard
+- [Vertical Order Traversal of a Binary Tree](../03-trees/01-binary-tree-traversals/README.md) — Hard
+- [Vertical Order Traversal of a Binary Tree](../03-trees/02-tree-construction-and-views/README.md) — Hard
+- [Wildcard Matching](../05-dynamic-programming/06-string-dp/README.md) — Hard
+- [Word Break II](../02-intermediate/02-backtracking/README.md) — Hard
+- [Word Ladder](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Hard
+- [Word Ladder II (brief)](../04-graphs/08-advanced-graphs/README.md) — Hard
+- [Word Search II](../03-trees/05-trie/README.md) — Hard
+
+## Apple (90)
+
+- [Binary Search](../01-core-linear/08-binary-search/README.md) — Easy
+- [Climbing Stairs](../05-dynamic-programming/01-dp-intuition/README.md) — Easy
+- [Contains Duplicate](../01-core-linear/03-hashing/README.md) — Easy
+- [Convert Sorted Array to Height-Balanced BST](../03-trees/02-tree-construction-and-views/README.md) — Easy
+- [Counting Bits](../02-intermediate/07-bit-manipulation/README.md) — Easy
+- [Delete Node in a Linked List](../01-core-linear/09-linked-list/README.md) — Easy
+- [Design HashMap (Separate Chaining)](../06-advanced/05-design-problems/README.md) — Easy
+- [Fibonacci Number (4 versions)](../05-dynamic-programming/01-dp-intuition/README.md) — Easy
+- [Happy Number](../00-foundations/04-math-basics/README.md) — Easy
+- [Implement Queue using Stacks](../01-core-linear/10-stack-and-queue/README.md) — Easy
+- [Implement Queue using Stacks](../06-advanced/05-design-problems/README.md) — Easy
+- [Intersection of Two Linked Lists](../01-core-linear/09-linked-list/README.md) — Easy
+- [Longest Common Prefix](../01-core-linear/04-strings/README.md) — Easy
+- [Longest Common Prefix](../03-trees/05-trie/README.md) — Easy
+- [Majority Element (D&C version)](../02-intermediate/03-divide-and-conquer/README.md) — Easy
+- [Maximum Subarray](../05-dynamic-programming/02-one-d-dp/README.md) — Easy
+- [Merge Two Sorted Lists](../01-core-linear/09-linked-list/README.md) — Easy
+- [Middle of the Linked List](../01-core-linear/09-linked-list/README.md) — Easy
+- [Missing Number](../01-core-linear/01-arrays/README.md) — Easy
+- [Missing Number](../01-core-linear/02-sorting/README.md) — Easy
+- [Missing Number](../02-intermediate/07-bit-manipulation/README.md) — Easy
+- [Move Zeroes](../01-core-linear/01-arrays/README.md) — Easy
+- [Move Zeroes](../01-core-linear/05-two-pointers/README.md) — Easy
+- [Number of 1 Bits](../02-intermediate/07-bit-manipulation/README.md) — Easy
+- [Palindrome Linked List](../01-core-linear/09-linked-list/README.md) — Easy
+- [Pascal's Triangle](../00-foundations/04-math-basics/README.md) — Easy
+- [Pascal's Triangle](../02-intermediate/08-matrix/README.md) — Easy
+- [Reverse Bits](../02-intermediate/07-bit-manipulation/README.md) — Easy
+- [Reverse Linked List](../01-core-linear/09-linked-list/README.md) — Easy
+- [Reverse String](../01-core-linear/05-two-pointers/README.md) — Easy
+- [Running Sum of 1D Array](../01-core-linear/07-prefix-sum/README.md) — Easy
+- [Single Number](../02-intermediate/07-bit-manipulation/README.md) — Easy
+- [Sqrt(x) (Binary Search)](../00-foundations/04-math-basics/README.md) — Easy
+- [Valid Palindrome](../01-core-linear/05-two-pointers/README.md) — Easy
+- [3Sum](../01-core-linear/05-two-pointers/README.md) — Medium
+- [Add Two Numbers](../01-core-linear/09-linked-list/README.md) — Medium
+- [Coin Change](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Coin Change](../05-dynamic-programming/05-knapsack/README.md) — Medium
+- [Combination Sum](../02-intermediate/02-backtracking/README.md) — Medium
+- [Container With Most Water](../01-core-linear/05-two-pointers/README.md) — Medium
+- [Count Primes (Sieve of Eratosthenes)](../00-foundations/04-math-basics/README.md) — Medium
+- [Course Schedule](../04-graphs/03-cycle-and-bipartite/README.md) — Medium
+- [Course Schedule](../04-graphs/04-topological-sort/README.md) — Medium
+- [Design Circular Queue](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [House Robber](../05-dynamic-programming/01-dp-intuition/README.md) — Medium
+- [Implement Trie (Prefix Tree)](../03-trees/05-trie/README.md) — Medium
+- [Kth Largest Element in an Array](../01-core-linear/02-sorting/README.md) — Medium
+- [Kth Largest Element in an Array](../02-intermediate/05-heaps/README.md) — Medium
+- [Kth Largest Element in an Array](../02-intermediate/09-randomization-and-sampling/README.md) — Medium
+- [LRU Cache](../06-advanced/05-design-problems/README.md) — Medium
+- [Largest Number](../01-core-linear/02-sorting/README.md) — Medium
+- [Longest Palindromic Substring](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Longest Palindromic Substring (Manacher)](../06-advanced/01-string-algorithms/README.md) — Medium
+- [Maximal Square](../02-intermediate/08-matrix/README.md) — Medium
+- [Maximal Square](../05-dynamic-programming/03-grid-dp/README.md) — Medium
+- [Maximum Subarray (D&C version)](../02-intermediate/03-divide-and-conquer/README.md) — Medium
+- [Maximum Subarray (Kadane's Algorithm)](../01-core-linear/01-arrays/README.md) — Medium
+- [Maximum Subarray (via prefix sums)](../01-core-linear/07-prefix-sum/README.md) — Medium
+- [Number of Islands (grid DFS/BFS)](../02-intermediate/08-matrix/README.md) — Medium
+- [Peeking Iterator and Flatten Nested List Iterator](../06-advanced/05-design-problems/README.md) — Medium
+- [Product of Array Except Self](../01-core-linear/01-arrays/README.md) — Medium
+- [Product of Array Except Self](../01-core-linear/07-prefix-sum/README.md) — Medium
+- [Remove Nth Node From End of List](../01-core-linear/09-linked-list/README.md) — Medium
+- [Reverse Integer (Overflow)](../00-foundations/04-math-basics/README.md) — Medium
+- [Roman to Integer / Integer to Roman](../01-core-linear/04-strings/README.md) — Medium
+- [Rotate Image](../02-intermediate/08-matrix/README.md) — Medium
+- [Search a 2D Matrix II](../01-core-linear/08-binary-search/README.md) — Medium
+- [Search a 2D Matrix II](../02-intermediate/08-matrix/README.md) — Medium
+- [Search in Rotated Sorted Array](../01-core-linear/08-binary-search/README.md) — Medium
+- [Shortest Path in Binary Matrix](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Sort Colors](../01-core-linear/02-sorting/README.md) — Medium
+- [Sort Colors (Dutch National Flag)](../01-core-linear/01-arrays/README.md) — Medium
+- [Sort Colors (Dutch National Flag)](../01-core-linear/05-two-pointers/README.md) — Medium
+- [Spiral Matrix](../02-intermediate/08-matrix/README.md) — Medium
+- [Top K Frequent Elements](../02-intermediate/05-heaps/README.md) — Medium
+- [Ugly Number II](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Ugly Number II / Super Ugly Number](../02-intermediate/05-heaps/README.md) — Medium
+- [Valid Sudoku](../02-intermediate/08-matrix/README.md) — Medium
+- [Word Break](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Dungeon Game](../05-dynamic-programming/03-grid-dp/README.md) — Hard
+- [Find Median from Data Stream](../02-intermediate/05-heaps/README.md) — Hard
+- [Find Median from Data Stream](../06-advanced/05-design-problems/README.md) — Hard
+- [First Missing Positive](../01-core-linear/02-sorting/README.md) — Hard
+- [Median of Two Sorted Arrays](../01-core-linear/08-binary-search/README.md) — Hard
+- [Median of Two Sorted Arrays](../02-intermediate/03-divide-and-conquer/README.md) — Hard
+- [Merge K Sorted Lists](../02-intermediate/05-heaps/README.md) — Hard
+- [N-Queens (and Total N-Queens)](../02-intermediate/02-backtracking/README.md) — Hard
+- [Reverse Nodes in k-Group](../01-core-linear/09-linked-list/README.md) — Hard
+- [Sudoku Solver](../02-intermediate/02-backtracking/README.md) — Hard
+- [Trapping Rain Water](../01-core-linear/05-two-pointers/README.md) — Hard
+
+## Bloomberg (53)
+
+- [Balanced Binary Tree](../03-trees/01-binary-tree-traversals/README.md) — Easy
+- [Best Time to Buy and Sell Stock](../01-core-linear/01-arrays/README.md) — Easy
+- [Best Time to Buy and Sell Stock](../05-dynamic-programming/07-stocks/README.md) — Easy
+- [Binary Tree Level Order Traversal II (Bottom-Up)](../03-trees/02-tree-construction-and-views/README.md) — Easy
+- [First Unique Character in a String](../01-core-linear/03-hashing/README.md) — Easy
+- [Implement Queue using Stacks](../01-core-linear/10-stack-and-queue/README.md) — Easy
+- [Implement Queue using Stacks](../06-advanced/05-design-problems/README.md) — Easy
+- [Implement Stack using Queues](../01-core-linear/10-stack-and-queue/README.md) — Easy
+- [Linked List Cycle](../01-core-linear/09-linked-list/README.md) — Easy
+- [Min Stack](../06-advanced/05-design-problems/README.md) — Easy
+- [Next Greater Element I](../01-core-linear/11-monotonic-stack-queue/README.md) — Easy
+- [Same Tree](../03-trees/01-binary-tree-traversals/README.md) — Easy
+- [Symmetric Tree](../03-trees/01-binary-tree-traversals/README.md) — Easy
+- [Valid Parentheses](../01-core-linear/10-stack-and-queue/README.md) — Easy
+- [Binary Tree Level Order Traversal](../03-trees/01-binary-tree-traversals/README.md) — Medium
+- [Binary Tree Zigzag Level Order Traversal](../03-trees/01-binary-tree-traversals/README.md) — Medium
+- [Construct Binary Tree from Inorder and Postorder](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Construct Binary Tree from Preorder and Inorder](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Copy List with Random Pointer](../01-core-linear/09-linked-list/README.md) — Medium
+- [Decode String](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Decode Ways (intro)](../05-dynamic-programming/01-dp-intuition/README.md) — Medium
+- [Design Underground System](../06-advanced/05-design-problems/README.md) — Medium
+- [Evaluate Reverse Polish Notation](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Factorial Trailing Zeroes](../00-foundations/04-math-basics/README.md) — Medium
+- [Flatten Binary Tree to Linked List](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Flatten a Multilevel Doubly Linked List](../01-core-linear/09-linked-list/README.md) — Medium
+- [Generate Parentheses](../02-intermediate/01-recursion/README.md) — Medium
+- [Generate Parentheses](../02-intermediate/02-backtracking/README.md) — Medium
+- [Linked List Cycle II (start and length of the cycle)](../01-core-linear/09-linked-list/README.md) — Medium
+- [Longest Increasing Subsequence](../05-dynamic-programming/08-longest-increasing-subsequence/README.md) — Medium
+- [Longest Palindromic Substring (and Count Palindromic Substrings)](../01-core-linear/04-strings/README.md) — Medium
+- [Longest Substring Without Repeating Characters](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Meeting Rooms II](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Merge Intervals](../01-core-linear/02-sorting/README.md) — Medium
+- [Merge Intervals](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Min Stack](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Next Permutation](../01-core-linear/01-arrays/README.md) — Medium
+- [Number of Islands](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Online Stock Span](../01-core-linear/11-monotonic-stack-queue/README.md) — Medium
+- [Pacific Atlantic Water Flow](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Populating Next Right Pointers in Each Node (I and II)](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Reverse Words in a String](../01-core-linear/04-strings/README.md) — Medium
+- [Shortest Path in Binary Matrix](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Medium
+- [Sort List](../01-core-linear/09-linked-list/README.md) — Medium
+- [Subarray Sum Equals K](../01-core-linear/07-prefix-sum/README.md) — Medium
+- [Target Sum](../05-dynamic-programming/04-subset-and-subsequence-dp/README.md) — Medium
+- [Triangle](../05-dynamic-programming/03-grid-dp/README.md) — Medium
+- [Unique Paths](../05-dynamic-programming/03-grid-dp/README.md) — Medium
+- [Unique Paths (Combinatorics)](../06-advanced/04-number-theory/README.md) — Medium
+- [Word Search](../02-intermediate/02-backtracking/README.md) — Medium
+- [Count of Smaller Numbers After Self](../02-intermediate/03-divide-and-conquer/README.md) — Hard
+- [Largest Rectangle in Histogram](../01-core-linear/11-monotonic-stack-queue/README.md) — Hard
+- [Vertical Order Traversal of a Binary Tree](../03-trees/01-binary-tree-traversals/README.md) — Hard
+
+## Uber (46)
+
+- [Accounts Merge](../04-graphs/06-union-find/README.md) — Medium
+- [All Nodes Distance K in Binary Tree](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Asteroid Collision](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Asteroid Collision](../01-core-linear/11-monotonic-stack-queue/README.md) — Medium
+- [Basic Calculator II](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Car Pooling](../01-core-linear/07-prefix-sum/README.md) — Medium
+- [Car Pooling](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Cheapest Flights Within K Stops](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Decode Ways](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Dijkstra's Algorithm](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Evaluate Division](../04-graphs/06-union-find/README.md) — Medium
+- [Insert Delete GetRandom O(1)](../02-intermediate/09-randomization-and-sampling/README.md) — Medium
+- [Interval List Intersections](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [K Closest Points to Origin](../02-intermediate/05-heaps/README.md) — Medium
+- [Letter Combinations of a Phone Number](../02-intermediate/01-recursion/README.md) — Medium
+- [Longest Substring with At Most K Distinct Characters](../01-core-linear/06-sliding-window/README.md) — Medium
+- [Minimum Cost For Tickets](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Minimum Knight Moves](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Rate Limiter (Token Bucket)](../06-advanced/05-design-problems/README.md) — Medium
+- [Replace Words](../03-trees/05-trie/README.md) — Medium
+- [Snakes and Ladders](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Task Scheduler](../02-intermediate/05-heaps/README.md) — Medium
+- [Video Stitching](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Basic Calculator](../01-core-linear/10-stack-and-queue/README.md) — Hard
+- [Best Time to Buy and Sell Stock IV](../05-dynamic-programming/07-stocks/README.md) — Hard
+- [Binary Tree Maximum Path Sum](../03-trees/03-paths-lca-and-tree-properties/README.md) — Hard
+- [Cherry Pickup (I)](../05-dynamic-programming/03-grid-dp/README.md) — Hard
+- [Design Search Autocomplete System](../03-trees/05-trie/README.md) — Hard
+- [Design Search Autocomplete System](../06-advanced/05-design-problems/README.md) — Hard
+- [Employee Free Time](../02-intermediate/06-intervals-and-sweep-line/README.md) — Hard
+- [Making A Large Island](../04-graphs/06-union-find/README.md) — Hard
+- [Maximum Profit in Job Scheduling](../05-dynamic-programming/07-stocks/README.md) — Hard
+- [Merge k Sorted Lists](../01-core-linear/09-linked-list/README.md) — Hard
+- [Merge k Sorted Lists](../02-intermediate/03-divide-and-conquer/README.md) — Hard
+- [Minimum Window Substring](../01-core-linear/05-two-pointers/README.md) — Hard
+- [Minimum Window Substring](../01-core-linear/06-sliding-window/README.md) — Hard
+- [Number of Islands II](../04-graphs/06-union-find/README.md) — Hard
+- [Reconstruct Itinerary](../04-graphs/08-advanced-graphs/README.md) — Hard
+- [Reverse Pairs](../02-intermediate/03-divide-and-conquer/README.md) — Hard
+- [Sliding Window Maximum](../01-core-linear/06-sliding-window/README.md) — Hard
+- [Sliding Window Maximum](../01-core-linear/11-monotonic-stack-queue/README.md) — Hard
+- [Sudoku Solver](../02-intermediate/02-backtracking/README.md) — Hard
+- [The Skyline Problem](../02-intermediate/03-divide-and-conquer/README.md) — Hard
+- [The Skyline Problem](../02-intermediate/06-intervals-and-sweep-line/README.md) — Hard
+- [Vertical Order Traversal of a Binary Tree](../03-trees/02-tree-construction-and-views/README.md) — Hard
+- [Word Search II](../03-trees/05-trie/README.md) — Hard
+
+## Flipkart (32)
+
+- [BFS of Graph](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Easy
+- [DFS of Graph](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Easy
+- [N Meetings in One Room (Activity Selection)](../02-intermediate/04-greedy/README.md) — Easy
+- [Previous Smaller Element](../01-core-linear/11-monotonic-stack-queue/README.md) — Easy
+- [Root to Node Path](../03-trees/03-paths-lca-and-tree-properties/README.md) — Easy
+- [Row with Maximum Number of 1s](../01-core-linear/08-binary-search/README.md) — Easy
+- [Shortest Path in an Unweighted Graph](../04-graphs/05-shortest-paths/README.md) — Easy
+- [Aggressive Cows (Magnetic Force Between Two Balls)](../01-core-linear/08-binary-search/README.md) — Medium
+- [Bellman-Ford Algorithm](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Bottom View of Binary Tree](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Boundary Traversal of Binary Tree](../03-trees/01-binary-tree-traversals/README.md) — Medium
+- [Children Sum Property](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Count Inversions](../01-core-linear/02-sorting/README.md) — Medium
+- [Count Inversions](../02-intermediate/03-divide-and-conquer/README.md) — Medium
+- [Count Partitions with Given Difference](../05-dynamic-programming/04-subset-and-subsequence-dp/README.md) — Medium
+- [Count Subsets with Sum K (Perfect Sum, with zeros)](../05-dynamic-programming/04-subset-and-subsequence-dp/README.md) — Medium
+- [Detect Cycle in a Directed Graph](../04-graphs/03-cycle-and-bipartite/README.md) — Medium
+- [Detect Cycle in an Undirected Graph](../04-graphs/03-cycle-and-bipartite/README.md) — Medium
+- [Floyd-Warshall](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Job Sequencing with Deadlines](../02-intermediate/04-greedy/README.md) — Medium
+- [M-Coloring Problem](../02-intermediate/02-backtracking/README.md) — Medium
+- [Minimum Multiplications to Reach End](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Minimum Number of Platforms](../02-intermediate/04-greedy/README.md) — Medium
+- [Minimum Number of Platforms](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Minimum Time to Burn a Binary Tree / Amount of Time to Infect](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Ninja Training (DP with last-choice state)](../05-dynamic-programming/03-grid-dp/README.md) — Medium
+- [Rat in a Maze](../02-intermediate/02-backtracking/README.md) — Medium
+- [Reverse a Stack Using Recursion](../02-intermediate/01-recursion/README.md) — Medium
+- [Shortest Path with Printing the Path](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Sort a Stack Using Recursion](../02-intermediate/01-recursion/README.md) — Medium
+- [Top View of Binary Tree](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Reverse Pairs](../01-core-linear/02-sorting/README.md) — Hard
+
+## Facebook (28)
+
+- [Convert Sorted Array to Binary Search Tree](../02-intermediate/03-divide-and-conquer/README.md) — Easy
+- [Island Perimeter](../04-graphs/02-grid-and-islands/README.md) — Easy
+- [Combination Sum IV](../05-dynamic-programming/04-subset-and-subsequence-dp/README.md) — Medium
+- [Convert Sorted List to Binary Search Tree](../02-intermediate/03-divide-and-conquer/README.md) — Medium
+- [Excel Sheet Column Title](../00-foundations/04-math-basics/README.md) — Medium
+- [Find the Celebrity](../06-advanced/07-game-theory-and-puzzles/README.md) — Medium
+- [Fraction to Recurring Decimal](../06-advanced/04-number-theory/README.md) — Medium
+- [Guess Number Higher or Lower II](../06-advanced/07-game-theory-and-puzzles/README.md) — Medium
+- [House Robber III](../05-dynamic-programming/11-tree-and-digit-dp/README.md) — Medium
+- [Kth Largest Element in an Array (Quickselect)](../02-intermediate/03-divide-and-conquer/README.md) — Medium
+- [Max Area of Island](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Maximal Square](../05-dynamic-programming/03-grid-dp/README.md) — Medium
+- [Pow(x, n)](../02-intermediate/03-divide-and-conquer/README.md) — Medium
+- [Predict the Winner (Coin Game, Pick From the Ends)](../06-advanced/07-game-theory-and-puzzles/README.md) — Medium
+- [Remove Duplicate Letters](../01-core-linear/11-monotonic-stack-queue/README.md) — Medium
+- [Remove K Digits](../01-core-linear/11-monotonic-stack-queue/README.md) — Medium
+- [Super Pow](../06-advanced/04-number-theory/README.md) — Medium
+- [Target Sum](../05-dynamic-programming/04-subset-and-subsequence-dp/README.md) — Medium
+- [Target Sum](../05-dynamic-programming/05-knapsack/README.md) — Medium
+- [Walls and Gates](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Binary Tree Cameras](../05-dynamic-programming/11-tree-and-digit-dp/README.md) — Hard
+- [Longest Increasing Path in a Matrix (Memo DFS)](../05-dynamic-programming/03-grid-dp/README.md) — Hard
+- [Median of Two Sorted Arrays](../02-intermediate/03-divide-and-conquer/README.md) — Hard
+- [Merge k Sorted Lists](../02-intermediate/03-divide-and-conquer/README.md) — Hard
+- [Number of Digit One](../05-dynamic-programming/11-tree-and-digit-dp/README.md) — Hard
+- [Optimize Water Distribution in a Village](../04-graphs/07-minimum-spanning-tree/README.md) — Hard
+- [Sum of Distances in Tree](../05-dynamic-programming/11-tree-and-digit-dp/README.md) — Hard
+- [The Skyline Problem](../02-intermediate/03-divide-and-conquer/README.md) — Hard
+
+## Adobe (27)
+
+- [Climbing Stairs](../05-dynamic-programming/01-dp-intuition/README.md) — Easy
+- [Flood Fill](../04-graphs/02-grid-and-islands/README.md) — Easy
+- [Generate Binary Numbers 1 to N](../01-core-linear/10-stack-and-queue/README.md) — Easy
+- [Majority Element (Boyer-Moore Voting)](../01-core-linear/01-arrays/README.md) — Easy
+- [Min Cost Climbing Stairs](../05-dynamic-programming/01-dp-intuition/README.md) — Easy
+- [Nim Game](../06-advanced/07-game-theory-and-puzzles/README.md) — Easy
+- [Palindrome Number](../00-foundations/04-math-basics/README.md) — Easy
+- [Pascal's Triangle](../00-foundations/04-math-basics/README.md) — Easy
+- [Second Largest Element](../01-core-linear/01-arrays/README.md) — Easy
+- [Subset Sum Equals Target](../05-dynamic-programming/04-subset-and-subsequence-dp/README.md) — Easy
+- [Children Sum Property](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Count Inversions](../02-intermediate/03-divide-and-conquer/README.md) — Medium
+- [Detect Cycle in a Directed Graph](../04-graphs/03-cycle-and-bipartite/README.md) — Medium
+- [Detect Cycle in an Undirected Graph](../04-graphs/03-cycle-and-bipartite/README.md) — Medium
+- [House Robber](../05-dynamic-programming/01-dp-intuition/README.md) — Medium
+- [Infix to Postfix Conversion](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Kruskal MST Weight](../04-graphs/07-minimum-spanning-tree/README.md) — Medium
+- [Partition a Set Into Two Subsets with Minimum Absolute Difference](../05-dynamic-programming/04-subset-and-subsequence-dp/README.md) — Medium
+- [Prim MST Weight](../04-graphs/07-minimum-spanning-tree/README.md) — Medium
+- [Print the Longest Increasing Subsequence](../05-dynamic-programming/08-longest-increasing-subsequence/README.md) — Medium
+- [Reverse Integer (Overflow)](../00-foundations/04-math-basics/README.md) — Medium
+- [Rotate Array](../01-core-linear/01-arrays/README.md) — Medium
+- [Sort a Stack Using Recursion](../02-intermediate/01-recursion/README.md) — Medium
+- [Top View of Binary Tree](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Tower of Hanoi](../02-intermediate/01-recursion/README.md) — Medium
+- [Egg Dropping Puzzle (Super Egg Drop)](../05-dynamic-programming/09-partition-and-mcm-dp/README.md) — Hard
+- [Matrix Chain Multiplication (with bracket printing)](../05-dynamic-programming/09-partition-and-mcm-dp/README.md) — Hard
+
+## LinkedIn (20)
+
+- [Isomorphic Strings](../01-core-linear/04-strings/README.md) — Easy
+- [Minimum Depth of Binary Tree](../03-trees/03-paths-lca-and-tree-properties/README.md) — Easy
+- [Binary Search Tree Iterator](../03-trees/04-binary-search-trees/README.md) — Medium
+- [Encode and Decode Strings](../01-core-linear/04-strings/README.md) — Medium
+- [Evaluate Reverse Polish Notation](../01-core-linear/10-stack-and-queue/README.md) — Medium
+- [Find the Celebrity](../06-advanced/07-game-theory-and-puzzles/README.md) — Medium
+- [Graph Valid Tree](../04-graphs/06-union-find/README.md) — Medium
+- [Insert Interval](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Kth Largest Element in an Array (Quickselect)](../02-intermediate/03-divide-and-conquer/README.md) — Medium
+- [Lowest Common Ancestor of a BST](../03-trees/04-binary-search-trees/README.md) — Medium
+- [Lowest Common Ancestor of a Binary Tree](../03-trees/03-paths-lca-and-tree-properties/README.md) — Medium
+- [Maximum Product Subarray](../05-dynamic-programming/02-one-d-dp/README.md) — Medium
+- [Maximum Subarray (D&C version)](../02-intermediate/03-divide-and-conquer/README.md) — Medium
+- [Number of Connected Components in an Undirected Graph](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Medium
+- [Permutations](../02-intermediate/02-backtracking/README.md) — Medium
+- [Permutations II](../02-intermediate/02-backtracking/README.md) — Medium
+- [Pow(x, n)](../02-intermediate/01-recursion/README.md) — Medium
+- [Pow(x, n)](../02-intermediate/03-divide-and-conquer/README.md) — Medium
+- [Pow(x, n) (Fast Exponentiation)](../00-foundations/04-math-basics/README.md) — Medium
+- [Serialize and Deserialize Binary Tree](../03-trees/02-tree-construction-and-views/README.md) — Hard
+
+## Airbnb (7)
+
+- [Happy Number](../00-foundations/04-math-basics/README.md) — Easy
+- [Cheapest Flights Within K Stops](../04-graphs/05-shortest-paths/README.md) — Medium
+- [Alien Dictionary](../04-graphs/04-topological-sort/README.md) — Hard
+- [Employee Free Time](../02-intermediate/06-intervals-and-sweep-line/README.md) — Hard
+- [Maximum Profit in Job Scheduling](../05-dynamic-programming/07-stocks/README.md) — Hard
+- [Palindrome Pairs](../03-trees/05-trie/README.md) — Hard
+- [Word Break II](../02-intermediate/02-backtracking/README.md) — Hard
+
+## Goldman Sachs (5)
+
+- [Best Time to Buy and Sell Stock II](../05-dynamic-programming/07-stocks/README.md) — Medium
+- [Minimum Number of Platforms](../02-intermediate/06-intervals-and-sweep-line/README.md) — Medium
+- [Minimum Path Sum](../05-dynamic-programming/03-grid-dp/README.md) — Medium
+- [Egg Dropping (Super Egg Drop)](../06-advanced/07-game-theory-and-puzzles/README.md) — Hard
+- [Trapping Rain Water](../01-core-linear/11-monotonic-stack-queue/README.md) — Hard
+
+## Dropbox (3)
+
+- [Design Hit Counter](../06-advanced/05-design-problems/README.md) — Medium
+- [Game of Life](../02-intermediate/08-matrix/README.md) — Medium
+- [Design In-Memory File System](../06-advanced/05-design-problems/README.md) — Hard
+
+## Samsung (3)
+
+- [Bottom View of Binary Tree](../03-trees/02-tree-construction-and-views/README.md) — Medium
+- [Longest Bitonic Subsequence](../05-dynamic-programming/08-longest-increasing-subsequence/README.md) — Medium
+- [Rat in a Maze](../02-intermediate/02-backtracking/README.md) — Medium
+
+## Amazon (commonly seen in TUF sheets) (2)
+
+- [Implement Trie II (Prefix Tree with Counts and Erase)](../03-trees/05-trie/README.md) — Medium
+- [Maximum XOR With an Element From Array](../03-trees/05-trie/README.md) — Hard
+
+## Lyft (2)
+
+- [Car Pooling](../01-core-linear/07-prefix-sum/README.md) — Medium
+- [Time Based Key-Value Store](../06-advanced/05-design-problems/README.md) — Medium
+
+## Snap (2)
+
+- [Combination Sum II](../02-intermediate/02-backtracking/README.md) — Medium
+- [Expression Add Operators](../02-intermediate/02-backtracking/README.md) — Hard
+
+## Snapchat (2)
+
+- [Walls and Gates](../04-graphs/02-grid-and-islands/README.md) — Medium
+- [Word Ladder](../04-graphs/01-graph-basics-bfs-dfs/README.md) — Hard
+
+## Walmart (2)
+
+- [Count Partitions with Given Difference](../05-dynamic-programming/04-subset-and-subsequence-dp/README.md) — Medium
+- [Rotting Oranges](../04-graphs/02-grid-and-islands/README.md) — Medium
+
+## Amazon (asked as a follow-up: "can you do it without a stack?") (1)
+
+- [Morris Traversal (Inorder and Preorder in O(1) space)](../03-trees/01-binary-tree-traversals/README.md) — Hard
+
+## Atlassian (1)
+
+- [Snapshot Array](../06-advanced/05-design-problems/README.md) — Medium
+
+## Cisco (1)
+
+- [House Robber](../05-dynamic-programming/02-one-d-dp/README.md) — Easy
+
+## Microsoft (classic TUF problem) (1)
+
+- [Preorder, Inorder and Postorder in One Traversal](../03-trees/01-binary-tree-traversals/README.md) — Medium
+
+## Stripe (1)
+
+- [Rate Limiter (Token Bucket)](../06-advanced/05-design-problems/README.md) — Medium
+
+## Twitter (1)
+
+- [Design Twitter](../06-advanced/05-design-problems/README.md) — Medium
+
+## Zoho (1)
+
+- [Infix to Postfix Conversion](../01-core-linear/10-stack-and-queue/README.md) — Medium
